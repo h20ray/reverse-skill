@@ -508,6 +508,36 @@ function Get-ReverseToolCatalog {
                 [pscustomobject]@{ Type = 'path'; Value = 'C:\Tools\bkcrack\bkcrack.exe' }
             )
         }
+        [pscustomobject]@{
+            Name = 'AssetStudio'
+            Skill = 'reverse-engineering'
+            Purpose = 'Unity 资源包 (AssetBundle) 提取'
+            VersionArgs = @()
+            Fallbacks = @(
+                [pscustomobject]@{ Type = 'command'; Value = 'AssetStudioGUI.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = (Join-Path $userProfile 'Tools\AssetStudio\AssetStudioGUI.exe') }
+            )
+        }
+        [pscustomobject]@{
+            Name = 'Il2CppDumper'
+            Skill = 'reverse-engineering'
+            Purpose = 'Il2Cpp global-metadata + libil2cpp 转 C# 结构'
+            VersionArgs = @()
+            Fallbacks = @(
+                [pscustomobject]@{ Type = 'command'; Value = 'Il2CppDumper.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = (Join-Path $userProfile 'Tools\Il2CppDumper\Il2CppDumper.exe') }
+            )
+        }
+        [pscustomobject]@{
+            Name = 'UnityPy'
+            Skill = 'reverse-engineering'
+            Purpose = 'Python Unity 资源提取/补丁 (scriptable)'
+            VersionArgs = @('--help')
+            Fallbacks = @(
+                [pscustomobject]@{ Type = 'command'; Value = 'UnityPy' },
+                [pscustomobject]@{ Type = 'path'; Value = (Join-ReverseOptionalPath -Path $appData -ChildPath 'Python\Python3xx\Scripts\UnityPy.exe') }
+            )
+        }
     )
 }
 
