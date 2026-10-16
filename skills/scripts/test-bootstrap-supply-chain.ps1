@@ -152,6 +152,16 @@ printf "pnpm|%s\n" "$*" >> "$BOOTSTRAP_PS_LOG"
     }
 
     . (Join-Path $PSScriptRoot 'bootstrap-reverse.ps1') -Capability '__test_missing__' -SkipRefresh | Out-Null
+
+    # Zip with a single top-level folder (e.g. ghidra_x_PUBLIC/) must flatten under StrictMode.
+    $zipSource = Join-Path $scratch 'zip-src'
+    New-Item -ItemType Directory -Path (Join-Path $zipSource 'tool_PUBLIC/bin') -Force | Out-Null
+    Set-Content -LiteralPath (Join-Path $zipSource 'tool_PUBLIC/bin/run.txt') -Value 'ok'
+    $zipPath = Join-Path $scratch 'single-root.zip'
+    Compress-Archive -Path (Join-Path $zipSource 'tool_PUBLIC') -DestinationPath $zipPath
+    $zipDest = Join-Path $scratch 'zip-dest'
+    Expand-ArchiveIntoDirectory -ZipPath $zipPath -Destination $zipDest
+    Assert-True (Test-Path -LiteralPath (Join-Path $zipDest 'bin/run.txt')) 'single-root zip was not flattened into destination'
     $script:gitCloneDefinition = [pscustomobject]@{
         name = 'test-git-clone'
         bootstrapKind = 'git-clone'
