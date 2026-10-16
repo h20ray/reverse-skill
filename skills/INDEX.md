@@ -18,6 +18,7 @@
 | [code-audit](code-audit/SKILL.md) | Use for authorized source-code security review and SAST workflows including Semgrep, CodeQL patterns, dangerous API hunting, and fix verification. |
 | [ctf-sandbox](ctf-sandbox/SKILL.md) | Thin PRIMARY for CTF / AWD / 靶场 multi-type orchestration. Hands off to the sidecar CTF-Sandbox-Orchestrator. Use when the user says CTF, AWD, 靶场, or 比赛题 and ... |
 | [database-security](database-security/SKILL.md) | Use for authorized database security assessment covering PostgreSQL/MySQL/MSSQL/Mongo/Redis exposure, authz, UDF/command paths, and misconfiguration review. |
+| [delphi-binary-audit](delphi-binary-audit/SKILL.md) | Delphi x64 应用程序逆向工程、破解完整性审计、多层许可证检测与后台看门狗绕过。 |
 | [diagram-generator](diagram-generator/SKILL.md) | generate, refine, validate, and render diagrams from natural language, notes, code snippets, schemas, tables, or existing diagram source. use for flowcharts,... |
 | [digital-forensics](digital-forensics/SKILL.md) | Use for authorized digital forensics including memory dumps, disk timelines, PCAP investigation, artifact triage, and IR evidence preservation. |
 | [docs-generator](docs-generator/SKILL.md) | Creates task-oriented technical documentation with progressive disclosure. Use when writing READMEs, API docs, architecture docs, or markdown documentation. |
@@ -66,6 +67,7 @@ skills/cloud-k8s/SKILL.md/
 skills/code-audit/SKILL.md/
 skills/ctf-sandbox/SKILL.md/
 skills/database-security/SKILL.md/
+skills/delphi-binary-audit/SKILL.md/
 skills/diagram-generator/SKILL.md/
 skills/digital-forensics/SKILL.md/
 skills/docs-generator/SKILL.md/

@@ -128,4 +128,28 @@ Promotion to status=validated is stricter (decision cookbook):
 | **validated** | **SHOULD >=2 independent** Evidence (best: 1 static + 1 dynamic). A single Evidence item alone MUST NOT silently promote to validated — keep candidate/preliminary, or record residual_risk + human confirm. |
 | blocked promotion | record Evidence E-insufficient-evidence |
 
+## Verdict language (settled != hedged)
+
+R4* raises the bar for **promotion to validated**. This is the mirror rule for the opposite
+failure: **hedging a result that is already settled**.
+
+| state | how to write it |
+|-------|-----------------|
+| settled by evidence | state it flat — "X is a record", "the lever is closed". No "hypothesis", no "leans toward", no ranked-hypothesis list |
+| genuinely unmeasured | name **which** measurement is missing, then stop. Do NOT hedge the claim that IS settled |
+| residual risk | state **once**, concretely, in the record's limits section |
+
+**MUST**: a conclusion whose evidence discharges the question is written as settled. A
+"leaning toward" on a measured result is a defect — it transfers uncertainty the evidence
+already removed and understates the case.
+
+**MUST NOT**: use a ranked hypothesis list on a settled question. Hypothesis language is for
+unmeasured things (ADF-R2, ADF-R3 `speculative`), and RULES Output Quality's "uncertain
+conclusions MUST be labeled" is about honestly labeling what is unknown — not about weakening
+what is known.
+
+Carefulness is demonstrated by naming the measurement and its limits, never by softening the
+verdict. This rule is about analytical boldness only; it does not relax the scope/auth gate,
+credential handling, or the request-tampering boundary.
+
 Full recipes: [nalysis-decision-framework.md](analysis-decision-framework.md) (R4*, R1, R41, R44).

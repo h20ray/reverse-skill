@@ -426,7 +426,7 @@ function Expand-ArchiveIntoDirectory {
     }
     New-Item -ItemType Directory -Path $Destination -Force | Out-Null
 
-    $children = Get-ChildItem -LiteralPath $tempExtract
+    $children = @(Get-ChildItem -LiteralPath $tempExtract)
     if ($children.Count -eq 1 -and $children[0].PSIsContainer) {
         $sourceDir = $children[0].FullName
     }

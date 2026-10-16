@@ -71,3 +71,35 @@ Authorized lab only. R61/R70/injection = detect+Evidence, no bypass tutorial. Fa
 ## 5. Checklist add-on
 
 6 language R52-R56; 7 packer tier R58-R60; 8 injection/proxy R62-R67; 9 grounded R78/R80+R41.
+
+---
+
+## 6. Verdict-language blindspot (ADF-R54)
+
+> Overlay ID **ADF-R54** (not routing's R54). Mirror of **R4\***, which raises the bar for
+> claiming *validated*. This one forbids **retreating** from a verdict the evidence already won.
+
+### ADF-R54 — verdict before hypothesis
+
+| | |
+|--|--|
+| **Trigger** | Writing up any result: an Evidence record, a Finding, a timeline `result_summary`, a report conclusion |
+| **Failure** | The evidence settles the question, but the write-up says "leans toward", "hypothesis", "likely", or ships a ranked hypothesis list |
+| **Action** | State the settled verdict **flat**. Move anything genuinely unknown into `residual_risks` / "not established", and **name the missing measurement** rather than hedging the whole claim |
+| **Evidence** | `E-over-trust-bias` is the *opposite* failure; for this one record no hedge tag — the fix is the prose itself |
+| **Companion** | R4* (validated bar), R2 (stage exit), R3 (`speculative` tag), R41 (grounded), R43 (deadlock) |
+
+**Why this is a real blindspot, not style.** Reflexive hedging feels like rigor and is the
+reverse: it transfers uncertainty the evidence already discharged, and it costs the operator the
+one thing the case exists to produce — a decision. It is also self-reinforcing: a "leaning"
+verdict invites another round of the same measurement, which is R43's deadlock loop wearing a
+lab coat. A hypothesis list on a settled question is the agent equivalent of refusing to land.
+
+**How to test it in a review.** Read the conclusion and ask: *would a different agent, given only
+the cited evidence, reach the same verdict?* If yes, the hedge is dishonest. If the evidence does
+not actually settle it, then the defect is upstream — the verdict is premature (R4* / R41), and
+that is a different fix.
+
+**Scope note.** Analytical boldness only. It does **not** relax the scope/auth hard gate,
+credential handling, or the request-tampering boundary. Refusing by scope is correctness; hedging
+a measured result is not.

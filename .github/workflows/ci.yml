@@ -45,6 +45,10 @@ jobs:
         shell: pwsh
         run: ./skills/scripts/test-parse-contracts.ps1
 
+      - name: Verdict-language contract (ADF-R54)
+        shell: pwsh
+        run: ./skills/scripts/test-verdict-language.ps1
+
       - name: Journal PR title safety
         shell: pwsh
         run: ./skills/scripts/test-workflow-title-safety.ps1

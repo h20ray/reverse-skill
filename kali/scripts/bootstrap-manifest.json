@@ -573,6 +573,45 @@
       "canAutoInstall": true,
       "verifyCommand": "bkcrack",
       "kaliNote": "传统 ZipCrypto 已知明文攻击工具；Kali/Debian 可通过 apt 安装。"
+    },
+    {
+      "name": "AssetStudio",
+      "bootstrapKind": "github-release-zip",
+      "repo": "Perfare/AssetStudio",
+      "assetRegex": "^AssetStudio\\.net472\\.v[0-9.]+\\.zip$",
+      "installDir": "~/tools/AssetStudio",
+      "docsUrl": "https://github.com/Perfare/AssetStudio",
+      "canAutoInstall": true,
+      "verifyCommand": "AssetStudio",
+      "preferApiDigest": true,
+      "note": "Unity asset bundle extractor (net472 build runs on Windows without extra runtime, or via Wine/Mono on Linux).",
+      "assetSha256": "a469f26742a5443a3216e01484a3a808608796ff22135f4d2f24f7b63ad356d8",
+      "kaliNote": "Unity asset bundle extractor. GitHub Release 下载后可使用 Mono/Wine 或配合 UnityPy 使用。"
+    },
+    {
+      "name": "Il2CppDumper",
+      "bootstrapKind": "github-release-zip",
+      "repo": "Perfare/Il2CppDumper",
+      "assetRegex": "^Il2CppDumper-net6-v[0-9.]+\\.zip$",
+      "installDir": "~/tools/Il2CppDumper",
+      "docsUrl": "https://github.com/Perfare/Il2CppDumper",
+      "canAutoInstall": true,
+      "verifyCommand": "Il2CppDumper",
+      "preferApiDigest": true,
+      "note": "Dumps global-metadata.dat + libil2cpp.so into C# structs. Requires .NET 6 runtime.",
+      "assetSha256": "db9bbbc538e33abfb057c7757ae5d6c1f16a05fdc0d13af8a5a67ea31faaba0c",
+      "kaliNote": "Unity IL2CPP 元数据还原工具。Linux 可直接运行 .NET 6 构建版本。"
+    },
+    {
+      "name": "UnityPy",
+      "bootstrapKind": "pip-package",
+      "pipPackage": "UnityPy==1.25.3",
+      "pinnedVersion": "1.25.3",
+      "docsUrl": "https://github.com/K0lb3/UnityPy",
+      "canAutoInstall": true,
+      "verifyCommand": "UnityPy",
+      "note": "Python Unity asset extraction/patching (scriptable, good for batch + headless). Complements AssetStudio GUI.",
+      "kaliNote": "Python Unity 资源提取与解包库。pipx / pip 安装。"
     }
   ]
 }

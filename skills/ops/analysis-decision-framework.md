@@ -145,6 +145,11 @@ Effort band + A-T pointers -> `E-anti-adversarial` (**no** A-T table copy).
 3. R1 low confidence -> dynamic
 4. R43 deadlock -> replan under feasibility gate
 5. R8/R23 no default malice/IOC
+6. **R54 — verdict before hypothesis** (ADF-R54, next free ID; **not** routing's R54). A settled
+   result MUST be written flat. Hedging is not caution: it downgrades a measured result to a guess
+   and understates the case. Name the missing measurement instead, or a `residual_risks` line —
+   never a hedge on the verdict. Companion to R4* (which raises the bar for claiming *validated*;
+   this one forbids retreating from it). See `evidence-finding-path.md` "Verdict language".
 
 ---
 

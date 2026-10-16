@@ -146,6 +146,26 @@ Hot path only:
 - Pentest MUST provide complete PoC (curl commands/scripts/screenshot paths)
 - Uncertain conclusions MUST be labeled with confidence level
 
+### Verdict Before Hypothesis (settled evidence MUST be stated flat)
+- **MUST** state a conclusion as settled once its evidence settles it. Do NOT re-hedge a
+  measured result behind "hypothesis", "leans toward", "leaning", or a ranked
+  hypothesis list.
+- Reflexive hedging is a defect, not caution. It downgrades a measured result to a guess
+  and hands the reader uncertainty the evidence already discharged; it reads as fear of
+  the conclusion rather than fidelity to it.
+- Carefulness is shown by **naming the measurement and its limits**, never by softening
+  the verdict:
+  - settled → state flat ("X is a record", "this lever is closed");
+  - unmeasured → name the missing measurement ("what authors `TotalDropExp` is unknown"),
+    do NOT hedge the whole claim.
+- Hypothesis language is reserved for what is genuinely unmeasured (ADF-R2). A hypothesis
+  list on a settled question is an Output Quality violation.
+- Record residual risk **once**, concretely. Do NOT repeat a disclaimer as a substitute
+  for a conclusion.
+- This is analytical boldness, **not** a relaxation of authorization. The scope hard gate,
+  the auth gate, `network_profile`, credential handling, and the request-tampering
+  boundaries are scope facts and are unaffected — refuse-by-scope is not hedging.
+
 ---
 
 ## Canonical Behavior Chain (All other files reference THIS version)
@@ -323,7 +343,7 @@ Windows (PowerShell):
 powershell -NoProfile -ExecutionPolicy Bypass -File "<SKILL_ROOT>/skills/scripts/bootstrap-reverse.ps1" -Capability @('tool_name') -StartServices
 
 Supported capability names (must match `skills/scripts/bootstrap-manifest.json`):  
-jadx, apktool, jeb-pro, frida, frida-ps, idalib-mcp, reqable-mcp, jshookmcp, xquik-mcp, anything-analyzer, idapro, r2, rabin2, adb, agent-browser, ghidra-mcp, seclists, proxycat, burpsuite-mcp, nmap, pentestswarm, binwalk, yara, pwntools, bkcrack
+jadx, apktool, jeb-pro, frida, frida-ps, idalib-mcp, reqable-mcp, jshookmcp, xquik-mcp, anything-analyzer, idapro, r2, rabin2, adb, agent-browser, ghidra-mcp, seclists, proxycat, burpsuite-mcp, nmap, pentestswarm, binwalk, yara, pwntools, bkcrack, AssetStudio, Il2CppDumper, UnityPy
 
 Do NOT invent capabilities. Tools not listed require manual install steps in the skill docs.
 ```

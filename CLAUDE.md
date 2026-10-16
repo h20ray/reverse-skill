@@ -106,3 +106,12 @@ case-review   → Evidence/Finding/Path audit → docs-generator + field-journal
 Key contracts in `skills/ops/`: `scope-contract.md` (start gate), `evidence-finding-path.md` (Evidence→Finding→Path), `role-map.md` (lead/cie/cpe/cre/cae/cbe/doc → skill), `timeline-workitem.md` (decision_delta + carry_forward_refs), `skill-supply-chain.md` (external skill/MCP install gate). `README_AI.md` is the human-facing AI bootstrap; `AGENTS.md` is the platform-neutral repo entry.
 
 **Client-neutrality**: routing core, test suite, and manifests must not depend on a specific AI client. Claude/Codex/Cursor/OpenCode connect only via their own adapters or project-instruction files; client-specific config stays optional and outside the routing contract. `skills/INDEX.md` is generated, never hard-coded to a client or module count.
+
+## Context Preservation & Decision Standard (RTK + Universal Jev)
+
+- **Tier 1 (Execution)**: Always prefix terminal and test commands with `rtk` (e.g. `rtk powershell ...`, `rtk python ...`, `rtk git ...`) to strip redundant compiler chatter, banners, and progress bars (saves 60–90% context tokens).
+- **Tier 2 (Receipts & Safety Gate)**:
+  - When test runs or tool outputs exceed 1200 characters, use `jev_receipt` to extract concise `[Jev Verified Receipt ✓]` summaries or isolate `[Jev Diagnostic Warning ⚠️]` errors.
+  - Enforce pre-flight safety using `jev_guard` before active scans or destructive actions, validating the Authorization Hard Gate (`auth.status=granted`).
+  - Use `jev_decide_choice` for fast keyword/route disambiguation and `jev_decide_noul` for sub-second verification of case authorization or evidence links.
+

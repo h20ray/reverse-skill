@@ -358,6 +358,7 @@ Java.perform(function() {
 
 | 资源 | 说明 | 链接 |
 |------|------|------|
+| MuMu ADB & Manager 指南 | MuMu 模拟器 ADB/Logcat 与 MuMuManager 调用 | [mumu-adb-guide.md](file:///c:/GitHub/reverse-skill/skills/apk-reverse/references/mumu-adb-guide.md) |
 | OWASP MASTG | 移动安全测试指南 | https://mas.owasp.org/ |
 | FridaBypassKit | 通用绕过框架 | https://github.com/okankurtuluss/FridaBypassKit |
 | SSL-bypass | 通用 SSL Pinning 绕过 | https://github.com/0xCD4/SSL-bypass |

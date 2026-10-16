@@ -73,7 +73,24 @@ function Get-ReverseToolCatalog {
             VersionArgs = @('version')
             Fallbacks = @(
                 [pscustomobject]@{ Type = 'command'; Value = 'adb' },
-                [pscustomobject]@{ Type = 'path'; Value = (Join-ReverseOptionalPath -Path $localAppData -ChildPath 'Android\Sdk\platform-tools\adb.exe') }
+                [pscustomobject]@{ Type = 'path'; Value = (Join-ReverseOptionalPath -Path $localAppData -ChildPath 'Android\Sdk\platform-tools\adb.exe') },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer\nx_device\12.0\shell\adb.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer\nx_device\15.0\shell\adb.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer\nx_main\adb.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer-12.0\shell\adb.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\MuMu\MuMuPlayerGlobal-12.0\shell\adb.exe' }
+            )
+        }
+        [pscustomobject]@{
+            Name = 'mumumanager'
+            Skill = 'apk-reverse'
+            Purpose = 'MuMu 模拟器管理与 ADB 指令透传'
+            VersionArgs = @('--help')
+            Fallbacks = @(
+                [pscustomobject]@{ Type = 'command'; Value = 'MuMuManager' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer\nx_main\MuMuManager.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer\nx_device\12.0\shell\MuMuManager.exe' },
+                [pscustomobject]@{ Type = 'path'; Value = 'C:\Program Files\Netease\MuMuPlayer-12.0\shell\MuMuManager.exe' }
             )
         }
         [pscustomobject]@{

@@ -183,6 +183,24 @@
 - 渗透测试必须给出完整的 PoC（curl 命令/脚本/截图路径）
 - 不确定的结论必须标注置信度
 
+### 结论优先于假设(已验证的结论必须平铺直述)
+
+- **MUST**:证据已经定论的结论,一律平铺直述。**禁止**再用「假设」「倾向」「疑似」「更偏
+  向」等措辞把已测量的结果重新降级为猜测,也**禁止**在已定论的问题上列出排序假设清单。
+- 反射式对冲是缺陷,不是谨慎。它把测量结果降级成猜测,把证据已经消解掉的不确定性又交还
+  给读者,读起来像是对结论的恐惧,而不是对结论的忠实。
+- 谨慎体现为**点名缺失的那一次测量及其边界**,而不是软化结论:
+  - 已定论 → 直说(「X 是一条记录」「这个杠杆已经关闭」);
+  - 未测量 → 点名缺哪次测量(「是谁写入 `TotalDropExp` 仍然未知」),**不要**把整个论断
+    对冲掉。
+- 假设性措辞只留给真正未测量的事(ADF-R2)。在已定论的问题上列出假设清单属于违反输出质量。
+- 残余风险**只写一次**,写具体。**不要**用反复重复免责声明来替代结论。
+- 本条只关乎分析上的果决,**不**放松任何授权面:scope 硬门、auth 门、`network_profile`、
+  凭据处理、请求篡改边界都是 scope 事实,不受影响——因 scope 而拒绝不是对冲。
+- R54 与 `skills/ops/analysis-decision-framework.md`(Synthesis checklist 第 6 项)、
+  `skills/ops/evidence-finding-path.md`「Verdict language」一节同源。上面的「置信度标注」
+  规则依然有效,R54 **不是**对它的废止。
+
 ---
 
 ## 完整行为链（Canonical — 所有其他文件引用此版本）
@@ -467,7 +485,7 @@ Kali Linux（Bash，含 Kali 原生工具链）：
 bash <本包根目录>/kali/scripts/bootstrap-reverse.sh 工具名 --start-services
 ```
 
-支持的能力名（与 `skills/scripts/bootstrap-manifest.json` 保持一致，共 25 项）：jadx、apktool、jeb-pro、frida、frida-ps、idalib-mcp、reqable-mcp、jshookmcp、xquik-mcp、anything-analyzer、idapro、r2、rabin2、adb、agent-browser、ghidra-mcp、seclists、proxycat、burpsuite-mcp、nmap、pentestswarm、binwalk、yara、pwntools、bkcrack
+支持的能力名（与 `skills/scripts/bootstrap-manifest.json` 保持一致，共 28 项）：jadx、apktool、jeb-pro、frida、frida-ps、idalib-mcp、reqable-mcp、jshookmcp、xquik-mcp、anything-analyzer、idapro、r2、rabin2、adb、agent-browser、ghidra-mcp、seclists、proxycat、burpsuite-mcp、nmap、pentestswarm、binwalk、yara、pwntools、bkcrack、AssetStudio、Il2CppDumper、UnityPy
 
 ## 刷新工具索引
 

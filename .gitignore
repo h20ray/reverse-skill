@@ -75,3 +75,10 @@ master-route-*/
 mcps/
 # local experiment dirs (never ship)
 *-scope-*/
+
+# swauto live-session captures (raw HubUserLogin, contains live keys/tokens)
+# NOTE: swauto/.gitignore is NOT read when git operates from this outer repo —
+# nested ignore files don't protect paths staged here, so they are pinned here.
+swauto/profile_test/
+swauto/profiles/
+swauto/*capture*.json

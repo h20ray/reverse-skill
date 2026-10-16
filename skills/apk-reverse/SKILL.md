@@ -190,14 +190,14 @@ frida -U -f com.example.app -l hook.js
 frida-trace -U -f com.example.app -j '*!*certificate*'
 ```
 
-### `adb`
+### `adb` & 模拟器工具链 (MuMu Player)
 
 用于：
 
 - 设备连接
 - 安装 APK
-- 查看日志
-- 拉取文件
+- 查看日志 (`logcat`)
+- 拉取/推送文件与执行 shell
 
 常用命令：
 
@@ -208,6 +208,15 @@ adb shell pm list packages
 adb logcat
 adb pull /data/local/tmp/file .
 ```
+
+**MuMu 模拟器专用（避免路径查找与 offline 问题）：**
+- 详细参考：`references/mumu-adb-guide.md`
+- **首选 CLI**: `& "C:\Program Files\Netease\MuMuPlayer\nx_main\MuMuManager.exe" adb -v <instance_index> -c "<adb_cmd>"`
+  - 例如查看 Logcat: `& "C:\Program Files\Netease\MuMuPlayer\nx_main\MuMuManager.exe" adb -v 1 -c "logcat -d -t 100"`
+  - 例如执行 Root Shell: `& "C:\Program Files\Netease\MuMuPlayer\nx_main\MuMuManager.exe" adb -v 1 -c "shell id"`
+- **MuMu ADB 路径**: `C:\Program Files\Netease\MuMuPlayer\nx_device\12.0\shell\adb.exe`
+- **MuMu 12 端口映射**: 实例 0 为 `127.0.0.1:16384`，实例 1 为 `127.0.0.1:16416` (`16384 + index * 32`)
+
 
 ## 推荐工作流
 
