@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>BongoCat Web PoC</title>
+<style>
+  :root{
+    --nav-h: 64px;            /* your existing bottom nav height */
+    --cat-size: 180px;        /* base cat size (mobile) */
+  }
+
+  html,body{margin:0;height:100%;background:#0f1116;overflow:hidden;
+    font-family:system-ui,-apple-system,sans-serif;-webkit-user-select:none;user-select:none;
+    -webkit-tap-highlight-color:transparent;touch-action:manipulation;}
+
+  /* Demo page content just to fill the screen */
+  .demo-content{padding:24px 16px calc(var(--nav-h) + 24px);color:#e6e6e6;height:100%;box-sizing:border-box;overflow:auto;}
+  .demo-content h1{font-size:22px;margin:0 0 8px;}
+  .demo-content p{font-size:15px;line-height:1.5;color:#9aa0a6;}
+
+  /* Bottom nav (your real app already has its own — shown here as placeholder) */
+  .bottom-nav{position:fixed;left:0;right:0;bottom:0;height:var(--nav-h);
+    display:flex;align-items:center;justify-content:space-around;
+    background:#17191f;border-top:1px solid #26282f;z-index:10;}
+  .bottom-nav button{background:none;border:0;color:#7b7f87;font-size:11px;display:flex;
+    flex-direction:column;align-items:center;gap:4px;padding:6px 12px;cursor:pointer;}
+  .bottom-nav button.active{color:#4f8cff;}
+  .bottom-nav .ico{font-size:20px;}
+
+  /* ---- The Bongo Cat (bottom-RIGHT, floats above bottom nav) ---- */
+  #bongo-wrap{position:fixed;right:10px;bottom:calc(var(--nav-h) + 6px);
+    width:var(--cat-size);height:var(--cat-size);z-index:20;pointer-events:none;}
+  #bongo{width:100%;height:100%;position:relative;pointer-events:auto;cursor:pointer;
+    transition:transform .18s ease;}
+  #bongo img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;
+    image-rendering:auto;opacity:0;transition:opacity .05s linear;}
+  #bongo img.on{opacity:1;}
+
+  /* body layer (left frames) and front layer (right frames) overlap */
+  #img-body,#img-front{object-fit:contain;}
+  #img-front{transform:translateY(8%);}   /* sit the turned cat slightly lower */
+
+  /* tap squish */
+  #bongo.squish #img-body{transform:scaleY(.92);transform-origin:bottom center;}
+  #bongo.squish #img-front{transform:scaleY(.92) translateY(8%);transform-origin:bottom center;}
+
+  @media (min-width:600px){ :root{--cat-size:230px;} }
+</style>
+</head>
+<body>
+
+<div class="demo-content">
+  <h1>Bongo Cat — PoC</h1>
+  <p>Tap / click the cat (bottom-right) to make it punch. It sits above the bottom
+  nav bar. Uses the real extracted <code>Cat</code> skin frames:
+  <code>left</code>, <code>left_punch</code>, <code>right</code>, <code>right_punch</code>.</p>
+  <p style="color:#4f8cff">Your real app's bottom nav already exists — the cat nests above it
+  via <code>bottom: calc(var(--nav-h) + 6px)</code>.</p>
+</div>
+
+<!-- Placeholder bottom nav (replace with your own) -->
+<nav class="bottom-nav">
+  <button class="active"><span class="ico">🏠</span>Home</button>
+  <button><span class="ico">📂</span>Files</button>
+  <button><span class="ico">⚙️</span>Settings</button>
+</nav>
+
+<!-- The Bongo Cat -->
+<div id="bongo-wrap">
+  <div id="bongo">
+    <!-- body layer — left idle / left punch -->
+    <img id="img-body" class="on">
+    <!-- front layer — right idle / right punch -->
+    <img id="img-front">
+  </div>
+</div>
+
+<script>
+  const SPRITES = {
+    body:  { idle:'extracted/skins/Cat/left.png', punch:'extracted/skins/Cat/left_punch.png' },
+    front: { idle:'extracted/skins/Cat/right.png', punch:'extracted/skins/Cat/right_punch.png' },
+  };
+
+  const el = document.getElementById('bongo');
+  const imgBody = document.getElementById('img-body');
+  const imgFront = document.getElementById('img-front');
+
+  // Object-URL the sprites so they load instantly (orig: ../.. relative to this file)
+  function setSprite(img, path){
+    img.src = path;               // direct relative path
+  }
+  setSprite(imgBody, SPRITES.body.idle);
+  setSprite(imgFront, SPRITES.front.idle);
+
+  const HIT_MS = 160;             // how long the punch frame stays (game ~_hitDuration)
+  let leftSide = true;            // alternate which paw hits
+  let locked = false;
+
+  function punch(){
+    if(locked) return;
+    locked = true;
+
+    if(leftSide){
+      // left paw -> body layer
+      setSprite(imgBody, SPRITES.body.punch);
+      imgBody.classList.add('on');
+      imgFront.classList.remove('on');
+    } else {
+      // right paw -> front layer
+      setSprite(imgFront, SPRITES.front.punch);
+      imgFront.classList.add('on');
+      imgBody.classList.remove('on');
+    }
+    // quick squish
+    el.classList.add('squish');
+
+    setTimeout(()=>{
+      // restore idle
+      if(leftSide){ setSprite(imgBody, SPRITES.body.idle); }
+      else        { setSprite(imgFront, SPRITES.front.idle); }
+      el.classList.remove('squish');
+      leftSide = !leftSide;       // alternate paw
+      locked = false;
+    }, HIT_MS);
+  }
+
+  el.addEventListener('pointerdown', e=>{ e.preventDefault(); punch(); });
+</script>
+</body>
+</html>

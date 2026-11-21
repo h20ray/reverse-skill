@@ -82,3 +82,9 @@ mcps/
 swauto/profile_test/
 swauto/profiles/
 swauto/*capture*.json
+
+# local-only: secrets / oversized binaries
+.mcp.json
+.codex/
+avalance/frida-server
+avalance/frida/_frida.pyd

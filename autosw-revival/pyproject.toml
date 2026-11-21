@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "autoswkit"
+version = "0.1.0"
+description = "AutoSW revival toolkit - packet envelope crypto, protocol catalog, and analysis tooling"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pycryptodome>=3.19",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+autoswkit = "autoswkit.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

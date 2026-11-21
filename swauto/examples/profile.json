@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "wizard_id": 7280513,
+  "tasks": [
+    {"task_name": "dungeon", "task_params": {"dungeon_id": 8001, "times": 3, "stage": 1, "group_id": 1}},
+    {"task_name": "toa", "task_params": {"floor": 1}},
+    {"task_name": "inventory_clean", "task_params": {"rune": true, "artifact": false}}
+  ]
+}

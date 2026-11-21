@@ -1,0 +1,1274 @@
+[
+  {
+    "name": "Alien",
+    "quality": "epic",
+    "itemdefid": "225",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Anime",
+    "quality": "common",
+    "itemdefid": "226",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Ghost",
+    "quality": "legendary",
+    "itemdefid": "227",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Halloween",
+    "quality": "uncommon",
+    "itemdefid": "228",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Hearts",
+    "quality": "rare",
+    "itemdefid": "229",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Paint",
+    "quality": "rare",
+    "itemdefid": "230",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Panda",
+    "quality": "epic",
+    "itemdefid": "231",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Pixel",
+    "quality": "uncommon",
+    "itemdefid": "232",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Porcelain",
+    "quality": "epic",
+    "itemdefid": "233",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Rainbow",
+    "quality": "rare",
+    "itemdefid": "234",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Red Panda",
+    "quality": "legendary",
+    "itemdefid": "235",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Robot",
+    "quality": "uncommon",
+    "itemdefid": "236",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Clown",
+    "quality": "common",
+    "itemdefid": "237",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Gummy",
+    "quality": "uncommon",
+    "itemdefid": "238",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Dragon",
+    "quality": "rare",
+    "itemdefid": "239",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Catuccino",
+    "quality": "legendary",
+    "itemdefid": "302",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Orange White",
+    "quality": "uncommon",
+    "itemdefid": "304",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Confused",
+    "quality": "uncommon",
+    "itemdefid": "305",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Grey Patterned",
+    "quality": "epic",
+    "itemdefid": "306",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Midnight",
+    "quality": "common",
+    "itemdefid": "307",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Orange Cat",
+    "quality": "common",
+    "itemdefid": "308",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Orange Patterned",
+    "quality": "epic",
+    "itemdefid": "309",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Butler",
+    "quality": "uncommon",
+    "itemdefid": "310",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Calico",
+    "quality": "rare",
+    "itemdefid": "311",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Bongo Dog",
+    "quality": "epic",
+    "itemdefid": "321",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Sketch",
+    "quality": "rare",
+    "itemdefid": "322",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Twisted",
+    "quality": "epic",
+    "itemdefid": "323",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Appreciation",
+    "quality": "legendary",
+    "itemdefid": "337",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Angry",
+    "quality": "common",
+    "itemdefid": "379",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Bingus",
+    "quality": "rare",
+    "itemdefid": "380",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Black",
+    "quality": "uncommon",
+    "itemdefid": "381",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Black Spotted",
+    "quality": "rare",
+    "itemdefid": "382",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Bubblegum",
+    "quality": "rare",
+    "itemdefid": "383",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Bubble",
+    "quality": "rare",
+    "itemdefid": "384",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Chocolate Ferret",
+    "quality": "legendary",
+    "itemdefid": "385",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Chocolate Siamese",
+    "quality": "epic",
+    "itemdefid": "386",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Cinnamon Siamese",
+    "quality": "epic",
+    "itemdefid": "387",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Excited",
+    "quality": "uncommon",
+    "itemdefid": "388",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Full Blue",
+    "quality": "common",
+    "itemdefid": "389",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Green",
+    "quality": "common",
+    "itemdefid": "390",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Grey",
+    "quality": "common",
+    "itemdefid": "391",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Orange",
+    "quality": "common",
+    "itemdefid": "392",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Pink",
+    "quality": "common",
+    "itemdefid": "393",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Purple",
+    "quality": "common",
+    "itemdefid": "394",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Red",
+    "quality": "common",
+    "itemdefid": "395",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Full Yellow",
+    "quality": "common",
+    "itemdefid": "396",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Happy",
+    "quality": "uncommon",
+    "itemdefid": "397",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Hungry",
+    "quality": "uncommon",
+    "itemdefid": "398",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Infatuated",
+    "quality": "uncommon",
+    "itemdefid": "399",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "In Love",
+    "quality": "rare",
+    "itemdefid": "400",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Knocked Out",
+    "quality": "uncommon",
+    "itemdefid": "401",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Laser Eyed",
+    "quality": "rare",
+    "itemdefid": "402",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Midnight Demon",
+    "quality": "legendary",
+    "itemdefid": "403",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Muscle",
+    "quality": "epic",
+    "itemdefid": "404",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Outlaw",
+    "quality": "rare",
+    "itemdefid": "405",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Patterned Calico",
+    "quality": "epic",
+    "itemdefid": "406",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Pinhata",
+    "quality": "legendary",
+    "itemdefid": "407",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Poisoned",
+    "quality": "rare",
+    "itemdefid": "408",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Shark",
+    "quality": "rare",
+    "itemdefid": "409",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Shiba Inu",
+    "quality": "legendary",
+    "itemdefid": "410",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Skeleton",
+    "quality": "epic",
+    "itemdefid": "411",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Soul",
+    "quality": "uncommon",
+    "itemdefid": "412",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Sphynx",
+    "quality": "rare",
+    "itemdefid": "413",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Striped Dawn",
+    "quality": "legendary",
+    "itemdefid": "414",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Striped Dusk",
+    "quality": "legendary",
+    "itemdefid": "415",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Stunted",
+    "quality": "common",
+    "itemdefid": "416",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Tuxedo",
+    "quality": "rare",
+    "itemdefid": "417",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Void",
+    "quality": "uncommon",
+    "itemdefid": "418",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Haiku Poet",
+    "quality": "legendary",
+    "itemdefid": "420",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Catcus",
+    "quality": "epic",
+    "itemdefid": "421",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Floaties",
+    "quality": "common",
+    "itemdefid": "422",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Hawaiian Shirt",
+    "quality": "rare",
+    "itemdefid": "423",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Majestic Mercat",
+    "quality": "legendary",
+    "itemdefid": "424",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Melting Hot",
+    "quality": "epic",
+    "itemdefid": "425",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Sand",
+    "quality": "common",
+    "itemdefid": "426",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Sunburned",
+    "quality": "uncommon",
+    "itemdefid": "427",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Sun Glow",
+    "quality": "legendary",
+    "itemdefid": "428",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Sweaty",
+    "quality": "rare",
+    "itemdefid": "429",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Wet Suit",
+    "quality": "uncommon",
+    "itemdefid": "430",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "King",
+    "quality": "legendary",
+    "itemdefid": "441",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Paddle",
+    "quality": "legendary",
+    "itemdefid": "443",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Pineapple Fusion",
+    "quality": "legendary",
+    "itemdefid": "444",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Strawberry Fusion",
+    "quality": "legendary",
+    "itemdefid": "446",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Watermelon Fusion",
+    "quality": "legendary",
+    "itemdefid": "448",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Hades",
+    "quality": "legendary",
+    "itemdefid": "450",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Zeus",
+    "quality": "legendary",
+    "itemdefid": "451",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Poseidon",
+    "quality": "legendary",
+    "itemdefid": "452",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Acorn Stick",
+    "quality": "epic",
+    "itemdefid": "562",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Bonfire Cat",
+    "quality": "legendary",
+    "itemdefid": "563",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Chipmunk",
+    "quality": "rare",
+    "itemdefid": "564",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Fawn",
+    "quality": "uncommon",
+    "itemdefid": "565",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Fox",
+    "quality": "legendary",
+    "itemdefid": "566",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Leaf Pile",
+    "quality": "epic",
+    "itemdefid": "567",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Rain Boots",
+    "quality": "uncommon",
+    "itemdefid": "568",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Red Plaid Flannel",
+    "quality": "common",
+    "itemdefid": "569",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Red Scarf",
+    "quality": "common",
+    "itemdefid": "570",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Stern Racoon",
+    "quality": "legendary",
+    "itemdefid": "571",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Eurasian Red Squirrel",
+    "quality": "legendary",
+    "itemdefid": "585",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Eastern Grey Squirrel",
+    "quality": "legendary",
+    "itemdefid": "586",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Calabrian Black Squirrel",
+    "quality": "legendary",
+    "itemdefid": "587",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Frankittystein",
+    "quality": "legendary",
+    "itemdefid": "589",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Nosfergato",
+    "quality": "legendary",
+    "itemdefid": "590",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Zombie",
+    "quality": "legendary",
+    "itemdefid": "591",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Bobby",
+    "quality": "legendary",
+    "itemdefid": "596",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Jerry",
+    "quality": "legendary",
+    "itemdefid": "597",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Luna",
+    "quality": "legendary",
+    "itemdefid": "598",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Teddy",
+    "quality": "legendary",
+    "itemdefid": "599",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Tommy",
+    "quality": "legendary",
+    "itemdefid": "600",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Adoptable Vinci",
+    "quality": "legendary",
+    "itemdefid": "601",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Cloudscrapers Pinwheel",
+    "quality": "legendary",
+    "itemdefid": "603",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Turnbound",
+    "quality": "legendary",
+    "itemdefid": "604",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bug Catcher",
+    "quality": "legendary",
+    "itemdefid": "709",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Freezing Cold",
+    "quality": "common",
+    "itemdefid": "710",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Cute Yeti",
+    "quality": "legendary",
+    "itemdefid": "711",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Ice Carved Cat",
+    "quality": "uncommon",
+    "itemdefid": "712",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Penguin",
+    "quality": "epic",
+    "itemdefid": "713",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Polar Bear",
+    "quality": "rare",
+    "itemdefid": "714",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Snow Fox",
+    "quality": "legendary",
+    "itemdefid": "715",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Snowman",
+    "quality": "rare",
+    "itemdefid": "716",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Snow Mittens",
+    "quality": "rare",
+    "itemdefid": "717",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Yellow Striped Scarf",
+    "quality": "common",
+    "itemdefid": "718",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Yuki Onna",
+    "quality": "epic",
+    "itemdefid": "719",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Angelic Kitten",
+    "quality": "legendary",
+    "itemdefid": "745",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Christmas Lights Entangler",
+    "quality": "legendary",
+    "itemdefid": "746",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Christmas Saboteur",
+    "quality": "legendary",
+    "itemdefid": "747",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Giftee",
+    "quality": "legendary",
+    "itemdefid": "748",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Gingerbread Cat",
+    "quality": "legendary",
+    "itemdefid": "749",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Green Wrapped Gift",
+    "quality": "legendary",
+    "itemdefid": "750",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Paw Patterned Christmas Sweater",
+    "quality": "legendary",
+    "itemdefid": "751",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Peppermint Sweet Tooth",
+    "quality": "legendary",
+    "itemdefid": "752",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Santas Helper Bongle",
+    "quality": "legendary",
+    "itemdefid": "753",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Toy Locomotive",
+    "quality": "legendary",
+    "itemdefid": "754",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Chocolate Sprinkle Cookie Cat",
+    "quality": "legendary",
+    "itemdefid": "770",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Festive Smoocher",
+    "quality": "legendary",
+    "itemdefid": "771",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Fine Patterned Christmas Sweater",
+    "quality": "legendary",
+    "itemdefid": "772",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Gift Shredder",
+    "quality": "legendary",
+    "itemdefid": "773",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Krampus",
+    "quality": "legendary",
+    "itemdefid": "774",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Nutcracker",
+    "quality": "legendary",
+    "itemdefid": "775",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Patterned Christmas Scarf",
+    "quality": "legendary",
+    "itemdefid": "776",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Red Nosed Reindeer",
+    "quality": "legendary",
+    "itemdefid": "777",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Santa",
+    "quality": "legendary",
+    "itemdefid": "778",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Santas Helper Bingle",
+    "quality": "legendary",
+    "itemdefid": "779",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tap Tap Tabby",
+    "quality": "legendary",
+    "itemdefid": "781",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Yang",
+    "quality": "legendary",
+    "itemdefid": "782",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Yin",
+    "quality": "legendary",
+    "itemdefid": "783",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Gold",
+    "quality": "legendary",
+    "itemdefid": "784",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Attack Mecha S.L.A.S.H.",
+    "quality": "legendary",
+    "itemdefid": "786",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Heal Mecha P.U.R.R.",
+    "quality": "legendary",
+    "itemdefid": "787",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Ranged Mecha L.A.S.E.R.",
+    "quality": "legendary",
+    "itemdefid": "788",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tank Mecha B.O.N.K.",
+    "quality": "legendary",
+    "itemdefid": "789",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Feline Valentine",
+    "quality": "legendary",
+    "itemdefid": "794",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Black Horse",
+    "quality": "uncommon",
+    "itemdefid": "807",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Brown Horse",
+    "quality": "common",
+    "itemdefid": "808",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Burning Horse",
+    "quality": "legendary",
+    "itemdefid": "809",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Dark Brown Horse",
+    "quality": "common",
+    "itemdefid": "810",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Fire Cat",
+    "quality": "legendary",
+    "itemdefid": "811",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Fire Paw",
+    "quality": "epic",
+    "itemdefid": "812",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Grey Horse",
+    "quality": "rare",
+    "itemdefid": "813",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Special Red Horse",
+    "quality": "rare",
+    "itemdefid": "814",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Torch Bearer",
+    "quality": "uncommon",
+    "itemdefid": "815",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "White Horse",
+    "quality": "common",
+    "itemdefid": "816",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Beckoning Lucky Cat",
+    "quality": "legendary",
+    "itemdefid": "829",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Brown Lantern Carrier",
+    "quality": "legendary",
+    "itemdefid": "830",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Chinese Sunset",
+    "quality": "legendary",
+    "itemdefid": "831",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Dark Red Tang Suit",
+    "quality": "legendary",
+    "itemdefid": "832",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Horse Lantern Carrier",
+    "quality": "legendary",
+    "itemdefid": "833",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Jade Cat",
+    "quality": "legendary",
+    "itemdefid": "834",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Mad Tattoo Cat",
+    "quality": "legendary",
+    "itemdefid": "835",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Orange Tang Suit",
+    "quality": "legendary",
+    "itemdefid": "836",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Pleased Panda",
+    "quality": "legendary",
+    "itemdefid": "837",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Red Fan Lady",
+    "quality": "legendary",
+    "itemdefid": "838",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Red Hanfu",
+    "quality": "legendary",
+    "itemdefid": "839",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Red Tang Suit",
+    "quality": "legendary",
+    "itemdefid": "840",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Ribbon Dancer",
+    "quality": "legendary",
+    "itemdefid": "841",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Sakura Lucky Cat",
+    "quality": "legendary",
+    "itemdefid": "843",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Scheming Lucky Cat",
+    "quality": "legendary",
+    "itemdefid": "844",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Wisdom Drummer",
+    "quality": "legendary",
+    "itemdefid": "845",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tap Tap Orange Calico",
+    "quality": "legendary",
+    "itemdefid": "904",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Amethyst",
+    "quality": "legendary",
+    "itemdefid": "913",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Diamond",
+    "quality": "legendary",
+    "itemdefid": "914",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Emerald",
+    "quality": "legendary",
+    "itemdefid": "915",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Platinum",
+    "quality": "legendary",
+    "itemdefid": "916",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Ruby",
+    "quality": "legendary",
+    "itemdefid": "917",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Sapphire",
+    "quality": "legendary",
+    "itemdefid": "918",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Beats Silver",
+    "quality": "legendary",
+    "itemdefid": "919",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Wrestler Cutie Punch",
+    "quality": "legendary",
+    "itemdefid": "928",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Wrestler Ribbit Rampage",
+    "quality": "legendary",
+    "itemdefid": "929",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Wrestler Six Seven Lives",
+    "quality": "legendary",
+    "itemdefid": "930",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Blood Splatter Cat",
+    "quality": "legendary",
+    "itemdefid": "931",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Bongo Mouse",
+    "quality": "legendary",
+    "itemdefid": "932",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Typing Farmer Cow",
+    "quality": "legendary",
+    "itemdefid": "939",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tap Tap Bunny",
+    "quality": "legendary",
+    "itemdefid": "940",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tap Tap Goo Cat",
+    "quality": "legendary",
+    "itemdefid": "941",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Tap Tap Grey Calico",
+    "quality": "legendary",
+    "itemdefid": "942",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Typing Farmer Pig",
+    "quality": "legendary",
+    "itemdefid": "953",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Moldrise Cat",
+    "quality": "legendary",
+    "itemdefid": "955",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Mothkeep Mallow",
+    "quality": "legendary",
+    "itemdefid": "956",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Stuntboost Cat",
+    "quality": "legendary",
+    "itemdefid": "957",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Dolphin",
+    "quality": "rare",
+    "itemdefid": "971",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Dumbo Octopus",
+    "quality": "legendary",
+    "itemdefid": "972",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Fish Snacking Cat",
+    "quality": "uncommon",
+    "itemdefid": "973",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Palm Tree Trunk Cat",
+    "quality": "common",
+    "itemdefid": "974",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Puffer Fish",
+    "quality": "epic",
+    "itemdefid": "975",
+    "name_color": "B939DB"
+  },
+  {
+    "name": "Tahitian Hip Hei",
+    "quality": "uncommon",
+    "itemdefid": "976",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Water Bender",
+    "quality": "rare",
+    "itemdefid": "977",
+    "name_color": "258ED4"
+  },
+  {
+    "name": "Water Cat",
+    "quality": "uncommon",
+    "itemdefid": "978",
+    "name_color": "5ACC3D"
+  },
+  {
+    "name": "Whale Shark",
+    "quality": "legendary",
+    "itemdefid": "979",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Yellow Hawaiian Shirt",
+    "quality": "common",
+    "itemdefid": "980",
+    "name_color": "B0B0B0"
+  },
+  {
+    "name": "Bumble Kitten",
+    "quality": "legendary",
+    "itemdefid": "981",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Meowxolotl",
+    "quality": "legendary",
+    "itemdefid": "982",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Sea Purrtle",
+    "quality": "legendary",
+    "itemdefid": "983",
+    "name_color": "FFB000"
+  },
+  {
+    "name": "Nightwater Cat",
+    "quality": "legendary",
+    "itemdefid": "988",
+    "name_color": "FFB000"
+  }
+]

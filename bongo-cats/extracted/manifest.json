@@ -1,0 +1,2636 @@
+{
+  "source": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\BongoCat\\BongoCat_Data\\sharedassets0.assets",
+  "quality_colors": {
+    "common": "#B0B0B0",
+    "uncommon": "#5ACC3D",
+    "rare": "#258ED4",
+    "epic": "#B939DB",
+    "legendary": "#FFB000",
+    "special": "#000000"
+  },
+  "quality_is_steam_sided": true,
+  "note": "Rarity is assigned per-account by Steam inventory item tags; not shipped on disk. Colors decoded from SteamItemBasic IL.",
+  "counts": {
+    "skin_frames": 852,
+    "hats": 143,
+    "emotes": 336,
+    "skin_icons": 213
+  },
+  "skins": {
+    "Rainbow": {
+      "frames": {
+        "left": "skins\\Rainbow\\left.png",
+        "left_punch": "skins\\Rainbow\\left_punch.png",
+        "right": "skins\\Rainbow\\right.png",
+        "right_punch": "skins\\Rainbow\\right_punch.png"
+      },
+      "icon": "quint_icons\\Rainbow.png"
+    },
+    "Appreciation": {
+      "frames": {
+        "left": "skins\\Appreciation\\left.png",
+        "left_punch": "skins\\Appreciation\\left_punch.png",
+        "right": "skins\\Appreciation\\right.png",
+        "right_punch": "skins\\Appreciation\\right_punch.png"
+      },
+      "icon": "quint_icons\\Appreciation.png"
+    },
+    "BongoBeatsSilver": {
+      "frames": {
+        "left": "skins\\BongoBeatsSilver\\left.png",
+        "left_punch": "skins\\BongoBeatsSilver\\left_punch.png",
+        "right": "skins\\BongoBeatsSilver\\right.png",
+        "right_punch": "skins\\BongoBeatsSilver\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsSilver.png"
+    },
+    "StripedDawn": {
+      "frames": {
+        "left": "skins\\StripedDawn\\left.png",
+        "left_punch": "skins\\StripedDawn\\left_punch.png",
+        "right": "skins\\StripedDawn\\right.png",
+        "right_punch": "skins\\StripedDawn\\right_punch.png"
+      },
+      "icon": "quint_icons\\StripedDawn.png"
+    },
+    "BongoDog": {
+      "frames": {
+        "left": "skins\\BongoDog\\left.png",
+        "left_punch": "skins\\BongoDog\\left_punch.png",
+        "right": "skins\\BongoDog\\right.png",
+        "right_punch": "skins\\BongoDog\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoDog.png"
+    },
+    "PufferFish": {
+      "frames": {
+        "left": "skins\\PufferFish\\left.png",
+        "left_punch": "skins\\PufferFish\\left_punch.png",
+        "right": "skins\\PufferFish\\right.png",
+        "right_punch": "skins\\PufferFish\\right_punch.png"
+      },
+      "icon": "quint_icons\\PufferFish.png"
+    },
+    "GreyHorse": {
+      "frames": {
+        "left": "skins\\GreyHorse\\left.png",
+        "left_punch": "skins\\GreyHorse\\left_punch.png",
+        "right": "skins\\GreyHorse\\right.png",
+        "right_punch": "skins\\GreyHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\GreyHorse.png"
+    },
+    "Nosfergato": {
+      "frames": {
+        "left": "skins\\Nosfergato\\left.png",
+        "left_punch": "skins\\Nosfergato\\left_punch.png",
+        "right": "skins\\Nosfergato\\right.png",
+        "right_punch": "skins\\Nosfergato\\right_punch.png"
+      },
+      "icon": "quint_icons\\Nosfergato.png"
+    },
+    "FireCat": {
+      "frames": {
+        "left": "skins\\FireCat\\left.png",
+        "left_punch": "skins\\FireCat\\left_punch.png",
+        "right": "skins\\FireCat\\right.png",
+        "right_punch": "skins\\FireCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\FireCat.png"
+    },
+    "BongoBeatsGold": {
+      "frames": {
+        "left": "skins\\BongoBeatsGold\\left.png",
+        "left_punch": "skins\\BongoBeatsGold\\left_punch.png",
+        "right": "skins\\BongoBeatsGold\\right.png",
+        "right_punch": "skins\\BongoBeatsGold\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsGold.png"
+    },
+    "WrestlerRibbitRampage": {
+      "frames": {
+        "left": "skins\\WrestlerRibbitRampage\\left.png",
+        "left_punch": "skins\\WrestlerRibbitRampage\\left_punch.png",
+        "right": "skins\\WrestlerRibbitRampage\\right.png",
+        "right_punch": "skins\\WrestlerRibbitRampage\\right_punch.png"
+      },
+      "icon": "quint_icons\\WrestlerRibbitRampage.png"
+    },
+    "BugCatcher": {
+      "frames": {
+        "left": "skins\\BugCatcher\\left.png",
+        "left_punch": "skins\\BugCatcher\\left_punch.png",
+        "right": "skins\\BugCatcher\\right.png",
+        "right_punch": "skins\\BugCatcher\\right_punch.png"
+      },
+      "icon": "quint_icons\\BugCatcher.png"
+    },
+    "FelineValentine": {
+      "frames": {
+        "left": "skins\\FelineValentine\\left.png",
+        "left_punch": "skins\\FelineValentine\\left_punch.png",
+        "right": "skins\\FelineValentine\\right.png",
+        "right_punch": "skins\\FelineValentine\\right_punch.png"
+      },
+      "icon": "quint_icons\\FelineValentine.png"
+    },
+    "WrestlerSixSevenLives": {
+      "frames": {
+        "left": "skins\\WrestlerSixSevenLives\\left.png",
+        "left_punch": "skins\\WrestlerSixSevenLives\\left_punch.png",
+        "right": "skins\\WrestlerSixSevenLives\\right.png",
+        "right_punch": "skins\\WrestlerSixSevenLives\\right_punch.png"
+      },
+      "icon": "quint_icons\\WrestlerSixSevenLives.png"
+    },
+    "Meowxolotl": {
+      "frames": {
+        "left": "skins\\Meowxolotl\\left.png",
+        "left_punch": "skins\\Meowxolotl\\left_punch.png",
+        "right": "skins\\Meowxolotl\\right.png",
+        "right_punch": "skins\\Meowxolotl\\right_punch.png"
+      },
+      "icon": "quint_icons\\Meowxolotl.png"
+    },
+    "SpecialRedHorse": {
+      "frames": {
+        "left": "skins\\SpecialRedHorse\\left.png",
+        "left_punch": "skins\\SpecialRedHorse\\left_punch.png",
+        "right": "skins\\SpecialRedHorse\\right.png",
+        "right_punch": "skins\\SpecialRedHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\SpecialRedHorse.png"
+    },
+    "Outlaw": {
+      "frames": {
+        "left": "skins\\Outlaw\\left.png",
+        "left_punch": "skins\\Outlaw\\left_punch.png",
+        "right": "skins\\Outlaw\\right.png",
+        "right_punch": "skins\\Outlaw\\right_punch.png"
+      },
+      "icon": "quint_icons\\Outlaw.png"
+    },
+    "Sphynx": {
+      "frames": {
+        "left": "skins\\Sphynx\\left.png",
+        "left_punch": "skins\\Sphynx\\left_punch.png",
+        "right": "skins\\Sphynx\\right.png",
+        "right_punch": "skins\\Sphynx\\right_punch.png"
+      },
+      "icon": "quint_icons\\Sphynx.png"
+    },
+    "Chipmunk": {
+      "frames": {
+        "left": "skins\\Chipmunk\\left.png",
+        "left_punch": "skins\\Chipmunk\\left_punch.png",
+        "right": "skins\\Chipmunk\\right.png",
+        "right_punch": "skins\\Chipmunk\\right_punch.png"
+      },
+      "icon": "quint_icons\\Chipmunk.png"
+    },
+    "MothkeepMallow": {
+      "frames": {
+        "left": "skins\\MothkeepMallow\\left.png",
+        "left_punch": "skins\\MothkeepMallow\\left_punch.png",
+        "right": "skins\\MothkeepMallow\\right.png",
+        "right_punch": "skins\\MothkeepMallow\\right_punch.png"
+      },
+      "icon": "quint_icons\\MothkeepMallow.png"
+    },
+    "SeaPurrtle": {
+      "frames": {
+        "left": "skins\\SeaPurrtle\\left.png",
+        "left_punch": "skins\\SeaPurrtle\\left_punch.png",
+        "right": "skins\\SeaPurrtle\\right.png",
+        "right_punch": "skins\\SeaPurrtle\\right_punch.png"
+      },
+      "icon": "quint_icons\\SeaPurrtle.png"
+    },
+    "LaserEyed": {
+      "frames": {
+        "left": "skins\\LaserEyed\\left.png",
+        "left_punch": "skins\\LaserEyed\\left_punch.png",
+        "right": "skins\\LaserEyed\\right.png",
+        "right_punch": "skins\\LaserEyed\\right_punch.png"
+      },
+      "icon": "quint_icons\\LaserEyed.png"
+    },
+    "Floaties": {
+      "frames": {
+        "left": "skins\\Floaties\\left.png",
+        "left_punch": "skins\\Floaties\\left_punch.png",
+        "right": "skins\\Floaties\\right.png",
+        "right_punch": "skins\\Floaties\\right_punch.png"
+      },
+      "icon": "quint_icons\\Floaties.png"
+    },
+    "FullPink": {
+      "frames": {
+        "left": "skins\\FullPink\\left.png",
+        "left_punch": "skins\\FullPink\\left_punch.png",
+        "right": "skins\\FullPink\\right.png",
+        "right_punch": "skins\\FullPink\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullPink.png"
+    },
+    "SnowFox": {
+      "frames": {
+        "left": "skins\\SnowFox\\left.png",
+        "left_punch": "skins\\SnowFox\\left_punch.png",
+        "right": "skins\\SnowFox\\right.png",
+        "right_punch": "skins\\SnowFox\\right_punch.png"
+      },
+      "icon": "quint_icons\\SnowFox.png"
+    },
+    "Void": {
+      "frames": {
+        "left": "skins\\Void\\left.png",
+        "left_punch": "skins\\Void\\left_punch.png",
+        "right": "skins\\Void\\right.png",
+        "right_punch": "skins\\Void\\right_punch.png"
+      },
+      "icon": "quint_icons\\Void.png"
+    },
+    "Excited": {
+      "frames": {
+        "left": "skins\\Excited\\left.png",
+        "left_punch": "skins\\Excited\\left_punch.png",
+        "right": "skins\\Excited\\right.png",
+        "right_punch": "skins\\Excited\\right_punch.png"
+      },
+      "icon": "quint_icons\\Excited.png"
+    },
+    "CuteYeti": {
+      "frames": {
+        "left": "skins\\CuteYeti\\left.png",
+        "left_punch": "skins\\CuteYeti\\left_punch.png",
+        "right": "skins\\CuteYeti\\right.png",
+        "right_punch": "skins\\CuteYeti\\right_punch.png"
+      },
+      "icon": "quint_icons\\CuteYeti.png"
+    },
+    "Bubble": {
+      "frames": {
+        "left": "skins\\Bubble\\left.png",
+        "left_punch": "skins\\Bubble\\left_punch.png",
+        "right": "skins\\Bubble\\right.png",
+        "right_punch": "skins\\Bubble\\right_punch.png"
+      },
+      "icon": "quint_icons\\Bubble.png"
+    },
+    "TapTapOrangeCalico": {
+      "frames": {
+        "left": "skins\\TapTapOrangeCalico\\left.png",
+        "left_punch": "skins\\TapTapOrangeCalico\\left_punch.png",
+        "right": "skins\\TapTapOrangeCalico\\right.png",
+        "right_punch": "skins\\TapTapOrangeCalico\\right_punch.png"
+      },
+      "icon": "quint_icons\\TapTapOrangeCalico.png"
+    },
+    "PeppermintSweetTooth": {
+      "frames": {
+        "left": "skins\\PeppermintSweetTooth\\left.png",
+        "left_punch": "skins\\PeppermintSweetTooth\\left_punch.png",
+        "right": "skins\\PeppermintSweetTooth\\right.png",
+        "right_punch": "skins\\PeppermintSweetTooth\\right_punch.png"
+      },
+      "icon": "quint_icons\\PeppermintSweetTooth.png"
+    },
+    "BongoBeatsSapphire": {
+      "frames": {
+        "left": "skins\\BongoBeatsSapphire\\left.png",
+        "left_punch": "skins\\BongoBeatsSapphire\\left_punch.png",
+        "right": "skins\\BongoBeatsSapphire\\right.png",
+        "right_punch": "skins\\BongoBeatsSapphire\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsSapphire.png"
+    },
+    "Sketch": {
+      "frames": {
+        "left": "skins\\Sketch\\left.png",
+        "left_punch": "skins\\Sketch\\left_punch.png",
+        "right": "skins\\Sketch\\right.png",
+        "right_punch": "skins\\Sketch\\right_punch.png"
+      },
+      "icon": "quint_icons\\Sketch.png"
+    },
+    "Clown": {
+      "frames": {
+        "left": "skins\\Clown\\left.png",
+        "left_punch": "skins\\Clown\\left_punch.png",
+        "right": "skins\\Clown\\right.png",
+        "right_punch": "skins\\Clown\\right_punch.png"
+      },
+      "icon": "quint_icons\\Clown.png"
+    },
+    "CinnamonSiamese": {
+      "frames": {
+        "left": "skins\\CinnamonSiamese\\left.png",
+        "left_punch": "skins\\CinnamonSiamese\\left_punch.png",
+        "right": "skins\\CinnamonSiamese\\right.png",
+        "right_punch": "skins\\CinnamonSiamese\\right_punch.png"
+      },
+      "icon": "quint_icons\\CinnamonSiamese.png"
+    },
+    "FullGrey": {
+      "frames": {
+        "left": "skins\\FullGrey\\left.png",
+        "left_punch": "skins\\FullGrey\\left_punch.png",
+        "right": "skins\\FullGrey\\right.png",
+        "right_punch": "skins\\FullGrey\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullGrey.png"
+    },
+    "Fawn": {
+      "frames": {
+        "left": "skins\\Fawn\\left.png",
+        "left_punch": "skins\\Fawn\\left_punch.png",
+        "right": "skins\\Fawn\\right.png",
+        "right_punch": "skins\\Fawn\\right_punch.png"
+      },
+      "icon": "quint_icons\\Fawn.png"
+    },
+    "DumboOctopus": {
+      "frames": {
+        "left": "skins\\DumboOctopus\\left.png",
+        "left_punch": "skins\\DumboOctopus\\left_punch.png",
+        "right": "skins\\DumboOctopus\\right.png",
+        "right_punch": "skins\\DumboOctopus\\right_punch.png"
+      },
+      "icon": "quint_icons\\DumboOctopus.png"
+    },
+    "FullYellow": {
+      "frames": {
+        "left": "skins\\FullYellow\\left.png",
+        "left_punch": "skins\\FullYellow\\left_punch.png",
+        "right": "skins\\FullYellow\\right.png",
+        "right_punch": "skins\\FullYellow\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullYellow.png"
+    },
+    "FullGreen": {
+      "frames": {
+        "left": "skins\\FullGreen\\left.png",
+        "left_punch": "skins\\FullGreen\\left_punch.png",
+        "right": "skins\\FullGreen\\right.png",
+        "right_punch": "skins\\FullGreen\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullGreen.png"
+    },
+    "Krampus": {
+      "frames": {
+        "left": "skins\\Krampus\\left.png",
+        "left_punch": "skins\\Krampus\\left_punch.png",
+        "right": "skins\\Krampus\\right.png",
+        "right_punch": "skins\\Krampus\\right_punch.png"
+      },
+      "icon": "quint_icons\\Krampus.png"
+    },
+    "PleasedPanda": {
+      "frames": {
+        "left": "skins\\PleasedPanda\\left.png",
+        "left_punch": "skins\\PleasedPanda\\left_punch.png",
+        "right": "skins\\PleasedPanda\\right.png",
+        "right_punch": "skins\\PleasedPanda\\right_punch.png"
+      },
+      "icon": "quint_icons\\PleasedPanda.png"
+    },
+    "SantasHelperBingle": {
+      "frames": {
+        "left": "skins\\SantasHelperBingle\\left.png",
+        "left_punch": "skins\\SantasHelperBingle\\left_punch.png",
+        "right": "skins\\SantasHelperBingle\\right.png",
+        "right_punch": "skins\\SantasHelperBingle\\right_punch.png"
+      },
+      "icon": "quint_icons\\SantasHelperBingle.png"
+    },
+    "FullRed": {
+      "frames": {
+        "left": "skins\\FullRed\\left.png",
+        "left_punch": "skins\\FullRed\\left_punch.png",
+        "right": "skins\\FullRed\\right.png",
+        "right_punch": "skins\\FullRed\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullRed.png"
+    },
+    "MoldriseCat": {
+      "frames": {
+        "left": "skins\\MoldriseCat\\left.png",
+        "left_punch": "skins\\MoldriseCat\\left_punch.png",
+        "right": "skins\\MoldriseCat\\right.png",
+        "right_punch": "skins\\MoldriseCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\MoldriseCat.png"
+    },
+    "Dragon": {
+      "frames": {
+        "left": "skins\\Dragon\\left.png",
+        "left_punch": "skins\\Dragon\\left_punch.png",
+        "right": "skins\\Dragon\\right.png",
+        "right_punch": "skins\\Dragon\\right_punch.png"
+      },
+      "icon": "quint_icons\\Dragon.png"
+    },
+    "Infatuated": {
+      "frames": {
+        "left": "skins\\Infatuated\\left.png",
+        "left_punch": "skins\\Infatuated\\left_punch.png",
+        "right": "skins\\Infatuated\\right.png",
+        "right_punch": "skins\\Infatuated\\right_punch.png"
+      },
+      "icon": "quint_icons\\Infatuated.png"
+    },
+    "ToyLocomotive": {
+      "frames": {
+        "left": "skins\\ToyLocomotive\\left.png",
+        "left_punch": "skins\\ToyLocomotive\\left_punch.png",
+        "right": "skins\\ToyLocomotive\\right.png",
+        "right_punch": "skins\\ToyLocomotive\\right_punch.png"
+      },
+      "icon": "quint_icons\\ToyLocomotive.png"
+    },
+    "King": {
+      "frames": {
+        "left": "skins\\King\\left.png",
+        "left_punch": "skins\\King\\left_punch.png",
+        "right": "skins\\King\\right.png",
+        "right_punch": "skins\\King\\right_punch.png"
+      },
+      "icon": "quint_icons\\King.png"
+    },
+    "Stunted": {
+      "frames": {
+        "left": "skins\\Stunted\\left.png",
+        "left_punch": "skins\\Stunted\\left_punch.png",
+        "right": "skins\\Stunted\\right.png",
+        "right_punch": "skins\\Stunted\\right_punch.png"
+      },
+      "icon": "quint_icons\\Stunted.png"
+    },
+    "Bingus": {
+      "frames": {
+        "left": "skins\\Bingus\\left.png",
+        "left_punch": "skins\\Bingus\\left_punch.png",
+        "right": "skins\\Bingus\\right.png",
+        "right_punch": "skins\\Bingus\\right_punch.png"
+      },
+      "icon": "quint_icons\\Bingus.png"
+    },
+    "InLove": {
+      "frames": {
+        "left": "skins\\InLove\\left.png",
+        "left_punch": "skins\\InLove\\left_punch.png",
+        "right": "skins\\InLove\\right.png",
+        "right_punch": "skins\\InLove\\right_punch.png"
+      },
+      "icon": "quint_icons\\InLove.png"
+    },
+    "RedPanda": {
+      "frames": {
+        "left": "skins\\RedPanda\\left.png",
+        "left_punch": "skins\\RedPanda\\left_punch.png",
+        "right": "skins\\RedPanda\\right.png",
+        "right_punch": "skins\\RedPanda\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedPanda.png"
+    },
+    "RedNosedReindeer": {
+      "frames": {
+        "left": "skins\\RedNosedReindeer\\left.png",
+        "left_punch": "skins\\RedNosedReindeer\\left_punch.png",
+        "right": "skins\\RedNosedReindeer\\right.png",
+        "right_punch": "skins\\RedNosedReindeer\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedNosedReindeer.png"
+    },
+    "RainBoots": {
+      "frames": {
+        "left": "skins\\RainBoots\\left.png",
+        "left_punch": "skins\\RainBoots\\left_punch.png",
+        "right": "skins\\RainBoots\\right.png",
+        "right_punch": "skins\\RainBoots\\right_punch.png"
+      },
+      "icon": "quint_icons\\RainBoots.png"
+    },
+    "JadeCat": {
+      "frames": {
+        "left": "skins\\JadeCat\\left.png",
+        "left_punch": "skins\\JadeCat\\left_punch.png",
+        "right": "skins\\JadeCat\\right.png",
+        "right_punch": "skins\\JadeCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\JadeCat.png"
+    },
+    "Soul": {
+      "frames": {
+        "left": "skins\\Soul\\left.png",
+        "left_punch": "skins\\Soul\\left_punch.png",
+        "right": "skins\\Soul\\right.png",
+        "right_punch": "skins\\Soul\\right_punch.png"
+      },
+      "icon": "quint_icons\\Soul.png"
+    },
+    "PatternedCalico": {
+      "frames": {
+        "left": "skins\\PatternedCalico\\left.png",
+        "left_punch": "skins\\PatternedCalico\\left_punch.png",
+        "right": "skins\\PatternedCalico\\right.png",
+        "right_punch": "skins\\PatternedCalico\\right_punch.png"
+      },
+      "icon": "quint_icons\\PatternedCalico.png"
+    },
+    "BloodSplatterCat": {
+      "frames": {
+        "left": "skins\\BloodSplatterCat\\left.png",
+        "left_punch": "skins\\BloodSplatterCat\\left_punch.png",
+        "right": "skins\\BloodSplatterCat\\right.png",
+        "right_punch": "skins\\BloodSplatterCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\BloodSplatterCat.png"
+    },
+    "RedScarf": {
+      "frames": {
+        "left": "skins\\RedScarf\\left.png",
+        "left_punch": "skins\\RedScarf\\left_punch.png",
+        "right": "skins\\RedScarf\\right.png",
+        "right_punch": "skins\\RedScarf\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedScarf.png"
+    },
+    "TapTapGreyCalico": {
+      "frames": {
+        "left": "skins\\TapTapGreyCalico\\left.png",
+        "left_punch": "skins\\TapTapGreyCalico\\left_punch.png",
+        "right": "skins\\TapTapGreyCalico\\right.png",
+        "right_punch": "skins\\TapTapGreyCalico\\right_punch.png"
+      },
+      "icon": "quint_icons\\TapTapGreyCalico.png"
+    },
+    "YellowHawaiianShirt": {
+      "frames": {
+        "left": "skins\\YellowHawaiianShirt\\left.png",
+        "left_punch": "skins\\YellowHawaiianShirt\\left_punch.png",
+        "right": "skins\\YellowHawaiianShirt\\right.png",
+        "right_punch": "skins\\YellowHawaiianShirt\\right_punch.png"
+      },
+      "icon": "quint_icons\\YellowHawaiianShirt.png"
+    },
+    "FinePatternedChristmasSweater": {
+      "frames": {
+        "left": "skins\\FinePatternedChristmasSweater\\left.png",
+        "left_punch": "skins\\FinePatternedChristmasSweater\\left_punch.png",
+        "right": "skins\\FinePatternedChristmasSweater\\right.png",
+        "right_punch": "skins\\FinePatternedChristmasSweater\\right_punch.png"
+      },
+      "icon": "quint_icons\\FinePatternedChristmasSweater.png"
+    },
+    "Calico": {
+      "frames": {
+        "left": "skins\\Calico\\left.png",
+        "left_punch": "skins\\Calico\\left_punch.png",
+        "right": "skins\\Calico\\right.png",
+        "right_punch": "skins\\Calico\\right_punch.png"
+      },
+      "icon": "quint_icons\\Calico.png"
+    },
+    "AdoptableTeddy": {
+      "frames": {
+        "left": "skins\\AdoptableTeddy\\left.png",
+        "left_punch": "skins\\AdoptableTeddy\\left_punch.png",
+        "right": "skins\\AdoptableTeddy\\right.png",
+        "right_punch": "skins\\AdoptableTeddy\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableTeddy.png"
+    },
+    "TapTapBunny": {
+      "frames": {
+        "left": "skins\\TapTapBunny\\left.png",
+        "left_punch": "skins\\TapTapBunny\\left_punch.png",
+        "right": "skins\\TapTapBunny\\right.png",
+        "right_punch": "skins\\TapTapBunny\\right_punch.png"
+      },
+      "icon": "quint_icons\\TapTapBunny.png"
+    },
+    "TapTapTabby": {
+      "frames": {
+        "left": "skins\\TapTapTabby\\left.png",
+        "left_punch": "skins\\TapTapTabby\\left_punch.png",
+        "right": "skins\\TapTapTabby\\right.png",
+        "right_punch": "skins\\TapTapTabby\\right_punch.png"
+      },
+      "icon": "quint_icons\\TapTapTabby.png"
+    },
+    "ChocolateSprinkleCookieCat": {
+      "frames": {
+        "left": "skins\\ChocolateSprinkleCookieCat\\left.png",
+        "left_punch": "skins\\ChocolateSprinkleCookieCat\\left_punch.png",
+        "right": "skins\\ChocolateSprinkleCookieCat\\right.png",
+        "right_punch": "skins\\ChocolateSprinkleCookieCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChocolateSprinkleCookieCat.png"
+    },
+    "RedFanLady": {
+      "frames": {
+        "left": "skins\\RedFanLady\\left.png",
+        "left_punch": "skins\\RedFanLady\\left_punch.png",
+        "right": "skins\\RedFanLady\\right.png",
+        "right_punch": "skins\\RedFanLady\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedFanLady.png"
+    },
+    "WhaleShark": {
+      "frames": {
+        "left": "skins\\WhaleShark\\left.png",
+        "left_punch": "skins\\WhaleShark\\left_punch.png",
+        "right": "skins\\WhaleShark\\right.png",
+        "right_punch": "skins\\WhaleShark\\right_punch.png"
+      },
+      "icon": "quint_icons\\WhaleShark.png"
+    },
+    "OrangeWhite": {
+      "frames": {
+        "left": "skins\\OrangeWhite\\left.png",
+        "left_punch": "skins\\OrangeWhite\\left_punch.png",
+        "right": "skins\\OrangeWhite\\right.png",
+        "right_punch": "skins\\OrangeWhite\\right_punch.png"
+      },
+      "icon": "quint_icons\\OrangeWhite.png"
+    },
+    "BumbleKitten": {
+      "frames": {
+        "left": "skins\\BumbleKitten\\left.png",
+        "left_punch": "skins\\BumbleKitten\\left_punch.png",
+        "right": "skins\\BumbleKitten\\right.png",
+        "right_punch": "skins\\BumbleKitten\\right_punch.png"
+      },
+      "icon": "quint_icons\\BumbleKitten.png"
+    },
+    "Gummy": {
+      "frames": {
+        "left": "skins\\Gummy\\left.png",
+        "left_punch": "skins\\Gummy\\left_punch.png",
+        "right": "skins\\Gummy\\right.png",
+        "right_punch": "skins\\Gummy\\right_punch.png"
+      },
+      "icon": "quint_icons\\Gummy.png"
+    },
+    "Sweaty": {
+      "frames": {
+        "left": "skins\\Sweaty\\left.png",
+        "left_punch": "skins\\Sweaty\\left_punch.png",
+        "right": "skins\\Sweaty\\right.png",
+        "right_punch": "skins\\Sweaty\\right_punch.png"
+      },
+      "icon": "quint_icons\\Sweaty.png"
+    },
+    "Twisted": {
+      "frames": {
+        "left": "skins\\Twisted\\left.png",
+        "left_punch": "skins\\Twisted\\left_punch.png",
+        "right": "skins\\Twisted\\right.png",
+        "right_punch": "skins\\Twisted\\right_punch.png"
+      },
+      "icon": "quint_icons\\Twisted.png"
+    },
+    "Confused": {
+      "frames": {
+        "left": "skins\\Confused\\left.png",
+        "left_punch": "skins\\Confused\\left_punch.png",
+        "right": "skins\\Confused\\right.png",
+        "right_punch": "skins\\Confused\\right_punch.png"
+      },
+      "icon": "quint_icons\\Confused.png"
+    },
+    "Cat": {
+      "frames": {
+        "left": "skins\\Cat\\left.png",
+        "left_punch": "skins\\Cat\\left_punch.png",
+        "right": "skins\\Cat\\right.png",
+        "right_punch": "skins\\Cat\\right_punch.png"
+      },
+      "icon": "quint_icons\\Cat.png"
+    },
+    "Giftee": {
+      "frames": {
+        "left": "skins\\Giftee\\left.png",
+        "left_punch": "skins\\Giftee\\left_punch.png",
+        "right": "skins\\Giftee\\right.png",
+        "right_punch": "skins\\Giftee\\right_punch.png"
+      },
+      "icon": "quint_icons\\Giftee.png"
+    },
+    "AttackMechaS.L.A.S.H.": {
+      "frames": {
+        "left": "skins\\AttackMechaS.L.A.S.H.\\left.png",
+        "left_punch": "skins\\AttackMechaS.L.A.S.H.\\left_punch.png",
+        "right": "skins\\AttackMechaS.L.A.S.H.\\right.png",
+        "right_punch": "skins\\AttackMechaS.L.A.S.H.\\right_punch.png"
+      },
+      "icon": "quint_icons\\AttackMechaS.L.A.S.H..png"
+    },
+    "RibbonDancer": {
+      "frames": {
+        "left": "skins\\RibbonDancer\\left.png",
+        "left_punch": "skins\\RibbonDancer\\left_punch.png",
+        "right": "skins\\RibbonDancer\\right.png",
+        "right_punch": "skins\\RibbonDancer\\right_punch.png"
+      },
+      "icon": "quint_icons\\RibbonDancer.png"
+    },
+    "Robot": {
+      "frames": {
+        "left": "skins\\Robot\\left.png",
+        "left_punch": "skins\\Robot\\left_punch.png",
+        "right": "skins\\Robot\\right.png",
+        "right_punch": "skins\\Robot\\right_punch.png"
+      },
+      "icon": "quint_icons\\Robot.png"
+    },
+    "ChristmasSaboteur": {
+      "frames": {
+        "left": "skins\\ChristmasSaboteur\\left.png",
+        "left_punch": "skins\\ChristmasSaboteur\\left_punch.png",
+        "right": "skins\\ChristmasSaboteur\\right.png",
+        "right_punch": "skins\\ChristmasSaboteur\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChristmasSaboteur.png"
+    },
+    "TypingFarmerPig": {
+      "frames": {
+        "left": "skins\\TypingFarmerPig\\left.png",
+        "left_punch": "skins\\TypingFarmerPig\\left_punch.png",
+        "right": "skins\\TypingFarmerPig\\right.png",
+        "right_punch": "skins\\TypingFarmerPig\\right_punch.png"
+      },
+      "icon": "quint_icons\\TypingFarmerPig.png"
+    },
+    "StripedDusk": {
+      "frames": {
+        "left": "skins\\StripedDusk\\left.png",
+        "left_punch": "skins\\StripedDusk\\left_punch.png",
+        "right": "skins\\StripedDusk\\right.png",
+        "right_punch": "skins\\StripedDusk\\right_punch.png"
+      },
+      "icon": "quint_icons\\StripedDusk.png"
+    },
+    "Paint": {
+      "frames": {
+        "left": "skins\\Paint\\left.png",
+        "left_punch": "skins\\Paint\\left_punch.png",
+        "right": "skins\\Paint\\right.png",
+        "right_punch": "skins\\Paint\\right_punch.png"
+      },
+      "icon": "quint_icons\\Paint.png"
+    },
+    "Penguin": {
+      "frames": {
+        "left": "skins\\Penguin\\left.png",
+        "left_punch": "skins\\Penguin\\left_punch.png",
+        "right": "skins\\Penguin\\right.png",
+        "right_punch": "skins\\Penguin\\right_punch.png"
+      },
+      "icon": "quint_icons\\Penguin.png"
+    },
+    "FullPurple": {
+      "frames": {
+        "left": "skins\\FullPurple\\left.png",
+        "left_punch": "skins\\FullPurple\\left_punch.png",
+        "right": "skins\\FullPurple\\right.png",
+        "right_punch": "skins\\FullPurple\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullPurple.png"
+    },
+    "Hades": {
+      "frames": {
+        "left": "skins\\Hades\\left.png",
+        "left_punch": "skins\\Hades\\left_punch.png",
+        "right": "skins\\Hades\\right.png",
+        "right_punch": "skins\\Hades\\right_punch.png"
+      },
+      "icon": "quint_icons\\Hades.png"
+    },
+    "PolarBear": {
+      "frames": {
+        "left": "skins\\PolarBear\\left.png",
+        "left_punch": "skins\\PolarBear\\left_punch.png",
+        "right": "skins\\PolarBear\\right.png",
+        "right_punch": "skins\\PolarBear\\right_punch.png"
+      },
+      "icon": "quint_icons\\PolarBear.png"
+    },
+    "Yang": {
+      "frames": {
+        "left": "skins\\Yang\\left.png",
+        "left_punch": "skins\\Yang\\left_punch.png",
+        "right": "skins\\Yang\\right.png",
+        "right_punch": "skins\\Yang\\right_punch.png"
+      },
+      "icon": "quint_icons\\Yang.png"
+    },
+    "Dolphin": {
+      "frames": {
+        "left": "skins\\Dolphin\\left.png",
+        "left_punch": "skins\\Dolphin\\left_punch.png",
+        "right": "skins\\Dolphin\\right.png",
+        "right_punch": "skins\\Dolphin\\right_punch.png"
+      },
+      "icon": "quint_icons\\Dolphin.png"
+    },
+    "Halloween": {
+      "frames": {
+        "left": "skins\\Halloween\\left.png",
+        "left_punch": "skins\\Halloween\\left_punch.png",
+        "right": "skins\\Halloween\\right.png",
+        "right_punch": "skins\\Halloween\\right_punch.png"
+      },
+      "icon": "quint_icons\\Halloween.png"
+    },
+    "AdoptableBobby": {
+      "frames": {
+        "left": "skins\\AdoptableBobby\\left.png",
+        "left_punch": "skins\\AdoptableBobby\\left_punch.png",
+        "right": "skins\\AdoptableBobby\\right.png",
+        "right_punch": "skins\\AdoptableBobby\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableBobby.png"
+    },
+    "OrangeTangSuit": {
+      "frames": {
+        "left": "skins\\OrangeTangSuit\\left.png",
+        "left_punch": "skins\\OrangeTangSuit\\left_punch.png",
+        "right": "skins\\OrangeTangSuit\\right.png",
+        "right_punch": "skins\\OrangeTangSuit\\right_punch.png"
+      },
+      "icon": "quint_icons\\OrangeTangSuit.png"
+    },
+    "Butler": {
+      "frames": {
+        "left": "skins\\Butler\\left.png",
+        "left_punch": "skins\\Butler\\left_punch.png",
+        "right": "skins\\Butler\\right.png",
+        "right_punch": "skins\\Butler\\right_punch.png"
+      },
+      "icon": "quint_icons\\Butler.png"
+    },
+    "SnowMittens": {
+      "frames": {
+        "left": "skins\\SnowMittens\\left.png",
+        "left_punch": "skins\\SnowMittens\\left_punch.png",
+        "right": "skins\\SnowMittens\\right.png",
+        "right_punch": "skins\\SnowMittens\\right_punch.png"
+      },
+      "icon": "quint_icons\\SnowMittens.png"
+    },
+    "Panda": {
+      "frames": {
+        "left": "skins\\Panda\\left.png",
+        "left_punch": "skins\\Panda\\left_punch.png",
+        "right": "skins\\Panda\\right.png",
+        "right_punch": "skins\\Panda\\right_punch.png"
+      },
+      "icon": "quint_icons\\Panda.png"
+    },
+    "WisdomDrummer": {
+      "frames": {
+        "left": "skins\\WisdomDrummer\\left.png",
+        "left_punch": "skins\\WisdomDrummer\\left_punch.png",
+        "right": "skins\\WisdomDrummer\\right.png",
+        "right_punch": "skins\\WisdomDrummer\\right_punch.png"
+      },
+      "icon": "quint_icons\\WisdomDrummer.png"
+    },
+    "HorseLanternCarrier": {
+      "frames": {
+        "left": "skins\\HorseLanternCarrier\\left.png",
+        "left_punch": "skins\\HorseLanternCarrier\\left_punch.png",
+        "right": "skins\\HorseLanternCarrier\\right.png",
+        "right_punch": "skins\\HorseLanternCarrier\\right_punch.png"
+      },
+      "icon": "quint_icons\\HorseLanternCarrier.png"
+    },
+    "KnockedOut": {
+      "frames": {
+        "left": "skins\\KnockedOut\\left.png",
+        "left_punch": "skins\\KnockedOut\\left_punch.png",
+        "right": "skins\\KnockedOut\\right.png",
+        "right_punch": "skins\\KnockedOut\\right_punch.png"
+      },
+      "icon": "quint_icons\\KnockedOut.png"
+    },
+    "Paddle": {
+      "frames": {
+        "left": "skins\\Paddle\\left.png",
+        "left_punch": "skins\\Paddle\\left_punch.png",
+        "right": "skins\\Paddle\\right.png",
+        "right_punch": "skins\\Paddle\\right_punch.png"
+      },
+      "icon": "quint_icons\\Paddle.png"
+    },
+    "BongoBeatsEmerald": {
+      "frames": {
+        "left": "skins\\BongoBeatsEmerald\\left.png",
+        "left_punch": "skins\\BongoBeatsEmerald\\left_punch.png",
+        "right": "skins\\BongoBeatsEmerald\\right.png",
+        "right_punch": "skins\\BongoBeatsEmerald\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsEmerald.png"
+    },
+    "ChocolateFerret": {
+      "frames": {
+        "left": "skins\\ChocolateFerret\\left.png",
+        "left_punch": "skins\\ChocolateFerret\\left_punch.png",
+        "right": "skins\\ChocolateFerret\\right.png",
+        "right_punch": "skins\\ChocolateFerret\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChocolateFerret.png"
+    },
+    "YellowStripedScarf": {
+      "frames": {
+        "left": "skins\\YellowStripedScarf\\left.png",
+        "left_punch": "skins\\YellowStripedScarf\\left_punch.png",
+        "right": "skins\\YellowStripedScarf\\right.png",
+        "right_punch": "skins\\YellowStripedScarf\\right_punch.png"
+      },
+      "icon": "quint_icons\\YellowStripedScarf.png"
+    },
+    "MajesticMercat": {
+      "frames": {
+        "left": "skins\\MajesticMercat\\left.png",
+        "left_punch": "skins\\MajesticMercat\\left_punch.png",
+        "right": "skins\\MajesticMercat\\right.png",
+        "right_punch": "skins\\MajesticMercat\\right_punch.png"
+      },
+      "icon": "quint_icons\\MajesticMercat.png"
+    },
+    "ChristmasLightsEntangler": {
+      "frames": {
+        "left": "skins\\ChristmasLightsEntangler\\left.png",
+        "left_punch": "skins\\ChristmasLightsEntangler\\left_punch.png",
+        "right": "skins\\ChristmasLightsEntangler\\right.png",
+        "right_punch": "skins\\ChristmasLightsEntangler\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChristmasLightsEntangler.png"
+    },
+    "Zeus": {
+      "frames": {
+        "left": "skins\\Zeus\\left.png",
+        "left_punch": "skins\\Zeus\\left_punch.png",
+        "right": "skins\\Zeus\\right.png",
+        "right_punch": "skins\\Zeus\\right_punch.png"
+      },
+      "icon": "quint_icons\\Zeus.png"
+    },
+    "TorchBearer": {
+      "frames": {
+        "left": "skins\\TorchBearer\\left.png",
+        "left_punch": "skins\\TorchBearer\\left_punch.png",
+        "right": "skins\\TorchBearer\\right.png",
+        "right_punch": "skins\\TorchBearer\\right_punch.png"
+      },
+      "icon": "quint_icons\\TorchBearer.png"
+    },
+    "Skeleton": {
+      "frames": {
+        "left": "skins\\Skeleton\\left.png",
+        "left_punch": "skins\\Skeleton\\left_punch.png",
+        "right": "skins\\Skeleton\\right.png",
+        "right_punch": "skins\\Skeleton\\right_punch.png"
+      },
+      "icon": "quint_icons\\Skeleton.png"
+    },
+    "LeafPile": {
+      "frames": {
+        "left": "skins\\LeafPile\\left.png",
+        "left_punch": "skins\\LeafPile\\left_punch.png",
+        "right": "skins\\LeafPile\\right.png",
+        "right_punch": "skins\\LeafPile\\right_punch.png"
+      },
+      "icon": "quint_icons\\LeafPile.png"
+    },
+    "Muscle": {
+      "frames": {
+        "left": "skins\\Muscle\\left.png",
+        "left_punch": "skins\\Muscle\\left_punch.png",
+        "right": "skins\\Muscle\\right.png",
+        "right_punch": "skins\\Muscle\\right_punch.png"
+      },
+      "icon": "quint_icons\\Muscle.png"
+    },
+    "AdoptableTommy": {
+      "frames": {
+        "left": "skins\\AdoptableTommy\\left.png",
+        "left_punch": "skins\\AdoptableTommy\\left_punch.png",
+        "right": "skins\\AdoptableTommy\\right.png",
+        "right_punch": "skins\\AdoptableTommy\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableTommy.png"
+    },
+    "TapTapGooCat": {
+      "frames": {
+        "left": "skins\\TapTapGooCat\\left.png",
+        "left_punch": "skins\\TapTapGooCat\\left_punch.png",
+        "right": "skins\\TapTapGooCat\\right.png",
+        "right_punch": "skins\\TapTapGooCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\TapTapGooCat.png"
+    },
+    "PatternedChristmasScarf": {
+      "frames": {
+        "left": "skins\\PatternedChristmasScarf\\left.png",
+        "left_punch": "skins\\PatternedChristmasScarf\\left_punch.png",
+        "right": "skins\\PatternedChristmasScarf\\right.png",
+        "right_punch": "skins\\PatternedChristmasScarf\\right_punch.png"
+      },
+      "icon": "quint_icons\\PatternedChristmasScarf.png"
+    },
+    "Turnbound": {
+      "frames": {
+        "left": "skins\\Turnbound\\left.png",
+        "left_punch": "skins\\Turnbound\\left_punch.png",
+        "right": "skins\\Turnbound\\right.png",
+        "right_punch": "skins\\Turnbound\\right_punch.png"
+      },
+      "icon": "quint_icons\\Turnbound.png"
+    },
+    "OrangeCat": {
+      "frames": {
+        "left": "skins\\OrangeCat\\left.png",
+        "left_punch": "skins\\OrangeCat\\left_punch.png",
+        "right": "skins\\OrangeCat\\right.png",
+        "right_punch": "skins\\OrangeCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\OrangeCat.png"
+    },
+    "Midnight": {
+      "frames": {
+        "left": "skins\\Midnight\\left.png",
+        "left_punch": "skins\\Midnight\\left_punch.png",
+        "right": "skins\\Midnight\\right.png",
+        "right_punch": "skins\\Midnight\\right_punch.png"
+      },
+      "icon": "quint_icons\\Midnight.png"
+    },
+    "HaikuPoet": {
+      "frames": {
+        "left": "skins\\HaikuPoet\\left.png",
+        "left_punch": "skins\\HaikuPoet\\left_punch.png",
+        "right": "skins\\HaikuPoet\\right.png",
+        "right_punch": "skins\\HaikuPoet\\right_punch.png"
+      },
+      "icon": "quint_icons\\HaikuPoet.png"
+    },
+    "WetSuit": {
+      "frames": {
+        "left": "skins\\WetSuit\\left.png",
+        "left_punch": "skins\\WetSuit\\left_punch.png",
+        "right": "skins\\WetSuit\\right.png",
+        "right_punch": "skins\\WetSuit\\right_punch.png"
+      },
+      "icon": "quint_icons\\WetSuit.png"
+    },
+    "GingerbreadCat": {
+      "frames": {
+        "left": "skins\\GingerbreadCat\\left.png",
+        "left_punch": "skins\\GingerbreadCat\\left_punch.png",
+        "right": "skins\\GingerbreadCat\\right.png",
+        "right_punch": "skins\\GingerbreadCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\GingerbreadCat.png"
+    },
+    "SakuraLuckyCat": {
+      "frames": {
+        "left": "skins\\SakuraLuckyCat\\left.png",
+        "left_punch": "skins\\SakuraLuckyCat\\left_punch.png",
+        "right": "skins\\SakuraLuckyCat\\right.png",
+        "right_punch": "skins\\SakuraLuckyCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\SakuraLuckyCat.png"
+    },
+    "Angry": {
+      "frames": {
+        "left": "skins\\Angry\\left.png",
+        "left_punch": "skins\\Angry\\left_punch.png",
+        "right": "skins\\Angry\\right.png",
+        "right_punch": "skins\\Angry\\right_punch.png"
+      },
+      "icon": "quint_icons\\Angry.png"
+    },
+    "Happy": {
+      "frames": {
+        "left": "skins\\Happy\\left.png",
+        "left_punch": "skins\\Happy\\left_punch.png",
+        "right": "skins\\Happy\\right.png",
+        "right_punch": "skins\\Happy\\right_punch.png"
+      },
+      "icon": "quint_icons\\Happy.png"
+    },
+    "Porcelain": {
+      "frames": {
+        "left": "skins\\Porcelain\\left.png",
+        "left_punch": "skins\\Porcelain\\left_punch.png",
+        "right": "skins\\Porcelain\\right.png",
+        "right_punch": "skins\\Porcelain\\right_punch.png"
+      },
+      "icon": "quint_icons\\Porcelain.png"
+    },
+    "FishSnackingCat": {
+      "frames": {
+        "left": "skins\\FishSnackingCat\\left.png",
+        "left_punch": "skins\\FishSnackingCat\\left_punch.png",
+        "right": "skins\\FishSnackingCat\\right.png",
+        "right_punch": "skins\\FishSnackingCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\FishSnackingCat.png"
+    },
+    "BonfireCat": {
+      "frames": {
+        "left": "skins\\BonfireCat\\left.png",
+        "left_punch": "skins\\BonfireCat\\left_punch.png",
+        "right": "skins\\BonfireCat\\right.png",
+        "right_punch": "skins\\BonfireCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\BonfireCat.png"
+    },
+    "StrawberryFusion": {
+      "frames": {
+        "left": "skins\\StrawberryFusion\\left.png",
+        "left_punch": "skins\\StrawberryFusion\\left_punch.png",
+        "right": "skins\\StrawberryFusion\\right.png",
+        "right_punch": "skins\\StrawberryFusion\\right_punch.png"
+      },
+      "icon": "quint_icons\\StrawberryFusion.png"
+    },
+    "Anime": {
+      "frames": {
+        "left": "skins\\Anime\\left.png",
+        "left_punch": "skins\\Anime\\left_punch.png",
+        "right": "skins\\Anime\\right.png",
+        "right_punch": "skins\\Anime\\right_punch.png"
+      },
+      "icon": "quint_icons\\Anime.png"
+    },
+    "TahitianHipHei": {
+      "frames": {
+        "left": "skins\\TahitianHipHei\\left.png",
+        "left_punch": "skins\\TahitianHipHei\\left_punch.png",
+        "right": "skins\\TahitianHipHei\\right.png",
+        "right_punch": "skins\\TahitianHipHei\\right_punch.png"
+      },
+      "icon": "quint_icons\\TahitianHipHei.png"
+    },
+    "MidnightDemon": {
+      "frames": {
+        "left": "skins\\MidnightDemon\\left.png",
+        "left_punch": "skins\\MidnightDemon\\left_punch.png",
+        "right": "skins\\MidnightDemon\\right.png",
+        "right_punch": "skins\\MidnightDemon\\right_punch.png"
+      },
+      "icon": "quint_icons\\MidnightDemon.png"
+    },
+    "GiftShredder": {
+      "frames": {
+        "left": "skins\\GiftShredder\\left.png",
+        "left_punch": "skins\\GiftShredder\\left_punch.png",
+        "right": "skins\\GiftShredder\\right.png",
+        "right_punch": "skins\\GiftShredder\\right_punch.png"
+      },
+      "icon": "quint_icons\\GiftShredder.png"
+    },
+    "BongoBeatsDiamond": {
+      "frames": {
+        "left": "skins\\BongoBeatsDiamond\\left.png",
+        "left_punch": "skins\\BongoBeatsDiamond\\left_punch.png",
+        "right": "skins\\BongoBeatsDiamond\\right.png",
+        "right_punch": "skins\\BongoBeatsDiamond\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsDiamond.png"
+    },
+    "CalabrianBlackSquirrel": {
+      "frames": {
+        "left": "skins\\CalabrianBlackSquirrel\\left.png",
+        "left_punch": "skins\\CalabrianBlackSquirrel\\left_punch.png",
+        "right": "skins\\CalabrianBlackSquirrel\\right.png",
+        "right_punch": "skins\\CalabrianBlackSquirrel\\right_punch.png"
+      },
+      "icon": "quint_icons\\CalabrianBlackSquirrel.png"
+    },
+    "BrownLanternCarrier": {
+      "frames": {
+        "left": "skins\\BrownLanternCarrier\\left.png",
+        "left_punch": "skins\\BrownLanternCarrier\\left_punch.png",
+        "right": "skins\\BrownLanternCarrier\\right.png",
+        "right_punch": "skins\\BrownLanternCarrier\\right_punch.png"
+      },
+      "icon": "quint_icons\\BrownLanternCarrier.png"
+    },
+    "Bubblegum": {
+      "frames": {
+        "left": "skins\\Bubblegum\\left.png",
+        "left_punch": "skins\\Bubblegum\\left_punch.png",
+        "right": "skins\\Bubblegum\\right.png",
+        "right_punch": "skins\\Bubblegum\\right_punch.png"
+      },
+      "icon": "quint_icons\\Bubblegum.png"
+    },
+    "WaterCat": {
+      "frames": {
+        "left": "skins\\WaterCat\\left.png",
+        "left_punch": "skins\\WaterCat\\left_punch.png",
+        "right": "skins\\WaterCat\\right.png",
+        "right_punch": "skins\\WaterCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\WaterCat.png"
+    },
+    "WrestlerCutiePunch": {
+      "frames": {
+        "left": "skins\\WrestlerCutiePunch\\left.png",
+        "left_punch": "skins\\WrestlerCutiePunch\\left_punch.png",
+        "right": "skins\\WrestlerCutiePunch\\right.png",
+        "right_punch": "skins\\WrestlerCutiePunch\\right_punch.png"
+      },
+      "icon": "quint_icons\\WrestlerCutiePunch.png"
+    },
+    "TypingFarmerCow": {
+      "frames": {
+        "left": "skins\\TypingFarmerCow\\left.png",
+        "left_punch": "skins\\TypingFarmerCow\\left_punch.png",
+        "right": "skins\\TypingFarmerCow\\right.png",
+        "right_punch": "skins\\TypingFarmerCow\\right_punch.png"
+      },
+      "icon": "quint_icons\\TypingFarmerCow.png"
+    },
+    "FreezingCold": {
+      "frames": {
+        "left": "skins\\FreezingCold\\left.png",
+        "left_punch": "skins\\FreezingCold\\left_punch.png",
+        "right": "skins\\FreezingCold\\right.png",
+        "right_punch": "skins\\FreezingCold\\right_punch.png"
+      },
+      "icon": "quint_icons\\FreezingCold.png"
+    },
+    "EasternGreySquirrel": {
+      "frames": {
+        "left": "skins\\EasternGreySquirrel\\left.png",
+        "left_punch": "skins\\EasternGreySquirrel\\left_punch.png",
+        "right": "skins\\EasternGreySquirrel\\right.png",
+        "right_punch": "skins\\EasternGreySquirrel\\right_punch.png"
+      },
+      "icon": "quint_icons\\EasternGreySquirrel.png"
+    },
+    "Poseidon": {
+      "frames": {
+        "left": "skins\\Poseidon\\left.png",
+        "left_punch": "skins\\Poseidon\\left_punch.png",
+        "right": "skins\\Poseidon\\right.png",
+        "right_punch": "skins\\Poseidon\\right_punch.png"
+      },
+      "icon": "quint_icons\\Poseidon.png"
+    },
+    "PineappleFusion": {
+      "frames": {
+        "left": "skins\\PineappleFusion\\left.png",
+        "left_punch": "skins\\PineappleFusion\\left_punch.png",
+        "right": "skins\\PineappleFusion\\right.png",
+        "right_punch": "skins\\PineappleFusion\\right_punch.png"
+      },
+      "icon": "quint_icons\\PineappleFusion.png"
+    },
+    "BlackSpotted": {
+      "frames": {
+        "left": "skins\\BlackSpotted\\left.png",
+        "left_punch": "skins\\BlackSpotted\\left_punch.png",
+        "right": "skins\\BlackSpotted\\right.png",
+        "right_punch": "skins\\BlackSpotted\\right_punch.png"
+      },
+      "icon": "quint_icons\\BlackSpotted.png"
+    },
+    "SantasHelperBongle": {
+      "frames": {
+        "left": "skins\\SantasHelperBongle\\left.png",
+        "left_punch": "skins\\SantasHelperBongle\\left_punch.png",
+        "right": "skins\\SantasHelperBongle\\right.png",
+        "right_punch": "skins\\SantasHelperBongle\\right_punch.png"
+      },
+      "icon": "quint_icons\\SantasHelperBongle.png"
+    },
+    "FestiveSmoocher": {
+      "frames": {
+        "left": "skins\\FestiveSmoocher\\left.png",
+        "left_punch": "skins\\FestiveSmoocher\\left_punch.png",
+        "right": "skins\\FestiveSmoocher\\right.png",
+        "right_punch": "skins\\FestiveSmoocher\\right_punch.png"
+      },
+      "icon": "quint_icons\\FestiveSmoocher.png"
+    },
+    "BongoBeatsRuby": {
+      "frames": {
+        "left": "skins\\BongoBeatsRuby\\left.png",
+        "left_punch": "skins\\BongoBeatsRuby\\left_punch.png",
+        "right": "skins\\BongoBeatsRuby\\right.png",
+        "right_punch": "skins\\BongoBeatsRuby\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsRuby.png"
+    },
+    "DarkBrownHorse": {
+      "frames": {
+        "left": "skins\\DarkBrownHorse\\left.png",
+        "left_punch": "skins\\DarkBrownHorse\\left_punch.png",
+        "right": "skins\\DarkBrownHorse\\right.png",
+        "right_punch": "skins\\DarkBrownHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\DarkBrownHorse.png"
+    },
+    "NightwaterCat": {
+      "frames": {
+        "left": "skins\\NightwaterCat\\left.png",
+        "left_punch": "skins\\NightwaterCat\\left_punch.png",
+        "right": "skins\\NightwaterCat\\right.png",
+        "right_punch": "skins\\NightwaterCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\NightwaterCat.png"
+    },
+    "Hearts": {
+      "frames": {
+        "left": "skins\\Hearts\\left.png",
+        "left_punch": "skins\\Hearts\\left_punch.png",
+        "right": "skins\\Hearts\\right.png",
+        "right_punch": "skins\\Hearts\\right_punch.png"
+      },
+      "icon": "quint_icons\\Hearts.png"
+    },
+    "Tuxedo": {
+      "frames": {
+        "left": "skins\\Tuxedo\\left.png",
+        "left_punch": "skins\\Tuxedo\\left_punch.png",
+        "right": "skins\\Tuxedo\\right.png",
+        "right_punch": "skins\\Tuxedo\\right_punch.png"
+      },
+      "icon": "quint_icons\\Tuxedo.png"
+    },
+    "PawPatternedChristmasSweater": {
+      "frames": {
+        "left": "skins\\PawPatternedChristmasSweater\\left.png",
+        "left_punch": "skins\\PawPatternedChristmasSweater\\left_punch.png",
+        "right": "skins\\PawPatternedChristmasSweater\\right.png",
+        "right_punch": "skins\\PawPatternedChristmasSweater\\right_punch.png"
+      },
+      "icon": "quint_icons\\PawPatternedChristmasSweater.png"
+    },
+    "BeckoningLuckyCat": {
+      "frames": {
+        "left": "skins\\BeckoningLuckyCat\\left.png",
+        "left_punch": "skins\\BeckoningLuckyCat\\left_punch.png",
+        "right": "skins\\BeckoningLuckyCat\\right.png",
+        "right_punch": "skins\\BeckoningLuckyCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\BeckoningLuckyCat.png"
+    },
+    "Sunburned": {
+      "frames": {
+        "left": "skins\\Sunburned\\left.png",
+        "left_punch": "skins\\Sunburned\\left_punch.png",
+        "right": "skins\\Sunburned\\right.png",
+        "right_punch": "skins\\Sunburned\\right_punch.png"
+      },
+      "icon": "quint_icons\\Sunburned.png"
+    },
+    "RedTangSuit": {
+      "frames": {
+        "left": "skins\\RedTangSuit\\left.png",
+        "left_punch": "skins\\RedTangSuit\\left_punch.png",
+        "right": "skins\\RedTangSuit\\right.png",
+        "right_punch": "skins\\RedTangSuit\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedTangSuit.png"
+    },
+    "BongoMouse": {
+      "frames": {
+        "left": "skins\\BongoMouse\\left.png",
+        "left_punch": "skins\\BongoMouse\\left_punch.png",
+        "right": "skins\\BongoMouse\\right.png",
+        "right_punch": "skins\\BongoMouse\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoMouse.png"
+    },
+    "AdoptableVinci": {
+      "frames": {
+        "left": "skins\\AdoptableVinci\\left.png",
+        "left_punch": "skins\\AdoptableVinci\\left_punch.png",
+        "right": "skins\\AdoptableVinci\\right.png",
+        "right_punch": "skins\\AdoptableVinci\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableVinci.png"
+    },
+    "AcornStick": {
+      "frames": {
+        "left": "skins\\AcornStick\\left.png",
+        "left_punch": "skins\\AcornStick\\left_punch.png",
+        "right": "skins\\AcornStick\\right.png",
+        "right_punch": "skins\\AcornStick\\right_punch.png"
+      },
+      "icon": "quint_icons\\AcornStick.png"
+    },
+    "ChocolateSiamese": {
+      "frames": {
+        "left": "skins\\ChocolateSiamese\\left.png",
+        "left_punch": "skins\\ChocolateSiamese\\left_punch.png",
+        "right": "skins\\ChocolateSiamese\\right.png",
+        "right_punch": "skins\\ChocolateSiamese\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChocolateSiamese.png"
+    },
+    "OrangePatterned": {
+      "frames": {
+        "left": "skins\\OrangePatterned\\left.png",
+        "left_punch": "skins\\OrangePatterned\\left_punch.png",
+        "right": "skins\\OrangePatterned\\right.png",
+        "right_punch": "skins\\OrangePatterned\\right_punch.png"
+      },
+      "icon": "quint_icons\\OrangePatterned.png"
+    },
+    "CloudscrapersPinwheel": {
+      "frames": {
+        "left": "skins\\CloudscrapersPinwheel\\left.png",
+        "left_punch": "skins\\CloudscrapersPinwheel\\left_punch.png",
+        "right": "skins\\CloudscrapersPinwheel\\right.png",
+        "right_punch": "skins\\CloudscrapersPinwheel\\right_punch.png"
+      },
+      "icon": "quint_icons\\CloudscrapersPinwheel.png"
+    },
+    "Frankittystein": {
+      "frames": {
+        "left": "skins\\Frankittystein\\left.png",
+        "left_punch": "skins\\Frankittystein\\left_punch.png",
+        "right": "skins\\Frankittystein\\right.png",
+        "right_punch": "skins\\Frankittystein\\right_punch.png"
+      },
+      "icon": "quint_icons\\Frankittystein.png"
+    },
+    "WaterBender": {
+      "frames": {
+        "left": "skins\\WaterBender\\left.png",
+        "left_punch": "skins\\WaterBender\\left_punch.png",
+        "right": "skins\\WaterBender\\right.png",
+        "right_punch": "skins\\WaterBender\\right_punch.png"
+      },
+      "icon": "quint_icons\\WaterBender.png"
+    },
+    "RedHanfu": {
+      "frames": {
+        "left": "skins\\RedHanfu\\left.png",
+        "left_punch": "skins\\RedHanfu\\left_punch.png",
+        "right": "skins\\RedHanfu\\right.png",
+        "right_punch": "skins\\RedHanfu\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedHanfu.png"
+    },
+    "Pixel": {
+      "frames": {
+        "left": "skins\\Pixel\\left.png",
+        "left_punch": "skins\\Pixel\\left_punch.png",
+        "right": "skins\\Pixel\\right.png",
+        "right_punch": "skins\\Pixel\\right_punch.png"
+      },
+      "icon": "quint_icons\\Pixel.png"
+    },
+    "AngelicKitten": {
+      "frames": {
+        "left": "skins\\AngelicKitten\\left.png",
+        "left_punch": "skins\\AngelicKitten\\left_punch.png",
+        "right": "skins\\AngelicKitten\\right.png",
+        "right_punch": "skins\\AngelicKitten\\right_punch.png"
+      },
+      "icon": "quint_icons\\AngelicKitten.png"
+    },
+    "BrownHorse": {
+      "frames": {
+        "left": "skins\\BrownHorse\\left.png",
+        "left_punch": "skins\\BrownHorse\\left_punch.png",
+        "right": "skins\\BrownHorse\\right.png",
+        "right_punch": "skins\\BrownHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\BrownHorse.png"
+    },
+    "Black": {
+      "frames": {
+        "left": "skins\\Black\\left.png",
+        "left_punch": "skins\\Black\\left_punch.png",
+        "right": "skins\\Black\\right.png",
+        "right_punch": "skins\\Black\\right_punch.png"
+      },
+      "icon": "quint_icons\\Black.png"
+    },
+    "BongoBeatsAmethyst": {
+      "frames": {
+        "left": "skins\\BongoBeatsAmethyst\\left.png",
+        "left_punch": "skins\\BongoBeatsAmethyst\\left_punch.png",
+        "right": "skins\\BongoBeatsAmethyst\\right.png",
+        "right_punch": "skins\\BongoBeatsAmethyst\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsAmethyst.png"
+    },
+    "MadTattooCat": {
+      "frames": {
+        "left": "skins\\MadTattooCat\\left.png",
+        "left_punch": "skins\\MadTattooCat\\left_punch.png",
+        "right": "skins\\MadTattooCat\\right.png",
+        "right_punch": "skins\\MadTattooCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\MadTattooCat.png"
+    },
+    "Snowman": {
+      "frames": {
+        "left": "skins\\Snowman\\left.png",
+        "left_punch": "skins\\Snowman\\left_punch.png",
+        "right": "skins\\Snowman\\right.png",
+        "right_punch": "skins\\Snowman\\right_punch.png"
+      },
+      "icon": "quint_icons\\Snowman.png"
+    },
+    "Catcus": {
+      "frames": {
+        "left": "skins\\Catcus\\left.png",
+        "left_punch": "skins\\Catcus\\left_punch.png",
+        "right": "skins\\Catcus\\right.png",
+        "right_punch": "skins\\Catcus\\right_punch.png"
+      },
+      "icon": "quint_icons\\Catcus.png"
+    },
+    "Catuccino": {
+      "frames": {
+        "left": "skins\\Catuccino\\left.png",
+        "left_punch": "skins\\Catuccino\\left_punch.png",
+        "right": "skins\\Catuccino\\right.png",
+        "right_punch": "skins\\Catuccino\\right_punch.png"
+      },
+      "icon": "quint_icons\\Catuccino.png"
+    },
+    "ChineseSunset": {
+      "frames": {
+        "left": "skins\\ChineseSunset\\left.png",
+        "left_punch": "skins\\ChineseSunset\\left_punch.png",
+        "right": "skins\\ChineseSunset\\right.png",
+        "right_punch": "skins\\ChineseSunset\\right_punch.png"
+      },
+      "icon": "quint_icons\\ChineseSunset.png"
+    },
+    "FullBlue": {
+      "frames": {
+        "left": "skins\\FullBlue\\left.png",
+        "left_punch": "skins\\FullBlue\\left_punch.png",
+        "right": "skins\\FullBlue\\right.png",
+        "right_punch": "skins\\FullBlue\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullBlue.png"
+    },
+    "MeltingHot": {
+      "frames": {
+        "left": "skins\\MeltingHot\\left.png",
+        "left_punch": "skins\\MeltingHot\\left_punch.png",
+        "right": "skins\\MeltingHot\\right.png",
+        "right_punch": "skins\\MeltingHot\\right_punch.png"
+      },
+      "icon": "quint_icons\\MeltingHot.png"
+    },
+    "RedPlaidFlannel": {
+      "frames": {
+        "left": "skins\\RedPlaidFlannel\\left.png",
+        "left_punch": "skins\\RedPlaidFlannel\\left_punch.png",
+        "right": "skins\\RedPlaidFlannel\\right.png",
+        "right_punch": "skins\\RedPlaidFlannel\\right_punch.png"
+      },
+      "icon": "quint_icons\\RedPlaidFlannel.png"
+    },
+    "Hungry": {
+      "frames": {
+        "left": "skins\\Hungry\\left.png",
+        "left_punch": "skins\\Hungry\\left_punch.png",
+        "right": "skins\\Hungry\\right.png",
+        "right_punch": "skins\\Hungry\\right_punch.png"
+      },
+      "icon": "quint_icons\\Hungry.png"
+    },
+    "Zombie": {
+      "frames": {
+        "left": "skins\\Zombie\\left.png",
+        "left_punch": "skins\\Zombie\\left_punch.png",
+        "right": "skins\\Zombie\\right.png",
+        "right_punch": "skins\\Zombie\\right_punch.png"
+      },
+      "icon": "quint_icons\\Zombie.png"
+    },
+    "AdoptableLuna": {
+      "frames": {
+        "left": "skins\\AdoptableLuna\\left.png",
+        "left_punch": "skins\\AdoptableLuna\\left_punch.png",
+        "right": "skins\\AdoptableLuna\\right.png",
+        "right_punch": "skins\\AdoptableLuna\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableLuna.png"
+    },
+    "SternRacoon": {
+      "frames": {
+        "left": "skins\\SternRacoon\\left.png",
+        "left_punch": "skins\\SternRacoon\\left_punch.png",
+        "right": "skins\\SternRacoon\\right.png",
+        "right_punch": "skins\\SternRacoon\\right_punch.png"
+      },
+      "icon": "quint_icons\\SternRacoon.png"
+    },
+    "FirePaw": {
+      "frames": {
+        "left": "skins\\FirePaw\\left.png",
+        "left_punch": "skins\\FirePaw\\left_punch.png",
+        "right": "skins\\FirePaw\\right.png",
+        "right_punch": "skins\\FirePaw\\right_punch.png"
+      },
+      "icon": "quint_icons\\FirePaw.png"
+    },
+    "Alien": {
+      "frames": {
+        "left": "skins\\Alien\\left.png",
+        "left_punch": "skins\\Alien\\left_punch.png",
+        "right": "skins\\Alien\\right.png",
+        "right_punch": "skins\\Alien\\right_punch.png"
+      },
+      "icon": "quint_icons\\Alien.png"
+    },
+    "Nutcracker": {
+      "frames": {
+        "left": "skins\\Nutcracker\\left.png",
+        "left_punch": "skins\\Nutcracker\\left_punch.png",
+        "right": "skins\\Nutcracker\\right.png",
+        "right_punch": "skins\\Nutcracker\\right_punch.png"
+      },
+      "icon": "quint_icons\\Nutcracker.png"
+    },
+    "GreenWrappedGift": {
+      "frames": {
+        "left": "skins\\GreenWrappedGift\\left.png",
+        "left_punch": "skins\\GreenWrappedGift\\left_punch.png",
+        "right": "skins\\GreenWrappedGift\\right.png",
+        "right_punch": "skins\\GreenWrappedGift\\right_punch.png"
+      },
+      "icon": "quint_icons\\GreenWrappedGift.png"
+    },
+    "BongoBeatsPlatinum": {
+      "frames": {
+        "left": "skins\\BongoBeatsPlatinum\\left.png",
+        "left_punch": "skins\\BongoBeatsPlatinum\\left_punch.png",
+        "right": "skins\\BongoBeatsPlatinum\\right.png",
+        "right_punch": "skins\\BongoBeatsPlatinum\\right_punch.png"
+      },
+      "icon": "quint_icons\\BongoBeatsPlatinum.png"
+    },
+    "RangedMechaL.A.S.E.R.": {
+      "frames": {
+        "left": "skins\\RangedMechaL.A.S.E.R.\\left.png",
+        "left_punch": "skins\\RangedMechaL.A.S.E.R.\\left_punch.png",
+        "right": "skins\\RangedMechaL.A.S.E.R.\\right.png",
+        "right_punch": "skins\\RangedMechaL.A.S.E.R.\\right_punch.png"
+      },
+      "icon": "quint_icons\\RangedMechaL.A.S.E.R..png"
+    },
+    "Ghost": {
+      "frames": {
+        "left": "skins\\Ghost\\left.png",
+        "left_punch": "skins\\Ghost\\left_punch.png",
+        "right": "skins\\Ghost\\right.png",
+        "right_punch": "skins\\Ghost\\right_punch.png"
+      },
+      "icon": "quint_icons\\Ghost.png"
+    },
+    "Santa": {
+      "frames": {
+        "left": "skins\\Santa\\left.png",
+        "left_punch": "skins\\Santa\\left_punch.png",
+        "right": "skins\\Santa\\right.png",
+        "right_punch": "skins\\Santa\\right_punch.png"
+      },
+      "icon": "quint_icons\\Santa.png"
+    },
+    "SunGlow": {
+      "frames": {
+        "left": "skins\\SunGlow\\left.png",
+        "left_punch": "skins\\SunGlow\\left_punch.png",
+        "right": "skins\\SunGlow\\right.png",
+        "right_punch": "skins\\SunGlow\\right_punch.png"
+      },
+      "icon": "quint_icons\\SunGlow.png"
+    },
+    "Poisoned": {
+      "frames": {
+        "left": "skins\\Poisoned\\left.png",
+        "left_punch": "skins\\Poisoned\\left_punch.png",
+        "right": "skins\\Poisoned\\right.png",
+        "right_punch": "skins\\Poisoned\\right_punch.png"
+      },
+      "icon": "quint_icons\\Poisoned.png"
+    },
+    "TankMechaB.O.N.K.": {
+      "frames": {
+        "left": "skins\\TankMechaB.O.N.K.\\left.png",
+        "left_punch": "skins\\TankMechaB.O.N.K.\\left_punch.png",
+        "right": "skins\\TankMechaB.O.N.K.\\right.png",
+        "right_punch": "skins\\TankMechaB.O.N.K.\\right_punch.png"
+      },
+      "icon": "quint_icons\\TankMechaB.O.N.K..png"
+    },
+    "Pinhata": {
+      "frames": {
+        "left": "skins\\Pinhata\\left.png",
+        "left_punch": "skins\\Pinhata\\left_punch.png",
+        "right": "skins\\Pinhata\\right.png",
+        "right_punch": "skins\\Pinhata\\right_punch.png"
+      },
+      "icon": "quint_icons\\Pinhata.png"
+    },
+    "HealMechaP.U.R.R.": {
+      "frames": {
+        "left": "skins\\HealMechaP.U.R.R.\\left.png",
+        "left_punch": "skins\\HealMechaP.U.R.R.\\left_punch.png",
+        "right": "skins\\HealMechaP.U.R.R.\\right.png",
+        "right_punch": "skins\\HealMechaP.U.R.R.\\right_punch.png"
+      },
+      "icon": "quint_icons\\HealMechaP.U.R.R..png"
+    },
+    "BlackHorse": {
+      "frames": {
+        "left": "skins\\BlackHorse\\left.png",
+        "left_punch": "skins\\BlackHorse\\left_punch.png",
+        "right": "skins\\BlackHorse\\right.png",
+        "right_punch": "skins\\BlackHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\BlackHorse.png"
+    },
+    "WatermelonFusion": {
+      "frames": {
+        "left": "skins\\WatermelonFusion\\left.png",
+        "left_punch": "skins\\WatermelonFusion\\left_punch.png",
+        "right": "skins\\WatermelonFusion\\right.png",
+        "right_punch": "skins\\WatermelonFusion\\right_punch.png"
+      },
+      "icon": "quint_icons\\WatermelonFusion.png"
+    },
+    "IceCarvedCat": {
+      "frames": {
+        "left": "skins\\IceCarvedCat\\left.png",
+        "left_punch": "skins\\IceCarvedCat\\left_punch.png",
+        "right": "skins\\IceCarvedCat\\right.png",
+        "right_punch": "skins\\IceCarvedCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\IceCarvedCat.png"
+    },
+    "DarkRedTangSuit": {
+      "frames": {
+        "left": "skins\\DarkRedTangSuit\\left.png",
+        "left_punch": "skins\\DarkRedTangSuit\\left_punch.png",
+        "right": "skins\\DarkRedTangSuit\\right.png",
+        "right_punch": "skins\\DarkRedTangSuit\\right_punch.png"
+      },
+      "icon": "quint_icons\\DarkRedTangSuit.png"
+    },
+    "ShibaInu": {
+      "frames": {
+        "left": "skins\\ShibaInu\\left.png",
+        "left_punch": "skins\\ShibaInu\\left_punch.png",
+        "right": "skins\\ShibaInu\\right.png",
+        "right_punch": "skins\\ShibaInu\\right_punch.png"
+      },
+      "icon": "quint_icons\\ShibaInu.png"
+    },
+    "Shark": {
+      "frames": {
+        "left": "skins\\Shark\\left.png",
+        "left_punch": "skins\\Shark\\left_punch.png",
+        "right": "skins\\Shark\\right.png",
+        "right_punch": "skins\\Shark\\right_punch.png"
+      },
+      "icon": "quint_icons\\Shark.png"
+    },
+    "Yin": {
+      "frames": {
+        "left": "skins\\Yin\\left.png",
+        "left_punch": "skins\\Yin\\left_punch.png",
+        "right": "skins\\Yin\\right.png",
+        "right_punch": "skins\\Yin\\right_punch.png"
+      },
+      "icon": "quint_icons\\Yin.png"
+    },
+    "EurasianRedSquirrel": {
+      "frames": {
+        "left": "skins\\EurasianRedSquirrel\\left.png",
+        "left_punch": "skins\\EurasianRedSquirrel\\left_punch.png",
+        "right": "skins\\EurasianRedSquirrel\\right.png",
+        "right_punch": "skins\\EurasianRedSquirrel\\right_punch.png"
+      },
+      "icon": "quint_icons\\EurasianRedSquirrel.png"
+    },
+    "FullOrange": {
+      "frames": {
+        "left": "skins\\FullOrange\\left.png",
+        "left_punch": "skins\\FullOrange\\left_punch.png",
+        "right": "skins\\FullOrange\\right.png",
+        "right_punch": "skins\\FullOrange\\right_punch.png"
+      },
+      "icon": "quint_icons\\FullOrange.png"
+    },
+    "BurningHorse": {
+      "frames": {
+        "left": "skins\\BurningHorse\\left.png",
+        "left_punch": "skins\\BurningHorse\\left_punch.png",
+        "right": "skins\\BurningHorse\\right.png",
+        "right_punch": "skins\\BurningHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\BurningHorse.png"
+    },
+    "Sand": {
+      "frames": {
+        "left": "skins\\Sand\\left.png",
+        "left_punch": "skins\\Sand\\left_punch.png",
+        "right": "skins\\Sand\\right.png",
+        "right_punch": "skins\\Sand\\right_punch.png"
+      },
+      "icon": "quint_icons\\Sand.png"
+    },
+    "StuntboostCat": {
+      "frames": {
+        "left": "skins\\StuntboostCat\\left.png",
+        "left_punch": "skins\\StuntboostCat\\left_punch.png",
+        "right": "skins\\StuntboostCat\\right.png",
+        "right_punch": "skins\\StuntboostCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\StuntboostCat.png"
+    },
+    "WhiteHorse": {
+      "frames": {
+        "left": "skins\\WhiteHorse\\left.png",
+        "left_punch": "skins\\WhiteHorse\\left_punch.png",
+        "right": "skins\\WhiteHorse\\right.png",
+        "right_punch": "skins\\WhiteHorse\\right_punch.png"
+      },
+      "icon": "quint_icons\\WhiteHorse.png"
+    },
+    "YukiOnna": {
+      "frames": {
+        "left": "skins\\YukiOnna\\left.png",
+        "left_punch": "skins\\YukiOnna\\left_punch.png",
+        "right": "skins\\YukiOnna\\right.png",
+        "right_punch": "skins\\YukiOnna\\right_punch.png"
+      },
+      "icon": "quint_icons\\YukiOnna.png"
+    },
+    "PalmTreeTrunkCat": {
+      "frames": {
+        "left": "skins\\PalmTreeTrunkCat\\left.png",
+        "left_punch": "skins\\PalmTreeTrunkCat\\left_punch.png",
+        "right": "skins\\PalmTreeTrunkCat\\right.png",
+        "right_punch": "skins\\PalmTreeTrunkCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\PalmTreeTrunkCat.png"
+    },
+    "SchemingLuckyCat": {
+      "frames": {
+        "left": "skins\\SchemingLuckyCat\\left.png",
+        "left_punch": "skins\\SchemingLuckyCat\\left_punch.png",
+        "right": "skins\\SchemingLuckyCat\\right.png",
+        "right_punch": "skins\\SchemingLuckyCat\\right_punch.png"
+      },
+      "icon": "quint_icons\\SchemingLuckyCat.png"
+    },
+    "Fox": {
+      "frames": {
+        "left": "skins\\Fox\\left.png",
+        "left_punch": "skins\\Fox\\left_punch.png",
+        "right": "skins\\Fox\\right.png",
+        "right_punch": "skins\\Fox\\right_punch.png"
+      },
+      "icon": "quint_icons\\Fox.png"
+    },
+    "GreyPatterned": {
+      "frames": {
+        "left": "skins\\GreyPatterned\\left.png",
+        "left_punch": "skins\\GreyPatterned\\left_punch.png",
+        "right": "skins\\GreyPatterned\\right.png",
+        "right_punch": "skins\\GreyPatterned\\right_punch.png"
+      },
+      "icon": "quint_icons\\GreyPatterned.png"
+    },
+    "AdoptableJerry": {
+      "frames": {
+        "left": "skins\\AdoptableJerry\\left.png",
+        "left_punch": "skins\\AdoptableJerry\\left_punch.png",
+        "right": "skins\\AdoptableJerry\\right.png",
+        "right_punch": "skins\\AdoptableJerry\\right_punch.png"
+      },
+      "icon": "quint_icons\\AdoptableJerry.png"
+    },
+    "HawaiianShirt": {
+      "frames": {
+        "left": "skins\\HawaiianShirt\\left.png",
+        "left_punch": "skins\\HawaiianShirt\\left_punch.png",
+        "right": "skins\\HawaiianShirt\\right.png",
+        "right_punch": "skins\\HawaiianShirt\\right_punch.png"
+      },
+      "icon": "quint_icons\\HawaiianShirt.png"
+    }
+  },
+  "hats": {
+    "AcornCap": "hats\\AcornCap.png",
+    "AlienAntenna": "hats\\AlienAntenna.png",
+    "AngelHalo": "hats\\AngelHalo.png",
+    "AnimeBoyHair": "hats\\AnimeBoyHair.png",
+    "AnimeGirlHair": "hats\\AnimeGirlHair.png",
+    "AutumnDragonflyWings": "hats\\AutumnDragonflyWings.png",
+    "AutumnLeafCrown": "hats\\AutumnLeafCrown.png",
+    "AviatorHat": "hats\\AviatorHat.png",
+    "BedazzledTurban": "hats\\BedazzledTurban.png",
+    "Beret": "hats\\Beret.png",
+    "BigPumpkinHat": "hats\\BigPumpkinHat.png",
+    "BlackWizardHat": "hats\\BlackWizardHat.png",
+    "BlueBeretCap": "hats\\BlueBeretCap.png",
+    "BlueCrown": "hats\\BlueCrown.png",
+    "BluePainterBeret": "hats\\BluePainterBeret.png",
+    "BluePartyHat": "hats\\BluePartyHat.png",
+    "BlueTophat": "hats\\BlueTophat.png",
+    "BongoBeatsGoldCrown": "hats\\BongoBeatsGoldCrown.png",
+    "BongoBeatsPlatinumCrown": "hats\\BongoBeatsPlatinumCrown.png",
+    "BongoBeatsSilverCrown": "hats\\BongoBeatsSilverCrown.png",
+    "BongoCatHat": "hats\\BongoCatHat.png",
+    "BountyHunterBandana": "hats\\BountyHunterBandana.png",
+    "BrownFleeceEarmuffs": "hats\\BrownFleeceEarmuffs.png",
+    "BunnyEars": "hats\\BunnyEars.png",
+    "CaptainHat": "hats\\CaptainHat.png",
+    "CarrionCrowWings": "hats\\CarrionCrowWings.png",
+    "ChefHat": "hats\\ChefHat.png",
+    "ChefHatLarge": "hats\\ChefHatLarge.png",
+    "ChristmasTreePartyHeadband": "hats\\ChristmasTreePartyHeadband.png",
+    "ClownHair": "hats\\ClownHair.png",
+    "ClownHat": "hats\\ClownHat.png",
+    "CodePoliceHat": "hats\\CodePoliceHat.png",
+    "ConstanceHair": "hats\\ConstanceHair.png",
+    "CoolSunglasses": "hats\\CoolSunglasses.png",
+    "CowboyHat": "hats\\CowboyHat.png",
+    "CowboyHatVariant": "hats\\CowboyHatVariant.png",
+    "Crown": "hats\\Crown.png",
+    "DevilHorns": "hats\\DevilHorns.png",
+    "DragonWings": "hats\\DragonWings.png",
+    "EarfitPompomHat": "hats\\EarfitPompomHat.png",
+    "FaceFearEmoji": "hats\\FaceFearEmoji.png",
+    "FaceHaloEmoji": "hats\\FaceHaloEmoji.png",
+    "FaceHeartSmileEmoji": "hats\\FaceHeartSmileEmoji.png",
+    "FaceSingleTearEmoji": "hats\\FaceSingleTearEmoji.png",
+    "FairyFlowerHat": "hats\\FairyFlowerHat.png",
+    "FallingBowlingBall": "hats\\FallingBowlingBall.png",
+    "FancyFez": "hats\\FancyFez.png",
+    "FewHearts": "hats\\FewHearts.png",
+    "FlowerCrown": "hats\\FlowerCrown.png",
+    "FlowerGlasses": "hats\\FlowerGlasses.png",
+    "FrostyHorns": "hats\\FrostyHorns.png",
+    "GamerCap": "hats\\GamerCap.png",
+    "GoldTophat": "hats\\GoldTophat.png",
+    "GraduationHat": "hats\\GraduationHat.png",
+    "GrandJesterHat": "hats\\GrandJesterHat.png",
+    "GreaserHair": "hats\\GreaserHair.png",
+    "GreenGnomeHat": "hats\\GreenGnomeHat.png",
+    "GreenPartyHat": "hats\\GreenPartyHat.png",
+    "GreenPirateBandana": "hats\\GreenPirateBandana.png",
+    "GrouchoGlasses": "hats\\GrouchoGlasses.png",
+    "GummyBear": "hats\\GummyBear.png",
+    "HarvestingStrawHat": "hats\\HarvestingStrawHat.png",
+    "Headphones": "hats\\Headphones.png",
+    "HeartBaseEmoji": "hats\\HeartBaseEmoji.png",
+    "HeartBrokenEmoji": "hats\\HeartBrokenEmoji.png",
+    "HeartChocolate": "hats\\HeartChocolate.png",
+    "HeartGifted": "hats\\HeartGifted.png",
+    "HeartMendedEmoji": "hats\\HeartMendedEmoji.png",
+    "HeartShotEmoji": "hats\\HeartShotEmoji.png",
+    "HeartSparklingEmoji": "hats\\HeartSparklingEmoji.png",
+    "HornedVikingHelmet": "hats\\HornedVikingHelmet.png",
+    "HyperPartyHat": "hats\\HyperPartyHat.png",
+    "InkJarRiceHat": "hats\\InkJarRiceHat.png",
+    "JesterHat": "hats\\JesterHat.png",
+    "JokersHat": "hats\\JokersHat.png",
+    "KnittedAutumnHat": "hats\\KnittedAutumnHat.png",
+    "KrampusHorns": "hats\\KrampusHorns.png",
+    "LionDanceHat": "hats\\LionDanceHat.png",
+    "LongBunnyEars": "hats\\LongBunnyEars.png",
+    "LuciaCrown": "hats\\LuciaCrown.png",
+    "ManyHearts": "hats\\ManyHearts.png",
+    "MelonHat": "hats\\MelonHat.png",
+    "MightyGoldenCrown": "hats\\MightyGoldenCrown.png",
+    "MonarchButterflyWings": "hats\\MonarchButterflyWings.png",
+    "MonsterBoneSpear": "hats\\MonsterBoneSpear.png",
+    "MothkeepGlasses": "hats\\MothkeepGlasses.png",
+    "MushroomHat": "hats\\MushroomHat.png",
+    "MusketeerHat": "hats\\MusketeerHat.png",
+    "NewYearsFireWork": "hats\\NewYearsFireWork.png",
+    "OrangeBeretCap": "hats\\OrangeBeretCap.png",
+    "PixelHat": "hats\\PixelHat.png",
+    "PrincessHat": "hats\\PrincessHat.png",
+    "PropellerHat": "hats\\PropellerHat.png",
+    "PunkHair": "hats\\PunkHair.png",
+    "PurplePartyHat": "hats\\PurplePartyHat.png",
+    "PurpleWizardHat": "hats\\PurpleWizardHat.png",
+    "PyjamaHat": "hats\\PyjamaHat.png",
+    "RainHat": "hats\\RainHat.png",
+    "RainbowClouds": "hats\\RainbowClouds.png",
+    "RainbowHair": "hats\\RainbowHair.png",
+    "RedFlatCavalierHat": "hats\\RedFlatCavalierHat.png",
+    "RedGnomeHat": "hats\\RedGnomeHat.png",
+    "RedJesterHat": "hats\\RedJesterHat.png",
+    "RedMandarinHat": "hats\\RedMandarinHat.png",
+    "RedPainterBeret": "hats\\RedPainterBeret.png",
+    "RedPirateBandana": "hats\\RedPirateBandana.png",
+    "RedTophat": "hats\\RedTophat.png",
+    "RedValentine\u2018sGlasses": "hats\\RedValentine\u2018sGlasses.png",
+    "ReindeerPartyHeadband": "hats\\ReindeerPartyHeadband.png",
+    "RiceHat": "hats\\RiceHat.png",
+    "RoastChickenHat": "hats\\RoastChickenHat.png",
+    "RobinHoodHat": "hats\\RobinHoodHat.png",
+    "RobotAntenna": "hats\\RobotAntenna.png",
+    "SailorHat": "hats\\SailorHat.png",
+    "SantaHat": "hats\\SantaHat.png",
+    "SantasHelperElfHat": "hats\\SantasHelperElfHat.png",
+    "SantasOverflowingSack": "hats\\SantasOverflowingSack.png",
+    "SillyPinwheelCap": "hats\\SillyPinwheelCap.png",
+    "SnugPurpleWizardHat": "hats\\SnugPurpleWizardHat.png",
+    "SportyRainbowGlasses": "hats\\SportyRainbowGlasses.png",
+    "SpringFlowerCrown": "hats\\SpringFlowerCrown.png",
+    "StrawberryHat": "hats\\StrawberryHat.png",
+    "Strawhat": "hats\\Strawhat.png",
+    "StuckElfPartyHeadband": "hats\\StuckElfPartyHeadband.png",
+    "StuntboostCap": "hats\\StuntboostCap.png",
+    "TapTapBunnyEars": "hats\\TapTapBunnyEars.png",
+    "TapTapGlasses": "hats\\TapTapGlasses.png",
+    "TapTapJesterHat": "hats\\TapTapJesterHat.png",
+    "TinFoilHat": "hats\\TinFoilHat.png",
+    "TinyCowboyHat": "hats\\TinyCowboyHat.png",
+    "TopHat": "hats\\TopHat.png",
+    "TripleHat": "hats\\TripleHat.png",
+    "TypingFarmerStrawhat": "hats\\TypingFarmerStrawhat.png",
+    "TyroleanHat": "hats\\TyroleanHat.png",
+    "WarmSantaHat": "hats\\WarmSantaHat.png",
+    "WhiteHornedSamuraiHelmet": "hats\\WhiteHornedSamuraiHelmet.png",
+    "WiggleSantaPartyHeadband": "hats\\WiggleSantaPartyHeadband.png",
+    "WingedAngelicHalo": "hats\\WingedAngelicHalo.png",
+    "WinterHat": "hats\\WinterHat.png",
+    "WitchesHat": "hats\\WitchesHat.png",
+    "WizardHat": "hats\\WizardHat.png",
+    "YellowCyberGlasses": "hats\\YellowCyberGlasses.png",
+    "ZeroHearts": "hats\\ZeroHearts.png"
+  },
+  "emotes": {
+    "Acorn": "emotes\\Acorn.png",
+    "AlmostFullBattery": "emotes\\AlmostFullBattery.png",
+    "AlmostFullHealth": "emotes\\AlmostFullHealth.png",
+    "AmericanCheese": "emotes\\AmericanCheese.png",
+    "AnimalShrimpEmoji": "emotes\\AnimalShrimpEmoji.png",
+    "ArmedBomb": "emotes\\ArmedBomb.png",
+    "ArrowInApple": "emotes\\ArrowInApple.png",
+    "ArrowOutsideApple": "emotes\\ArrowOutsideApple.png",
+    "AutumnFaun": "emotes\\AutumnFaun.png",
+    "AutumnLeaf": "emotes\\AutumnLeaf.png",
+    "BabyPondTurtle": "emotes\\BabyPondTurtle.png",
+    "BabySeaTurtle": "emotes\\BabySeaTurtle.png",
+    "BabyTurtle": "emotes\\BabyTurtle.png",
+    "BambooLeaves": "emotes\\BambooLeaves.png",
+    "Banana": "emotes\\Banana.png",
+    "BareBrain": "emotes\\BareBrain.png",
+    "BathBubbleDuck": "emotes\\BathBubbleDuck.png",
+    "BayLeaves": "emotes\\BayLeaves.png",
+    "Beachball": "emotes\\Beachball.png",
+    "Beer": "emotes\\Beer.png",
+    "BirdPoop": "emotes\\BirdPoop.png",
+    "Birds": "emotes\\Birds.png",
+    "BlackRibbon": "emotes\\BlackRibbon.png",
+    "BlackRubberDuck": "emotes\\BlackRubberDuck.png",
+    "BlackSwordSamuraiHelmet": "emotes\\BlackSwordSamuraiHelmet.png",
+    "BlindMummy": "emotes\\BlindMummy.png",
+    "BlondeMane": "emotes\\BlondeMane.png",
+    "BlueRibbon": "emotes\\BlueRibbon.png",
+    "BongoBeatsAmethystGem": "emotes\\BongoBeatsAmethystGem.png",
+    "BongoBeatsDiamondGem": "emotes\\BongoBeatsDiamondGem.png",
+    "BongoBeatsEmeraldGem": "emotes\\BongoBeatsEmeraldGem.png",
+    "BongoBeatsRubyGem": "emotes\\BongoBeatsRubyGem.png",
+    "BongoBeatsSapphireGem": "emotes\\BongoBeatsSapphireGem.png",
+    "BongoBunny": "emotes\\BongoBunny.png",
+    "BongoCalico": "emotes\\BongoCalico.png",
+    "BongoCow": "emotes\\BongoCow.png",
+    "BongoSoulLeaving": "emotes\\BongoSoulLeaving.png",
+    "Bonnet": "emotes\\Bonnet.png",
+    "Book": "emotes\\Book.png",
+    "BookStack": "emotes\\BookStack.png",
+    "BrownPilotGoggles": "emotes\\BrownPilotGoggles.png",
+    "BucketOfApples": "emotes\\BucketOfApples.png",
+    "Bump": "emotes\\Bump.png",
+    "Burger": "emotes\\Burger.png",
+    "Cake": "emotes\\Cake.png",
+    "CalmLeaf": "emotes\\CalmLeaf.png",
+    "Candle": "emotes\\Candle.png",
+    "CandyCane": "emotes\\CandyCane.png",
+    "CatStack": "emotes\\CatStack.png",
+    "CatuccinoCup": "emotes\\CatuccinoCup.png",
+    "ChainFirecrackers": "emotes\\ChainFirecrackers.png",
+    "ChargingBattery": "emotes\\ChargingBattery.png",
+    "Cherry": "emotes\\Cherry.png",
+    "CherryBlossom": "emotes\\CherryBlossom.png",
+    "ChinesePagoda": "emotes\\ChinesePagoda.png",
+    "ChristmasTree": "emotes\\ChristmasTree.png",
+    "ChristmasTreeStar": "emotes\\ChristmasTreeStar.png",
+    "CoconutDrink": "emotes\\CoconutDrink.png",
+    "ConstructionWorker": "emotes\\ConstructionWorker.png",
+    "CookiePlate": "emotes\\CookiePlate.png",
+    "Coral": "emotes\\Coral.png",
+    "CuckooClock": "emotes\\CuckooClock.png",
+    "Cup": "emotes\\Cup.png",
+    "CuteBlackBuns": "emotes\\CuteBlackBuns.png",
+    "CuteBrownHorseMane": "emotes\\CuteBrownHorseMane.png",
+    "CuteSnowBunny": "emotes\\CuteSnowBunny.png",
+    "CutiePunchChant": "emotes\\CutiePunchChant.png",
+    "Disguise": "emotes\\Disguise.png",
+    "Donut": "emotes\\Donut.png",
+    "DroppedIceCream": "emotes\\DroppedIceCream.png",
+    "DuckWhoopeeCushion": "emotes\\DuckWhoopeeCushion.png",
+    "Eggshell": "emotes\\Eggshell.png",
+    "ElectricScrews": "emotes\\ElectricScrews.png",
+    "FaceAngryEmoji": "emotes\\FaceAngryEmoji.png",
+    "FaceBaseEmoji": "emotes\\FaceBaseEmoji.png",
+    "FaceBawlingEmoji": "emotes\\FaceBawlingEmoji.png",
+    "FaceBlowKissEmoji": "emotes\\FaceBlowKissEmoji.png",
+    "FaceBlushEmoji": "emotes\\FaceBlushEmoji.png",
+    "FaceBonkEmoji": "emotes\\FaceBonkEmoji.png",
+    "FaceCelebrateEmoji": "emotes\\FaceCelebrateEmoji.png",
+    "FaceCheekyEmoji": "emotes\\FaceCheekyEmoji.png",
+    "FaceColdEmoji": "emotes\\FaceColdEmoji.png",
+    "FaceContentEmoji": "emotes\\FaceContentEmoji.png",
+    "FaceCoolEmoji": "emotes\\FaceCoolEmoji.png",
+    "FaceCryingEmoji": "emotes\\FaceCryingEmoji.png",
+    "FaceDeadEmoji": "emotes\\FaceDeadEmoji.png",
+    "FaceDevilEmoji": "emotes\\FaceDevilEmoji.png",
+    "FaceDizzyEmoji": "emotes\\FaceDizzyEmoji.png",
+    "FaceDroolEmoji": "emotes\\FaceDroolEmoji.png",
+    "FaceExcitedEmoji": "emotes\\FaceExcitedEmoji.png",
+    "FaceExpressionlessEmoji": "emotes\\FaceExpressionlessEmoji.png",
+    "FaceFeverEmoji": "emotes\\FaceFeverEmoji.png",
+    "FaceFlippedEmoji": "emotes\\FaceFlippedEmoji.png",
+    "FaceFumeEmoji": "emotes\\FaceFumeEmoji.png",
+    "FaceGiggleEmoji": "emotes\\FaceGiggleEmoji.png",
+    "FaceGoofyEmoji": "emotes\\FaceGoofyEmoji.png",
+    "FaceGreedyEmoji": "emotes\\FaceGreedyEmoji.png",
+    "FaceGrimaceEmoji": "emotes\\FaceGrimaceEmoji.png",
+    "FaceGrinEmoji": "emotes\\FaceGrinEmoji.png",
+    "FaceHappyEmoji": "emotes\\FaceHappyEmoji.png",
+    "FaceHotEmoji": "emotes\\FaceHotEmoji.png",
+    "FaceHugEmoji": "emotes\\FaceHugEmoji.png",
+    "FaceInjuredEmoji": "emotes\\FaceInjuredEmoji.png",
+    "FaceKissEmoji": "emotes\\FaceKissEmoji.png",
+    "FaceLaughEmoji": "emotes\\FaceLaughEmoji.png",
+    "FaceLoveEmoji": "emotes\\FaceLoveEmoji.png",
+    "FaceMadEmoji": "emotes\\FaceMadEmoji.png",
+    "FaceNauseatedEmoji": "emotes\\FaceNauseatedEmoji.png",
+    "FaceObsessedEmoji": "emotes\\FaceObsessedEmoji.png",
+    "FacePensiveEmoji": "emotes\\FacePensiveEmoji.png",
+    "FacePleadingEmoji": "emotes\\FacePleadingEmoji.png",
+    "FacePleasedEmoji": "emotes\\FacePleasedEmoji.png",
+    "FacePoutEmoji": "emotes\\FacePoutEmoji.png",
+    "FaceRelaxedEmoji": "emotes\\FaceRelaxedEmoji.png",
+    "FaceSadEmoji": "emotes\\FaceSadEmoji.png",
+    "FaceScreamEmoji": "emotes\\FaceScreamEmoji.png",
+    "FaceSighEmoji": "emotes\\FaceSighEmoji.png",
+    "FaceSkullEmoji": "emotes\\FaceSkullEmoji.png",
+    "FaceSleepEmoji": "emotes\\FaceSleepEmoji.png",
+    "FaceSmileEmoji": "emotes\\FaceSmileEmoji.png",
+    "FaceSmirkEmoji": "emotes\\FaceSmirkEmoji.png",
+    "FaceSnortEmoji": "emotes\\FaceSnortEmoji.png",
+    "FaceSquintEmoji": "emotes\\FaceSquintEmoji.png",
+    "FaceSurpriseEmoji": "emotes\\FaceSurpriseEmoji.png",
+    "FaceSweatySmileEmoji": "emotes\\FaceSweatySmileEmoji.png",
+    "FaceSweetKissEmoji": "emotes\\FaceSweetKissEmoji.png",
+    "FaceTeaseEmoji": "emotes\\FaceTeaseEmoji.png",
+    "FaceUnamusedEmoji": "emotes\\FaceUnamusedEmoji.png",
+    "FaceUpsetEmoji": "emotes\\FaceUpsetEmoji.png",
+    "FaceVomitEmoji": "emotes\\FaceVomitEmoji.png",
+    "FaceWinkEmoji": "emotes\\FaceWinkEmoji.png",
+    "FaceYawnEmoji": "emotes\\FaceYawnEmoji.png",
+    "FaceYumEmoji": "emotes\\FaceYumEmoji.png",
+    "FestiveReindeerAntlers": "emotes\\FestiveReindeerAntlers.png",
+    "FierceBlackBun": "emotes\\FierceBlackBun.png",
+    "FireFoal": "emotes\\FireFoal.png",
+    "FireHorse": "emotes\\FireHorse.png",
+    "FireMane": "emotes\\FireMane.png",
+    "FirstAdventCandle": "emotes\\FirstAdventCandle.png",
+    "Fish": "emotes\\Fish.png",
+    "FishBaitStick": "emotes\\FishBaitStick.png",
+    "FlagGreenEmoji": "emotes\\FlagGreenEmoji.png",
+    "FlagPirateEmoji": "emotes\\FlagPirateEmoji.png",
+    "FlagRacingEmoji": "emotes\\FlagRacingEmoji.png",
+    "FlagRedEmoji": "emotes\\FlagRedEmoji.png",
+    "FlagWhiteEmoji": "emotes\\FlagWhiteEmoji.png",
+    "FlipFlop": "emotes\\FlipFlop.png",
+    "FlowerCostume": "emotes\\FlowerCostume.png",
+    "FlowerVase": "emotes\\FlowerVase.png",
+    "Follower": "emotes\\Follower.png",
+    "FoodBirthdayCakeEmoji": "emotes\\FoodBirthdayCakeEmoji.png",
+    "FoodCoffeeEmoji": "emotes\\FoodCoffeeEmoji.png",
+    "FoodDangoEmoji": "emotes\\FoodDangoEmoji.png",
+    "FoodDonutEmoji": "emotes\\FoodDonutEmoji.png",
+    "FoodMeatEmoji": "emotes\\FoodMeatEmoji.png",
+    "FoodOnigiriEmoji": "emotes\\FoodOnigiriEmoji.png",
+    "FoodPeachEmoji": "emotes\\FoodPeachEmoji.png",
+    "FoodPeeledBananaEmoji": "emotes\\FoodPeeledBananaEmoji.png",
+    "FoodPizzaEmoji": "emotes\\FoodPizzaEmoji.png",
+    "FoodStrawberryEmoji": "emotes\\FoodStrawberryEmoji.png",
+    "Fries": "emotes\\Fries.png",
+    "Froggy": "emotes\\Froggy.png",
+    "FullyChargedBattery": "emotes\\FullyChargedBattery.png",
+    "GardenEels": "emotes\\GardenEels.png",
+    "Gat": "emotes\\Gat.png",
+    "GiftOfTheHunt": "emotes\\GiftOfTheHunt.png",
+    "GiftPile": "emotes\\GiftPile.png",
+    "GingerbreadHouse": "emotes\\GingerbreadHouse.png",
+    "GingerbreadMan": "emotes\\GingerbreadMan.png",
+    "GodlyThunderclouds": "emotes\\GodlyThunderclouds.png",
+    "GodlyTidewaves": "emotes\\GodlyTidewaves.png",
+    "GodlyUnderflames": "emotes\\GodlyUnderflames.png",
+    "Goggles": "emotes\\Goggles.png",
+    "GoldRibbon": "emotes\\GoldRibbon.png",
+    "GreenAppleWorm": "emotes\\GreenAppleWorm.png",
+    "GreenGoggles": "emotes\\GreenGoggles.png",
+    "GreenRibbon": "emotes\\GreenRibbon.png",
+    "GreyHorseManeBuns": "emotes\\GreyHorseManeBuns.png",
+    "GrowingWhiteMushrooms": "emotes\\GrowingWhiteMushrooms.png",
+    "HappyFlowers": "emotes\\HappyFlowers.png",
+    "HermitCrabShell": "emotes\\HermitCrabShell.png",
+    "HibiscusFlower": "emotes\\HibiscusFlower.png",
+    "HoHoHo": "emotes\\HoHoHo.png",
+    "Holly": "emotes\\Holly.png",
+    "HugeNeonGreenMohawk": "emotes\\HugeNeonGreenMohawk.png",
+    "HugeShit": "emotes\\HugeShit.png",
+    "JingleBells": "emotes\\JingleBells.png",
+    "Kelp": "emotes\\Kelp.png",
+    "Krapfen": "emotes\\Krapfen.png",
+    "LampShade": "emotes\\LampShade.png",
+    "Lantern": "emotes\\Lantern.png",
+    "LaurelWrath": "emotes\\LaurelWrath.png",
+    "Leaf": "emotes\\Leaf.png",
+    "Lei": "emotes\\Lei.png",
+    "Lemonade": "emotes\\Lemonade.png",
+    "LittleDevil": "emotes\\LittleDevil.png",
+    "LittleFrog": "emotes\\LittleFrog.png",
+    "LittlePlant": "emotes\\LittlePlant.png",
+    "LittleRaincoat": "emotes\\LittleRaincoat.png",
+    "Lobster": "emotes\\Lobster.png",
+    "LotusLeafUmbrella": "emotes\\LotusLeafUmbrella.png",
+    "LoveVibes": "emotes\\LoveVibes.png",
+    "LowBattery": "emotes\\LowBattery.png",
+    "LowHealth": "emotes\\LowHealth.png",
+    "LuckyCat": "emotes\\LuckyCat.png",
+    "LuckyCoin": "emotes\\LuckyCoin.png",
+    "LunaMoth": "emotes\\LunaMoth.png",
+    "MadAnger": "emotes\\MadAnger.png",
+    "MarkCheckEmoji": "emotes\\MarkCheckEmoji.png",
+    "MarkCircleEmoji": "emotes\\MarkCircleEmoji.png",
+    "MarkCrossEmoji": "emotes\\MarkCrossEmoji.png",
+    "MarkExclamationEmoji": "emotes\\MarkExclamationEmoji.png",
+    "MarkInterrobangEmoji": "emotes\\MarkInterrobangEmoji.png",
+    "MarkQuestionEmoji": "emotes\\MarkQuestionEmoji.png",
+    "MediumHealth": "emotes\\MediumHealth.png",
+    "MedusaSnakes": "emotes\\MedusaSnakes.png",
+    "MessengerSnowOwl": "emotes\\MessengerSnowOwl.png",
+    "MigratingCurrents": "emotes\\MigratingCurrents.png",
+    "Mistletoe": "emotes\\Mistletoe.png",
+    "MoldriseFungi": "emotes\\MoldriseFungi.png",
+    "MonsterBoneGreatsword": "emotes\\MonsterBoneGreatsword.png",
+    "MooseAntlers": "emotes\\MooseAntlers.png",
+    "MouseBurrow": "emotes\\MouseBurrow.png",
+    "MousePowerUp": "emotes\\MousePowerUp.png",
+    "MouseWithPen": "emotes\\MouseWithPen.png",
+    "MrNuts": "emotes\\MrNuts.png",
+    "MysticButterfly": "emotes\\MysticButterfly.png",
+    "NatureAirEmoji": "emotes\\NatureAirEmoji.png",
+    "NatureSakuraBlossomEmoji": "emotes\\NatureSakuraBlossomEmoji.png",
+    "NicolasMitre": "emotes\\NicolasMitre.png",
+    "NightwaterBackpack": "emotes\\NightwaterBackpack.png",
+    "Noodles": "emotes\\Noodles.png",
+    "NutcrackerFigure": "emotes\\NutcrackerFigure.png",
+    "Nyaa": "emotes\\Nyaa.png",
+    "ObjectBananaPeelEmoji": "emotes\\ObjectBananaPeelEmoji.png",
+    "ObjectBaseballBatEmoji": "emotes\\ObjectBaseballBatEmoji.png",
+    "OnFire": "emotes\\OnFire.png",
+    "OnsenTowel": "emotes\\OnsenTowel.png",
+    "Orange": "emotes\\Orange.png",
+    "OrangeSnowboard": "emotes\\OrangeSnowboard.png",
+    "PaintBrush": "emotes\\PaintBrush.png",
+    "PalmTree": "emotes\\PalmTree.png",
+    "PalmTreeLeaves": "emotes\\PalmTreeLeaves.png",
+    "PaperBag": "emotes\\PaperBag.png",
+    "PaperBoat": "emotes\\PaperBoat.png",
+    "PawThumbsUpEmoji": "emotes\\PawThumbsUpEmoji.png",
+    "PawUshanka": "emotes\\PawUshanka.png",
+    "PawWaveEmoji": "emotes\\PawWaveEmoji.png",
+    "Peach": "emotes\\Peach.png",
+    "PeppermintTeaBag": "emotes\\PeppermintTeaBag.png",
+    "PetBat": "emotes\\PetBat.png",
+    "PickleJar": "emotes\\PickleJar.png",
+    "PiercedTargetApple": "emotes\\PiercedTargetApple.png",
+    "Pineapple": "emotes\\Pineapple.png",
+    "PineappleLeaves": "emotes\\PineappleLeaves.png",
+    "PinkRibbon": "emotes\\PinkRibbon.png",
+    "Plunger": "emotes\\Plunger.png",
+    "PoisonCloud": "emotes\\PoisonCloud.png",
+    "PollinatingBreeze": "emotes\\PollinatingBreeze.png",
+    "PumkinSpiceLatte": "emotes\\PumkinSpiceLatte.png",
+    "Pumpkin": "emotes\\Pumpkin.png",
+    "PumpkinPie": "emotes\\PumpkinPie.png",
+    "PurpleRopeObi": "emotes\\PurpleRopeObi.png",
+    "RedAwardRibbon": "emotes\\RedAwardRibbon.png",
+    "RedChineseKnot": "emotes\\RedChineseKnot.png",
+    "RedChristmasTreeOrnament": "emotes\\RedChristmasTreeOrnament.png",
+    "RedFireHorseEnvelope": "emotes\\RedFireHorseEnvelope.png",
+    "RedFoalMane": "emotes\\RedFoalMane.png",
+    "RedGiftRibbon": "emotes\\RedGiftRibbon.png",
+    "RedOrigamiHorse": "emotes\\RedOrigamiHorse.png",
+    "RedPandaBaby": "emotes\\RedPandaBaby.png",
+    "RedWarSamuraiHelmet": "emotes\\RedWarSamuraiHelmet.png",
+    "RedYarnBun": "emotes\\RedYarnBun.png",
+    "RegeneratingBloom": "emotes\\RegeneratingBloom.png",
+    "RibbitRampageChant": "emotes\\RibbitRampageChant.png",
+    "RiceCakeStack": "emotes\\RiceCakeStack.png",
+    "RocketConsumable": "emotes\\RocketConsumable.png",
+    "RubberDuck": "emotes\\RubberDuck.png",
+    "RubixCube": "emotes\\RubixCube.png",
+    "Sandcastle": "emotes\\Sandcastle.png",
+    "SatanicIncarnation": "emotes\\SatanicIncarnation.png",
+    "ShootingStar": "emotes\\ShootingStar.png",
+    "SilentPawNinja": "emotes\\SilentPawNinja.png",
+    "SillyPostIt": "emotes\\SillyPostIt.png",
+    "SimpleSilverTiara": "emotes\\SimpleSilverTiara.png",
+    "SixSevenLivesChant": "emotes\\SixSevenLivesChant.png",
+    "Skull": "emotes\\Skull.png",
+    "SmallBirthdayCake": "emotes\\SmallBirthdayCake.png",
+    "SmallerCat": "emotes\\SmallerCat.png",
+    "SmokingBrain": "emotes\\SmokingBrain.png",
+    "Snorkel": "emotes\\Snorkel.png",
+    "SnowballHit": "emotes\\SnowballHit.png",
+    "SnowflakePin": "emotes\\SnowflakePin.png",
+    "Soda": "emotes\\Soda.png",
+    "SplashingShark": "emotes\\SplashingShark.png",
+    "SpookySkeleton": "emotes\\SpookySkeleton.png",
+    "SpookySurprise": "emotes\\SpookySurprise.png",
+    "SquishyRedSquid": "emotes\\SquishyRedSquid.png",
+    "Starfish": "emotes\\Starfish.png",
+    "StinkyPoop": "emotes\\StinkyPoop.png",
+    "StockingSock": "emotes\\StockingSock.png",
+    "StrawberryLeaves": "emotes\\StrawberryLeaves.png",
+    "Streamers": "emotes\\Streamers.png",
+    "Sunflower": "emotes\\Sunflower.png",
+    "SymbolHundredPointsEmoji": "emotes\\SymbolHundredPointsEmoji.png",
+    "SymbolMusicalNotePurpleEmoji": "emotes\\SymbolMusicalNotePurpleEmoji.png",
+    "SymbolMusicalNoteYellowEmoji": "emotes\\SymbolMusicalNoteYellowEmoji.png",
+    "SymbolProhibitedEmoji": "emotes\\SymbolProhibitedEmoji.png",
+    "SymbolSleepEmoji": "emotes\\SymbolSleepEmoji.png",
+    "SymbolSparkleEmoji": "emotes\\SymbolSparkleEmoji.png",
+    "SymbolSpeechBubbleEmoji": "emotes\\SymbolSpeechBubbleEmoji.png",
+    "SymbolThoughtBubbleEmoji": "emotes\\SymbolThoughtBubbleEmoji.png",
+    "TapTapHelmet": "emotes\\TapTapHelmet.png",
+    "Teapot": "emotes\\Teapot.png",
+    "TheBerlinApartmentBirdie": "emotes\\TheBerlinApartmentBirdie.png",
+    "TicTacToe": "emotes\\TicTacToe.png",
+    "TinyYellowButterfly": "emotes\\TinyYellowButterfly.png",
+    "ToiletPaper": "emotes\\ToiletPaper.png",
+    "TrafficCone": "emotes\\TrafficCone.png",
+    "Trumpet": "emotes\\Trumpet.png",
+    "TypingFarmerChick": "emotes\\TypingFarmerChick.png",
+    "Unicorn": "emotes\\Unicorn.png",
+    "Ushanka": "emotes\\Ushanka.png",
+    "UtterConfusion": "emotes\\UtterConfusion.png",
+    "Valve": "emotes\\Valve.png",
+    "WakuWaku": "emotes\\WakuWaku.png",
+    "WarmMulledWine": "emotes\\WarmMulledWine.png",
+    "WatermelonHelmet": "emotes\\WatermelonHelmet.png",
+    "WealthBag": "emotes\\WealthBag.png",
+    "WealthIngot": "emotes\\WealthIngot.png",
+    "Windmill": "emotes\\Windmill.png",
+    "WingedUnicorn": "emotes\\WingedUnicorn.png",
+    "WoodenRockingHorse": "emotes\\WoodenRockingHorse.png",
+    "YarnBall": "emotes\\YarnBall.png",
+    "YellowRibbon": "emotes\\YellowRibbon.png",
+    "YoungStagAntlers": "emotes\\YoungStagAntlers.png"
+  },
+  "skin_icons": {
+    "AcornStick": "quint_icons\\AcornStick.png",
+    "AdoptableBobby": "quint_icons\\AdoptableBobby.png",
+    "AdoptableJerry": "quint_icons\\AdoptableJerry.png",
+    "AdoptableLuna": "quint_icons\\AdoptableLuna.png",
+    "AdoptableTeddy": "quint_icons\\AdoptableTeddy.png",
+    "AdoptableTommy": "quint_icons\\AdoptableTommy.png",
+    "AdoptableVinci": "quint_icons\\AdoptableVinci.png",
+    "Alien": "quint_icons\\Alien.png",
+    "AngelicKitten": "quint_icons\\AngelicKitten.png",
+    "Angry": "quint_icons\\Angry.png",
+    "Anime": "quint_icons\\Anime.png",
+    "Appreciation": "quint_icons\\Appreciation.png",
+    "AttackMechaS.L.A.S.H.": "quint_icons\\AttackMechaS.L.A.S.H..png",
+    "BeckoningLuckyCat": "quint_icons\\BeckoningLuckyCat.png",
+    "Bingus": "quint_icons\\Bingus.png",
+    "Black": "quint_icons\\Black.png",
+    "BlackHorse": "quint_icons\\BlackHorse.png",
+    "BlackSpotted": "quint_icons\\BlackSpotted.png",
+    "BloodSplatterCat": "quint_icons\\BloodSplatterCat.png",
+    "BonfireCat": "quint_icons\\BonfireCat.png",
+    "BongoBeatsAmethyst": "quint_icons\\BongoBeatsAmethyst.png",
+    "BongoBeatsDiamond": "quint_icons\\BongoBeatsDiamond.png",
+    "BongoBeatsEmerald": "quint_icons\\BongoBeatsEmerald.png",
+    "BongoBeatsGold": "quint_icons\\BongoBeatsGold.png",
+    "BongoBeatsPlatinum": "quint_icons\\BongoBeatsPlatinum.png",
+    "BongoBeatsRuby": "quint_icons\\BongoBeatsRuby.png",
+    "BongoBeatsSapphire": "quint_icons\\BongoBeatsSapphire.png",
+    "BongoBeatsSilver": "quint_icons\\BongoBeatsSilver.png",
+    "BongoDog": "quint_icons\\BongoDog.png",
+    "BongoMouse": "quint_icons\\BongoMouse.png",
+    "BrownHorse": "quint_icons\\BrownHorse.png",
+    "BrownLanternCarrier": "quint_icons\\BrownLanternCarrier.png",
+    "Bubble": "quint_icons\\Bubble.png",
+    "Bubblegum": "quint_icons\\Bubblegum.png",
+    "BugCatcher": "quint_icons\\BugCatcher.png",
+    "BumbleKitten": "quint_icons\\BumbleKitten.png",
+    "BurningHorse": "quint_icons\\BurningHorse.png",
+    "Butler": "quint_icons\\Butler.png",
+    "CalabrianBlackSquirrel": "quint_icons\\CalabrianBlackSquirrel.png",
+    "Calico": "quint_icons\\Calico.png",
+    "Cat": "quint_icons\\Cat.png",
+    "Catcus": "quint_icons\\Catcus.png",
+    "Catuccino": "quint_icons\\Catuccino.png",
+    "ChineseSunset": "quint_icons\\ChineseSunset.png",
+    "Chipmunk": "quint_icons\\Chipmunk.png",
+    "ChocolateFerret": "quint_icons\\ChocolateFerret.png",
+    "ChocolateSiamese": "quint_icons\\ChocolateSiamese.png",
+    "ChocolateSprinkleCookieCat": "quint_icons\\ChocolateSprinkleCookieCat.png",
+    "ChristmasLightsEntangler": "quint_icons\\ChristmasLightsEntangler.png",
+    "ChristmasSaboteur": "quint_icons\\ChristmasSaboteur.png",
+    "CinnamonSiamese": "quint_icons\\CinnamonSiamese.png",
+    "CloudscrapersPinwheel": "quint_icons\\CloudscrapersPinwheel.png",
+    "Clown": "quint_icons\\Clown.png",
+    "Confused": "quint_icons\\Confused.png",
+    "CuteYeti": "quint_icons\\CuteYeti.png",
+    "DarkBrownHorse": "quint_icons\\DarkBrownHorse.png",
+    "DarkRedTangSuit": "quint_icons\\DarkRedTangSuit.png",
+    "Dolphin": "quint_icons\\Dolphin.png",
+    "Dragon": "quint_icons\\Dragon.png",
+    "DumboOctopus": "quint_icons\\DumboOctopus.png",
+    "EasternGreySquirrel": "quint_icons\\EasternGreySquirrel.png",
+    "EurasianRedSquirrel": "quint_icons\\EurasianRedSquirrel.png",
+    "Excited": "quint_icons\\Excited.png",
+    "Fawn": "quint_icons\\Fawn.png",
+    "FelineValentine": "quint_icons\\FelineValentine.png",
+    "FestiveSmoocher": "quint_icons\\FestiveSmoocher.png",
+    "FinePatternedChristmasSweater": "quint_icons\\FinePatternedChristmasSweater.png",
+    "FireCat": "quint_icons\\FireCat.png",
+    "FirePaw": "quint_icons\\FirePaw.png",
+    "FishSnackingCat": "quint_icons\\FishSnackingCat.png",
+    "Floaties": "quint_icons\\Floaties.png",
+    "Fox": "quint_icons\\Fox.png",
+    "Frankittystein": "quint_icons\\Frankittystein.png",
+    "FreezingCold": "quint_icons\\FreezingCold.png",
+    "FullBlue": "quint_icons\\FullBlue.png",
+    "FullGreen": "quint_icons\\FullGreen.png",
+    "FullGrey": "quint_icons\\FullGrey.png",
+    "FullOrange": "quint_icons\\FullOrange.png",
+    "FullPink": "quint_icons\\FullPink.png",
+    "FullPurple": "quint_icons\\FullPurple.png",
+    "FullRed": "quint_icons\\FullRed.png",
+    "FullYellow": "quint_icons\\FullYellow.png",
+    "Ghost": "quint_icons\\Ghost.png",
+    "GiftShredder": "quint_icons\\GiftShredder.png",
+    "Giftee": "quint_icons\\Giftee.png",
+    "GingerbreadCat": "quint_icons\\GingerbreadCat.png",
+    "GreenWrappedGift": "quint_icons\\GreenWrappedGift.png",
+    "GreyHorse": "quint_icons\\GreyHorse.png",
+    "GreyPatterned": "quint_icons\\GreyPatterned.png",
+    "Gummy": "quint_icons\\Gummy.png",
+    "Hades": "quint_icons\\Hades.png",
+    "HaikuPoet": "quint_icons\\HaikuPoet.png",
+    "Halloween": "quint_icons\\Halloween.png",
+    "Happy": "quint_icons\\Happy.png",
+    "HawaiianShirt": "quint_icons\\HawaiianShirt.png",
+    "HealMechaP.U.R.R.": "quint_icons\\HealMechaP.U.R.R..png",
+    "Hearts": "quint_icons\\Hearts.png",
+    "HorseLanternCarrier": "quint_icons\\HorseLanternCarrier.png",
+    "Hungry": "quint_icons\\Hungry.png",
+    "IceCarvedCat": "quint_icons\\IceCarvedCat.png",
+    "InLove": "quint_icons\\InLove.png",
+    "Infatuated": "quint_icons\\Infatuated.png",
+    "JadeCat": "quint_icons\\JadeCat.png",
+    "King": "quint_icons\\King.png",
+    "KnockedOut": "quint_icons\\KnockedOut.png",
+    "Krampus": "quint_icons\\Krampus.png",
+    "LaserEyed": "quint_icons\\LaserEyed.png",
+    "LeafPile": "quint_icons\\LeafPile.png",
+    "MadTattooCat": "quint_icons\\MadTattooCat.png",
+    "MajesticMercat": "quint_icons\\MajesticMercat.png",
+    "MeltingHot": "quint_icons\\MeltingHot.png",
+    "Meowxolotl": "quint_icons\\Meowxolotl.png",
+    "Midnight": "quint_icons\\Midnight.png",
+    "MidnightDemon": "quint_icons\\MidnightDemon.png",
+    "MoldriseCat": "quint_icons\\MoldriseCat.png",
+    "MothkeepMallow": "quint_icons\\MothkeepMallow.png",
+    "Muscle": "quint_icons\\Muscle.png",
+    "NightwaterCat": "quint_icons\\NightwaterCat.png",
+    "Nosfergato": "quint_icons\\Nosfergato.png",
+    "Nutcracker": "quint_icons\\Nutcracker.png",
+    "OrangeCat": "quint_icons\\OrangeCat.png",
+    "OrangePatterned": "quint_icons\\OrangePatterned.png",
+    "OrangeTangSuit": "quint_icons\\OrangeTangSuit.png",
+    "OrangeWhite": "quint_icons\\OrangeWhite.png",
+    "Outlaw": "quint_icons\\Outlaw.png",
+    "Paddle": "quint_icons\\Paddle.png",
+    "Paint": "quint_icons\\Paint.png",
+    "PalmTreeTrunkCat": "quint_icons\\PalmTreeTrunkCat.png",
+    "Panda": "quint_icons\\Panda.png",
+    "PatternedCalico": "quint_icons\\PatternedCalico.png",
+    "PatternedChristmasScarf": "quint_icons\\PatternedChristmasScarf.png",
+    "PawPatternedChristmasSweater": "quint_icons\\PawPatternedChristmasSweater.png",
+    "Penguin": "quint_icons\\Penguin.png",
+    "PeppermintSweetTooth": "quint_icons\\PeppermintSweetTooth.png",
+    "PineappleFusion": "quint_icons\\PineappleFusion.png",
+    "Pinhata": "quint_icons\\Pinhata.png",
+    "Pixel": "quint_icons\\Pixel.png",
+    "PleasedPanda": "quint_icons\\PleasedPanda.png",
+    "Poisoned": "quint_icons\\Poisoned.png",
+    "PolarBear": "quint_icons\\PolarBear.png",
+    "Porcelain": "quint_icons\\Porcelain.png",
+    "Poseidon": "quint_icons\\Poseidon.png",
+    "PufferFish": "quint_icons\\PufferFish.png",
+    "RainBoots": "quint_icons\\RainBoots.png",
+    "Rainbow": "quint_icons\\Rainbow.png",
+    "RangedMechaL.A.S.E.R.": "quint_icons\\RangedMechaL.A.S.E.R..png",
+    "RedFanLady": "quint_icons\\RedFanLady.png",
+    "RedHanfu": "quint_icons\\RedHanfu.png",
+    "RedNosedReindeer": "quint_icons\\RedNosedReindeer.png",
+    "RedPanda": "quint_icons\\RedPanda.png",
+    "RedPlaidFlannel": "quint_icons\\RedPlaidFlannel.png",
+    "RedScarf": "quint_icons\\RedScarf.png",
+    "RedTangSuit": "quint_icons\\RedTangSuit.png",
+    "RibbonDancer": "quint_icons\\RibbonDancer.png",
+    "Robot": "quint_icons\\Robot.png",
+    "SakuraLuckyCat": "quint_icons\\SakuraLuckyCat.png",
+    "Sand": "quint_icons\\Sand.png",
+    "Santa": "quint_icons\\Santa.png",
+    "SantasHelperBingle": "quint_icons\\SantasHelperBingle.png",
+    "SantasHelperBongle": "quint_icons\\SantasHelperBongle.png",
+    "SchemingLuckyCat": "quint_icons\\SchemingLuckyCat.png",
+    "SeaPurrtle": "quint_icons\\SeaPurrtle.png",
+    "Shark": "quint_icons\\Shark.png",
+    "ShibaInu": "quint_icons\\ShibaInu.png",
+    "Skeleton": "quint_icons\\Skeleton.png",
+    "Sketch": "quint_icons\\Sketch.png",
+    "SnowFox": "quint_icons\\SnowFox.png",
+    "SnowMittens": "quint_icons\\SnowMittens.png",
+    "Snowman": "quint_icons\\Snowman.png",
+    "Soul": "quint_icons\\Soul.png",
+    "SpecialRedHorse": "quint_icons\\SpecialRedHorse.png",
+    "Sphynx": "quint_icons\\Sphynx.png",
+    "SternRacoon": "quint_icons\\SternRacoon.png",
+    "StrawberryFusion": "quint_icons\\StrawberryFusion.png",
+    "StripedDawn": "quint_icons\\StripedDawn.png",
+    "StripedDusk": "quint_icons\\StripedDusk.png",
+    "StuntboostCat": "quint_icons\\StuntboostCat.png",
+    "Stunted": "quint_icons\\Stunted.png",
+    "SunGlow": "quint_icons\\SunGlow.png",
+    "Sunburned": "quint_icons\\Sunburned.png",
+    "Sweaty": "quint_icons\\Sweaty.png",
+    "TahitianHipHei": "quint_icons\\TahitianHipHei.png",
+    "TankMechaB.O.N.K.": "quint_icons\\TankMechaB.O.N.K..png",
+    "TapTapBunny": "quint_icons\\TapTapBunny.png",
+    "TapTapGooCat": "quint_icons\\TapTapGooCat.png",
+    "TapTapGreyCalico": "quint_icons\\TapTapGreyCalico.png",
+    "TapTapOrangeCalico": "quint_icons\\TapTapOrangeCalico.png",
+    "TapTapTabby": "quint_icons\\TapTapTabby.png",
+    "TorchBearer": "quint_icons\\TorchBearer.png",
+    "ToyLocomotive": "quint_icons\\ToyLocomotive.png",
+    "Turnbound": "quint_icons\\Turnbound.png",
+    "Tuxedo": "quint_icons\\Tuxedo.png",
+    "Twisted": "quint_icons\\Twisted.png",
+    "TypingFarmerCow": "quint_icons\\TypingFarmerCow.png",
+    "TypingFarmerPig": "quint_icons\\TypingFarmerPig.png",
+    "Void": "quint_icons\\Void.png",
+    "WaterBender": "quint_icons\\WaterBender.png",
+    "WaterCat": "quint_icons\\WaterCat.png",
+    "WatermelonFusion": "quint_icons\\WatermelonFusion.png",
+    "WetSuit": "quint_icons\\WetSuit.png",
+    "WhaleShark": "quint_icons\\WhaleShark.png",
+    "WhiteHorse": "quint_icons\\WhiteHorse.png",
+    "WisdomDrummer": "quint_icons\\WisdomDrummer.png",
+    "WrestlerCutiePunch": "quint_icons\\WrestlerCutiePunch.png",
+    "WrestlerRibbitRampage": "quint_icons\\WrestlerRibbitRampage.png",
+    "WrestlerSixSevenLives": "quint_icons\\WrestlerSixSevenLives.png",
+    "Yang": "quint_icons\\Yang.png",
+    "YellowHawaiianShirt": "quint_icons\\YellowHawaiianShirt.png",
+    "YellowStripedScarf": "quint_icons\\YellowStripedScarf.png",
+    "Yin": "quint_icons\\Yin.png",
+    "YukiOnna": "quint_icons\\YukiOnna.png",
+    "Zeus": "quint_icons\\Zeus.png",
+    "Zombie": "quint_icons\\Zombie.png"
+  }
+}

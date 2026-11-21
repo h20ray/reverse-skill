@@ -1,0 +1,638 @@
+{
+  "AnimalShrimpEmoji": {
+    "name": "AnimalShrimpEmoji",
+    "displayName": "Animal Shrimp Emoji",
+    "quality": "epic",
+    "itemdefid": "456"
+  },
+  "FaceAngryEmoji": {
+    "name": "FaceAngryEmoji",
+    "displayName": "Face Angry Emoji",
+    "quality": "rare",
+    "itemdefid": "457"
+  },
+  "FaceBaseEmoji": {
+    "name": "FaceBaseEmoji",
+    "displayName": "Face Base Emoji",
+    "quality": "legendary",
+    "itemdefid": "458"
+  },
+  "FaceBlowKissEmoji": {
+    "name": "FaceBlowKissEmoji",
+    "displayName": "Face Blow Kiss Emoji",
+    "quality": "uncommon",
+    "itemdefid": "459"
+  },
+  "FaceBlushEmoji": {
+    "name": "FaceBlushEmoji",
+    "displayName": "Face Blush Emoji",
+    "quality": "uncommon",
+    "itemdefid": "460"
+  },
+  "FaceCheekyEmoji": {
+    "name": "FaceCheekyEmoji",
+    "displayName": "Face Cheeky Emoji",
+    "quality": "rare",
+    "itemdefid": "461"
+  },
+  "FaceContentEmoji": {
+    "name": "FaceContentEmoji",
+    "displayName": "Face Content Emoji",
+    "quality": "common",
+    "itemdefid": "462"
+  },
+  "FaceCoolEmoji": {
+    "name": "FaceCoolEmoji",
+    "displayName": "Face Cool Emoji",
+    "quality": "rare",
+    "itemdefid": "463"
+  },
+  "FaceCryingEmoji": {
+    "name": "FaceCryingEmoji",
+    "displayName": "Face Crying Emoji",
+    "quality": "legendary",
+    "itemdefid": "464"
+  },
+  "FaceDeadEmoji": {
+    "name": "FaceDeadEmoji",
+    "displayName": "Face Dead Emoji",
+    "quality": "uncommon",
+    "itemdefid": "465"
+  },
+  "FaceExcitedEmoji": {
+    "name": "FaceExcitedEmoji",
+    "displayName": "Face Excited Emoji",
+    "quality": "common",
+    "itemdefid": "466"
+  },
+  "FaceFearEmoji": {
+    "name": "FaceFearEmoji",
+    "displayName": "Face Fear Emoji",
+    "quality": "rare",
+    "itemdefid": "467"
+  },
+  "FaceHappyEmoji": {
+    "name": "FaceHappyEmoji",
+    "displayName": "Face Happy Emoji",
+    "quality": "common",
+    "itemdefid": "468"
+  },
+  "FaceKissEmoji": {
+    "name": "FaceKissEmoji",
+    "displayName": "Face Kiss Emoji",
+    "quality": "common",
+    "itemdefid": "469"
+  },
+  "FaceLaughEmoji": {
+    "name": "FaceLaughEmoji",
+    "displayName": "Face Laugh Emoji",
+    "quality": "common",
+    "itemdefid": "470"
+  },
+  "FaceLoveEmoji": {
+    "name": "FaceLoveEmoji",
+    "displayName": "Face Love Emoji",
+    "quality": "uncommon",
+    "itemdefid": "471"
+  },
+  "FaceRelaxedEmoji": {
+    "name": "FaceRelaxedEmoji",
+    "displayName": "Face Relaxed Emoji",
+    "quality": "uncommon",
+    "itemdefid": "472"
+  },
+  "FaceSadEmoji": {
+    "name": "FaceSadEmoji",
+    "displayName": "Face Sad Emoji",
+    "quality": "uncommon",
+    "itemdefid": "473"
+  },
+  "FaceSighEmoji": {
+    "name": "FaceSighEmoji",
+    "displayName": "Face Sigh Emoji",
+    "quality": "rare",
+    "itemdefid": "474"
+  },
+  "FaceSingleTearEmoji": {
+    "name": "FaceSingleTearEmoji",
+    "displayName": "Face Single Tear Emoji",
+    "quality": "rare",
+    "itemdefid": "475"
+  },
+  "FaceSleepEmoji": {
+    "name": "FaceSleepEmoji",
+    "displayName": "Face Sleep Emoji",
+    "quality": "uncommon",
+    "itemdefid": "476"
+  },
+  "FaceSmileEmoji": {
+    "name": "FaceSmileEmoji",
+    "displayName": "Face Smile Emoji",
+    "quality": "common",
+    "itemdefid": "477"
+  },
+  "FaceSmirkEmoji": {
+    "name": "FaceSmirkEmoji",
+    "displayName": "Face Smirk Emoji",
+    "quality": "uncommon",
+    "itemdefid": "478"
+  },
+  "FaceSurpriseEmoji": {
+    "name": "FaceSurpriseEmoji",
+    "displayName": "Face Surprise Emoji",
+    "quality": "rare",
+    "itemdefid": "479"
+  },
+  "FaceSweatySmileEmoji": {
+    "name": "FaceSweatySmileEmoji",
+    "displayName": "Face Sweaty Smile Emoji",
+    "quality": "common",
+    "itemdefid": "480"
+  },
+  "FaceUpsetEmoji": {
+    "name": "FaceUpsetEmoji",
+    "displayName": "Face Upset Emoji",
+    "quality": "uncommon",
+    "itemdefid": "481"
+  },
+  "FaceWinkEmoji": {
+    "name": "FaceWinkEmoji",
+    "displayName": "Face Wink Emoji",
+    "quality": "common",
+    "itemdefid": "482"
+  },
+  "FlagGreenEmoji": {
+    "name": "FlagGreenEmoji",
+    "displayName": "Flag Green Emoji",
+    "quality": "common",
+    "itemdefid": "483"
+  },
+  "FlagRedEmoji": {
+    "name": "FlagRedEmoji",
+    "displayName": "Flag Red Emoji",
+    "quality": "common",
+    "itemdefid": "484"
+  },
+  "FlagWhiteEmoji": {
+    "name": "FlagWhiteEmoji",
+    "displayName": "Flag White Emoji",
+    "quality": "common",
+    "itemdefid": "485"
+  },
+  "FoodBirthdayCakeEmoji": {
+    "name": "FoodBirthdayCakeEmoji",
+    "displayName": "Food Birthday Cake Emoji",
+    "quality": "rare",
+    "itemdefid": "486"
+  },
+  "FoodCoffeeEmoji": {
+    "name": "FoodCoffeeEmoji",
+    "displayName": "Food Coffee Emoji",
+    "quality": "rare",
+    "itemdefid": "487"
+  },
+  "FoodDonutEmoji": {
+    "name": "FoodDonutEmoji",
+    "displayName": "Food Donut Emoji",
+    "quality": "epic",
+    "itemdefid": "488"
+  },
+  "FoodOnigiriEmoji": {
+    "name": "FoodOnigiriEmoji",
+    "displayName": "Food Onigiri Emoji",
+    "quality": "epic",
+    "itemdefid": "489"
+  },
+  "FoodPizzaEmoji": {
+    "name": "FoodPizzaEmoji",
+    "displayName": "Food Pizza Emoji",
+    "quality": "rare",
+    "itemdefid": "490"
+  },
+  "FoodStrawberryEmoji": {
+    "name": "FoodStrawberryEmoji",
+    "displayName": "Food Strawberry Emoji",
+    "quality": "rare",
+    "itemdefid": "491"
+  },
+  "HeartBaseEmoji": {
+    "name": "HeartBaseEmoji",
+    "displayName": "Heart Base Emoji",
+    "quality": "common",
+    "itemdefid": "492"
+  },
+  "HeartBrokenEmoji": {
+    "name": "HeartBrokenEmoji",
+    "displayName": "Heart Broken Emoji",
+    "quality": "common",
+    "itemdefid": "493"
+  },
+  "HeartSparklingEmoji": {
+    "name": "HeartSparklingEmoji",
+    "displayName": "Heart Sparkling Emoji",
+    "quality": "uncommon",
+    "itemdefid": "494"
+  },
+  "MarkCheckEmoji": {
+    "name": "MarkCheckEmoji",
+    "displayName": "Mark Check Emoji",
+    "quality": "common",
+    "itemdefid": "495"
+  },
+  "MarkCircleEmoji": {
+    "name": "MarkCircleEmoji",
+    "displayName": "Mark Circle Emoji",
+    "quality": "common",
+    "itemdefid": "496"
+  },
+  "MarkCrossEmoji": {
+    "name": "MarkCrossEmoji",
+    "displayName": "Mark Cross Emoji",
+    "quality": "common",
+    "itemdefid": "497"
+  },
+  "NatureAirEmoji": {
+    "name": "NatureAirEmoji",
+    "displayName": "Nature Air Emoji",
+    "quality": "rare",
+    "itemdefid": "498"
+  },
+  "NatureSakuraBlossomEmoji": {
+    "name": "NatureSakuraBlossomEmoji",
+    "displayName": "Nature Sakura Blossom Emoji",
+    "quality": "legendary",
+    "itemdefid": "499"
+  },
+  "ObjectBananaPeelEmoji": {
+    "name": "ObjectBananaPeelEmoji",
+    "displayName": "Object Banana Peel Emoji",
+    "quality": "rare",
+    "itemdefid": "500"
+  },
+  "ObjectBaseballBatEmoji": {
+    "name": "ObjectBaseballBatEmoji",
+    "displayName": "Object Baseball Bat Emoji",
+    "quality": "legendary",
+    "itemdefid": "501"
+  },
+  "PawThumbsUpEmoji": {
+    "name": "PawThumbsUpEmoji",
+    "displayName": "Paw Thumbs Up Emoji",
+    "quality": "legendary",
+    "itemdefid": "502"
+  },
+  "PawWaveEmoji": {
+    "name": "PawWaveEmoji",
+    "displayName": "Paw Wave Emoji",
+    "quality": "legendary",
+    "itemdefid": "503"
+  },
+  "SymbolHundredPointsEmoji": {
+    "name": "SymbolHundredPointsEmoji",
+    "displayName": "Symbol Hundred Points Emoji",
+    "quality": "uncommon",
+    "itemdefid": "504"
+  },
+  "SymbolMusicalNoteYellowEmoji": {
+    "name": "SymbolMusicalNoteYellowEmoji",
+    "displayName": "Symbol Musical Note Yellow Emoji",
+    "quality": "common",
+    "itemdefid": "505"
+  },
+  "FaceColdEmoji": {
+    "name": "FaceColdEmoji",
+    "displayName": "Face Cold Emoji",
+    "quality": "epic",
+    "itemdefid": "506"
+  },
+  "FaceDevilEmoji": {
+    "name": "FaceDevilEmoji",
+    "displayName": "Face Devil Emoji",
+    "quality": "legendary",
+    "itemdefid": "507"
+  },
+  "FaceHaloEmoji": {
+    "name": "FaceHaloEmoji",
+    "displayName": "Face Halo Emoji",
+    "quality": "rare",
+    "itemdefid": "508"
+  },
+  "FaceSkullEmoji": {
+    "name": "FaceSkullEmoji",
+    "displayName": "Face Skull Emoji",
+    "quality": "epic",
+    "itemdefid": "509"
+  },
+  "FaceBawlingEmoji": {
+    "name": "FaceBawlingEmoji",
+    "displayName": "Face Bawling Emoji",
+    "quality": "common",
+    "itemdefid": "510"
+  },
+  "FaceBonkEmoji": {
+    "name": "FaceBonkEmoji",
+    "displayName": "Face Bonk Emoji",
+    "quality": "common",
+    "itemdefid": "511"
+  },
+  "FaceCelebrateEmoji": {
+    "name": "FaceCelebrateEmoji",
+    "displayName": "Face Celebrate Emoji",
+    "quality": "common",
+    "itemdefid": "512"
+  },
+  "FaceDizzyEmoji": {
+    "name": "FaceDizzyEmoji",
+    "displayName": "Face Dizzy Emoji",
+    "quality": "rare",
+    "itemdefid": "513"
+  },
+  "FaceDroolEmoji": {
+    "name": "FaceDroolEmoji",
+    "displayName": "Face Drool Emoji",
+    "quality": "rare",
+    "itemdefid": "514"
+  },
+  "FaceExpressionlessEmoji": {
+    "name": "FaceExpressionlessEmoji",
+    "displayName": "Face Expressionless Emoji",
+    "quality": "uncommon",
+    "itemdefid": "515"
+  },
+  "FaceFeverEmoji": {
+    "name": "FaceFeverEmoji",
+    "displayName": "Face Fever Emoji",
+    "quality": "uncommon",
+    "itemdefid": "516"
+  },
+  "FaceFlippedEmoji": {
+    "name": "FaceFlippedEmoji",
+    "displayName": "Face Flipped Emoji",
+    "quality": "common",
+    "itemdefid": "517"
+  },
+  "FaceFumeEmoji": {
+    "name": "FaceFumeEmoji",
+    "displayName": "Face Fume Emoji",
+    "quality": "rare",
+    "itemdefid": "518"
+  },
+  "FaceGiggleEmoji": {
+    "name": "FaceGiggleEmoji",
+    "displayName": "Face Giggle Emoji",
+    "quality": "uncommon",
+    "itemdefid": "519"
+  },
+  "FaceGoofyEmoji": {
+    "name": "FaceGoofyEmoji",
+    "displayName": "Face Goofy Emoji",
+    "quality": "uncommon",
+    "itemdefid": "520"
+  },
+  "FaceGreedyEmoji": {
+    "name": "FaceGreedyEmoji",
+    "displayName": "Face Greedy Emoji",
+    "quality": "uncommon",
+    "itemdefid": "521"
+  },
+  "FaceGrimaceEmoji": {
+    "name": "FaceGrimaceEmoji",
+    "displayName": "Face Grimace Emoji",
+    "quality": "common",
+    "itemdefid": "522"
+  },
+  "FaceGrinEmoji": {
+    "name": "FaceGrinEmoji",
+    "displayName": "Face Grin Emoji",
+    "quality": "common",
+    "itemdefid": "523"
+  },
+  "FaceHeartSmileEmoji": {
+    "name": "FaceHeartSmileEmoji",
+    "displayName": "Face Heart Smile Emoji",
+    "quality": "uncommon",
+    "itemdefid": "524"
+  },
+  "FaceHotEmoji": {
+    "name": "FaceHotEmoji",
+    "displayName": "Face Hot Emoji",
+    "quality": "epic",
+    "itemdefid": "525"
+  },
+  "FaceHugEmoji": {
+    "name": "FaceHugEmoji",
+    "displayName": "Face Hug Emoji",
+    "quality": "rare",
+    "itemdefid": "526"
+  },
+  "FaceInjuredEmoji": {
+    "name": "FaceInjuredEmoji",
+    "displayName": "Face Injured Emoji",
+    "quality": "uncommon",
+    "itemdefid": "527"
+  },
+  "FaceMadEmoji": {
+    "name": "FaceMadEmoji",
+    "displayName": "Face Mad Emoji",
+    "quality": "common",
+    "itemdefid": "528"
+  },
+  "FaceNauseatedEmoji": {
+    "name": "FaceNauseatedEmoji",
+    "displayName": "Face Nauseated Emoji",
+    "quality": "uncommon",
+    "itemdefid": "529"
+  },
+  "FaceObsessedEmoji": {
+    "name": "FaceObsessedEmoji",
+    "displayName": "Face Obsessed Emoji",
+    "quality": "rare",
+    "itemdefid": "530"
+  },
+  "FacePensiveEmoji": {
+    "name": "FacePensiveEmoji",
+    "displayName": "Face Pensive Emoji",
+    "quality": "common",
+    "itemdefid": "531"
+  },
+  "FacePleadingEmoji": {
+    "name": "FacePleadingEmoji",
+    "displayName": "Face Pleading Emoji",
+    "quality": "common",
+    "itemdefid": "532"
+  },
+  "FacePleasedEmoji": {
+    "name": "FacePleasedEmoji",
+    "displayName": "Face Pleased Emoji",
+    "quality": "uncommon",
+    "itemdefid": "533"
+  },
+  "FacePoutEmoji": {
+    "name": "FacePoutEmoji",
+    "displayName": "Face Pout Emoji",
+    "quality": "uncommon",
+    "itemdefid": "534"
+  },
+  "FaceScreamEmoji": {
+    "name": "FaceScreamEmoji",
+    "displayName": "Face Scream Emoji",
+    "quality": "rare",
+    "itemdefid": "535"
+  },
+  "FaceSnortEmoji": {
+    "name": "FaceSnortEmoji",
+    "displayName": "Face Snort Emoji",
+    "quality": "epic",
+    "itemdefid": "536"
+  },
+  "FaceSquintEmoji": {
+    "name": "FaceSquintEmoji",
+    "displayName": "Face Squint Emoji",
+    "quality": "common",
+    "itemdefid": "537"
+  },
+  "FaceSweetKissEmoji": {
+    "name": "FaceSweetKissEmoji",
+    "displayName": "Face Sweet Kiss Emoji",
+    "quality": "common",
+    "itemdefid": "538"
+  },
+  "FaceTeaseEmoji": {
+    "name": "FaceTeaseEmoji",
+    "displayName": "Face Tease Emoji",
+    "quality": "uncommon",
+    "itemdefid": "539"
+  },
+  "FaceUnamusedEmoji": {
+    "name": "FaceUnamusedEmoji",
+    "displayName": "Face Unamused Emoji",
+    "quality": "common",
+    "itemdefid": "540"
+  },
+  "FaceVomitEmoji": {
+    "name": "FaceVomitEmoji",
+    "displayName": "Face Vomit Emoji",
+    "quality": "rare",
+    "itemdefid": "541"
+  },
+  "FaceYawnEmoji": {
+    "name": "FaceYawnEmoji",
+    "displayName": "Face Yawn Emoji",
+    "quality": "uncommon",
+    "itemdefid": "542"
+  },
+  "FaceYumEmoji": {
+    "name": "FaceYumEmoji",
+    "displayName": "Face Yum Emoji",
+    "quality": "uncommon",
+    "itemdefid": "543"
+  },
+  "FlagPirateEmoji": {
+    "name": "FlagPirateEmoji",
+    "displayName": "Flag Pirate Emoji",
+    "quality": "rare",
+    "itemdefid": "544"
+  },
+  "FlagRacingEmoji": {
+    "name": "FlagRacingEmoji",
+    "displayName": "Flag Racing Emoji",
+    "quality": "uncommon",
+    "itemdefid": "545"
+  },
+  "FoodDangoEmoji": {
+    "name": "FoodDangoEmoji",
+    "displayName": "Food Dango Emoji",
+    "quality": "uncommon",
+    "itemdefid": "546"
+  },
+  "FoodMeatEmoji": {
+    "name": "FoodMeatEmoji",
+    "displayName": "Food Meat Emoji",
+    "quality": "uncommon",
+    "itemdefid": "547"
+  },
+  "FoodPeachEmoji": {
+    "name": "FoodPeachEmoji",
+    "displayName": "Food Peach Emoji",
+    "quality": "epic",
+    "itemdefid": "548"
+  },
+  "FoodPeeledBananaEmoji": {
+    "name": "FoodPeeledBananaEmoji",
+    "displayName": "Food Peeled Banana Emoji",
+    "quality": "epic",
+    "itemdefid": "549"
+  },
+  "HeartGifted": {
+    "name": "HeartGifted",
+    "displayName": "Heart Gifted",
+    "quality": "rare",
+    "itemdefid": "550"
+  },
+  "HeartMendedEmoji": {
+    "name": "HeartMendedEmoji",
+    "displayName": "Heart Mended Emoji",
+    "quality": "uncommon",
+    "itemdefid": "551"
+  },
+  "HeartShotEmoji": {
+    "name": "HeartShotEmoji",
+    "displayName": "Heart Shot Emoji",
+    "quality": "rare",
+    "itemdefid": "552"
+  },
+  "MarkExclamationEmoji": {
+    "name": "MarkExclamationEmoji",
+    "displayName": "Mark Exclamation Emoji",
+    "quality": "common",
+    "itemdefid": "553"
+  },
+  "MarkInterrobangEmoji": {
+    "name": "MarkInterrobangEmoji",
+    "displayName": "Mark Interrobang Emoji",
+    "quality": "uncommon",
+    "itemdefid": "554"
+  },
+  "MarkQuestionEmoji": {
+    "name": "MarkQuestionEmoji",
+    "displayName": "Mark Question Emoji",
+    "quality": "common",
+    "itemdefid": "555"
+  },
+  "SymbolMusicalNotePurpleEmoji": {
+    "name": "SymbolMusicalNotePurpleEmoji",
+    "displayName": "Symbol Musical Note Purple Emoji",
+    "quality": "common",
+    "itemdefid": "556"
+  },
+  "SymbolProhibitedEmoji": {
+    "name": "SymbolProhibitedEmoji",
+    "displayName": "Symbol Prohibited Emoji",
+    "quality": "uncommon",
+    "itemdefid": "557"
+  },
+  "SymbolSleepEmoji": {
+    "name": "SymbolSleepEmoji",
+    "displayName": "Symbol Sleep Emoji",
+    "quality": "common",
+    "itemdefid": "558"
+  },
+  "SymbolSpeechBubbleEmoji": {
+    "name": "SymbolSpeechBubbleEmoji",
+    "displayName": "Symbol Speech Bubble Emoji",
+    "quality": "common",
+    "itemdefid": "559"
+  },
+  "SymbolThoughtBubbleEmoji": {
+    "name": "SymbolThoughtBubbleEmoji",
+    "displayName": "Symbol Thought Bubble Emoji",
+    "quality": "common",
+    "itemdefid": "560"
+  },
+  "SymbolSparkleEmoji": {
+    "name": "SymbolSparkleEmoji",
+    "displayName": "Symbol Sparkle Emoji",
+    "quality": "legendary",
+    "itemdefid": "927"
+  }
+}

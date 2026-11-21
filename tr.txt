@@ -1,0 +1,82 @@
+arse_evidence(root, workitems, issues, verify_hashes)
+    findings, paths, report_refs = parse_reports(root, issues)
+    references = workitem_refs + timeline_refs + evidence_refs + report_refs
+
+    for evidence_id, source in references:
+        if evidence_id not in evidence:
+            issue(issues, "error", "reference.unknown_evidence", "reference points to missing Evidence: " + evidence_id, source)
+
+    traceability = build_traceability(evidence, references)
+    for evidence_id, links in traceability.items():
+        if not any(links.values()):
+            issue(issues, "warning", "evidence.unlinked", "Evidence is not referenced by a work item, timeline, or report", "evidence/" + evidence_id + ".md")
+
+    errors = sum(1 for item in issues if item["level"] == "error")
+    warnings = sum(1 for item in issues if item["level"] == "warning")
+    status = "FAIL" if errors or (strict and warnings) else "WARN" if warnings else "PASS"
+    return {
+        "status": status,
+        "case_root": str(root),
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "scope": scope,
+        "summary": {
+            "errors": errors,
+            "warnings": warnings,
+            "evidence": len(evidence),
+            "workitems": len(workitems),
+            "timeline_events": timeline_events,
+            "findings": len(findings),
+            "paths": len(paths),
+        },
+        "issues": issues,
+        "traceability": traceability,
+    }
+
+
+def render_markdown(report):
+    summary = report["summary"]
+    lines = [
+        "# Case review",
+        "",
+        "- status: " + report["status"],
+        "- case_root: " + report["case_root"],
+        "- generated_at: " + report["generated_at"],
+        "",
+        "## Summary",
+        "",
+        "| Metric | Value |",
+        "|---|---:|",
+    ]
+    for key in ("errors", "warnings", "evidence", "workitems", "timeline_events", "findings", "paths"):
+        lines.append("| " + key + " | " + str(summary[key]) + " |")
+
+    lines.extend(["", "## Checks", "", "| Level | Code | Location | Detail |", "|---|---|---|---|"])
+    if report["issues"]:
+        for item in report["issues"]:
+            location = item["path"].replace("|", "\\|")
+            detail = item["message"].replace("|", "\\|")
+            lines.append("| " + item["level"] + " | " + item["code"] + " | " + location + " | " + detail + " |")
+    else:
+        lines.append("| pass | none | n/a | No review issues found |")
+
+    lines.extend(["", "## Traceability", "", "| Evidence | Work items | Timeline | Reports |", "|---|---:|---:|---:|"])
+    if report["traceability"]:
+        for evidence_id, links in report["traceability"].items():
+            lines.append(
+                "| " + evidence_id + " | " + str(links["workitems"]) + " | " + str(links["timeline"]) + " | " + str(links["reports"]) + " |"
+            )
+    else:
+        lines.append("| n/a | 0 | 0 | 0 |")
+    return "\n".join(lines) + "\n"
+
+
+def main(argv=None):
+    parser = argparse.ArgumentParser(description="Review a reverse-skill case for scope and Evidence graph integrity")
+    parser.add_argument("case_root", help="Path to a work/<case> directory")
+    parser.add_argument("--format", choices=("markdown", "json"), default="markdown")
+    parser.add_argument("--strict", action="store_true", help="Treat warnings as a failed review")
+    parser.add_argument("--verify-hashes", action="store_true", help="Verify SHA-256 content_hash values against artifact_path")
+    args = parser.parse_args(argv)
+    report = review_case(args.case_root, strict=args.strict, verify_hashes=args.verify_hashes)
+    if args.format == "json":
+        print(json.dumps(report, ensure_ascii=

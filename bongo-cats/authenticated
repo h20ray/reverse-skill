@@ -1,0 +1,17 @@
+== Process() ==
+0000 ldarg.0 
+0001 call System.Void BongoCat.OSSpecific.GlobalKeyHook::ProcessControllerInput()
+0006 ldarg.0 
+0007 ldarg.0 
+0008 ldfld System.Int32 BongoCat.OSSpecific.GlobalKeyHook::_keysDown
+000D ldarg.0 
+000E ldfld GlobalKeyHook.IGlobalKeyHook BongoCat.OSSpecific.GlobalKeyHook::_platformHook
+0013 ldarg.0 
+0014 ldfld BongoCat.PlayerPrefsToggle BongoCat.OSSpecific.GlobalKeyHook::_ignoreMouse
+0019 callvirt System.Boolean BongoCat.PlayerPrefsToggle::get_Value()
+001E callvirt System.Int32 GlobalKeyHook.IGlobalKeyHook::ProcessInput(System.Boolean)
+0023 ldc.i4 10000
+0028 mul 
+0029 add 
+002A stfld System.Int32 BongoCat.OSSpecific.GlobalKeyHook::_keysDown
+002F ret 

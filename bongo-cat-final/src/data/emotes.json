@@ -1,0 +1,737 @@
+[
+  {
+    "id": "AnimalShrimpEmoji",
+    "name": "AnimalShrimpEmoji",
+    "displayName": "AnimalShrimpEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceAngryEmoji",
+    "name": "FaceAngryEmoji",
+    "displayName": "FaceAngryEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceBaseEmoji",
+    "name": "FaceBaseEmoji",
+    "displayName": "FaceBaseEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceBawlingEmoji",
+    "name": "FaceBawlingEmoji",
+    "displayName": "FaceBawlingEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceBlowKissEmoji",
+    "name": "FaceBlowKissEmoji",
+    "displayName": "FaceBlowKissEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceBlushEmoji",
+    "name": "FaceBlushEmoji",
+    "displayName": "FaceBlushEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceBonkEmoji",
+    "name": "FaceBonkEmoji",
+    "displayName": "FaceBonkEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceCelebrateEmoji",
+    "name": "FaceCelebrateEmoji",
+    "displayName": "FaceCelebrateEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceCheekyEmoji",
+    "name": "FaceCheekyEmoji",
+    "displayName": "FaceCheekyEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceColdEmoji",
+    "name": "FaceColdEmoji",
+    "displayName": "FaceColdEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceContentEmoji",
+    "name": "FaceContentEmoji",
+    "displayName": "FaceContentEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceCoolEmoji",
+    "name": "FaceCoolEmoji",
+    "displayName": "FaceCoolEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceCryingEmoji",
+    "name": "FaceCryingEmoji",
+    "displayName": "FaceCryingEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceDeadEmoji",
+    "name": "FaceDeadEmoji",
+    "displayName": "FaceDeadEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceDevilEmoji",
+    "name": "FaceDevilEmoji",
+    "displayName": "FaceDevilEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceDizzyEmoji",
+    "name": "FaceDizzyEmoji",
+    "displayName": "FaceDizzyEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceDroolEmoji",
+    "name": "FaceDroolEmoji",
+    "displayName": "FaceDroolEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceExcitedEmoji",
+    "name": "FaceExcitedEmoji",
+    "displayName": "FaceExcitedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceExpressionlessEmoji",
+    "name": "FaceExpressionlessEmoji",
+    "displayName": "FaceExpressionlessEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceFearEmoji",
+    "name": "FaceFearEmoji",
+    "displayName": "FaceFearEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceFeverEmoji",
+    "name": "FaceFeverEmoji",
+    "displayName": "FaceFeverEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceFlippedEmoji",
+    "name": "FaceFlippedEmoji",
+    "displayName": "FaceFlippedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceFumeEmoji",
+    "name": "FaceFumeEmoji",
+    "displayName": "FaceFumeEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceGiggleEmoji",
+    "name": "FaceGiggleEmoji",
+    "displayName": "FaceGiggleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceGoofyEmoji",
+    "name": "FaceGoofyEmoji",
+    "displayName": "FaceGoofyEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceGreedyEmoji",
+    "name": "FaceGreedyEmoji",
+    "displayName": "FaceGreedyEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceGrimaceEmoji",
+    "name": "FaceGrimaceEmoji",
+    "displayName": "FaceGrimaceEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceGrinEmoji",
+    "name": "FaceGrinEmoji",
+    "displayName": "FaceGrinEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceHaloEmoji",
+    "name": "FaceHaloEmoji",
+    "displayName": "FaceHaloEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceHappyEmoji",
+    "name": "FaceHappyEmoji",
+    "displayName": "FaceHappyEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceHeartSmileEmoji",
+    "name": "FaceHeartSmileEmoji",
+    "displayName": "FaceHeartSmileEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceHotEmoji",
+    "name": "FaceHotEmoji",
+    "displayName": "FaceHotEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceHugEmoji",
+    "name": "FaceHugEmoji",
+    "displayName": "FaceHugEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceInjuredEmoji",
+    "name": "FaceInjuredEmoji",
+    "displayName": "FaceInjuredEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceKissEmoji",
+    "name": "FaceKissEmoji",
+    "displayName": "FaceKissEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceLaughEmoji",
+    "name": "FaceLaughEmoji",
+    "displayName": "FaceLaughEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceLoveEmoji",
+    "name": "FaceLoveEmoji",
+    "displayName": "FaceLoveEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceMadEmoji",
+    "name": "FaceMadEmoji",
+    "displayName": "FaceMadEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceNauseatedEmoji",
+    "name": "FaceNauseatedEmoji",
+    "displayName": "FaceNauseatedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceObsessedEmoji",
+    "name": "FaceObsessedEmoji",
+    "displayName": "FaceObsessedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FacePensiveEmoji",
+    "name": "FacePensiveEmoji",
+    "displayName": "FacePensiveEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FacePleadingEmoji",
+    "name": "FacePleadingEmoji",
+    "displayName": "FacePleadingEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FacePleasedEmoji",
+    "name": "FacePleasedEmoji",
+    "displayName": "FacePleasedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FacePoutEmoji",
+    "name": "FacePoutEmoji",
+    "displayName": "FacePoutEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceRelaxedEmoji",
+    "name": "FaceRelaxedEmoji",
+    "displayName": "FaceRelaxedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSadEmoji",
+    "name": "FaceSadEmoji",
+    "displayName": "FaceSadEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceScreamEmoji",
+    "name": "FaceScreamEmoji",
+    "displayName": "FaceScreamEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSighEmoji",
+    "name": "FaceSighEmoji",
+    "displayName": "FaceSighEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSingleTearEmoji",
+    "name": "FaceSingleTearEmoji",
+    "displayName": "FaceSingleTearEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSkullEmoji",
+    "name": "FaceSkullEmoji",
+    "displayName": "FaceSkullEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSleepEmoji",
+    "name": "FaceSleepEmoji",
+    "displayName": "FaceSleepEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSmileEmoji",
+    "name": "FaceSmileEmoji",
+    "displayName": "FaceSmileEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSmirkEmoji",
+    "name": "FaceSmirkEmoji",
+    "displayName": "FaceSmirkEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSnortEmoji",
+    "name": "FaceSnortEmoji",
+    "displayName": "FaceSnortEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSquintEmoji",
+    "name": "FaceSquintEmoji",
+    "displayName": "FaceSquintEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSurpriseEmoji",
+    "name": "FaceSurpriseEmoji",
+    "displayName": "FaceSurpriseEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSweatySmileEmoji",
+    "name": "FaceSweatySmileEmoji",
+    "displayName": "FaceSweatySmileEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceSweetKissEmoji",
+    "name": "FaceSweetKissEmoji",
+    "displayName": "FaceSweetKissEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceTeaseEmoji",
+    "name": "FaceTeaseEmoji",
+    "displayName": "FaceTeaseEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceUnamusedEmoji",
+    "name": "FaceUnamusedEmoji",
+    "displayName": "FaceUnamusedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceUpsetEmoji",
+    "name": "FaceUpsetEmoji",
+    "displayName": "FaceUpsetEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceVomitEmoji",
+    "name": "FaceVomitEmoji",
+    "displayName": "FaceVomitEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceWinkEmoji",
+    "name": "FaceWinkEmoji",
+    "displayName": "FaceWinkEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceYawnEmoji",
+    "name": "FaceYawnEmoji",
+    "displayName": "FaceYawnEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FaceYumEmoji",
+    "name": "FaceYumEmoji",
+    "displayName": "FaceYumEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FlagGreenEmoji",
+    "name": "FlagGreenEmoji",
+    "displayName": "FlagGreenEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FlagPirateEmoji",
+    "name": "FlagPirateEmoji",
+    "displayName": "FlagPirateEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FlagRacingEmoji",
+    "name": "FlagRacingEmoji",
+    "displayName": "FlagRacingEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FlagRedEmoji",
+    "name": "FlagRedEmoji",
+    "displayName": "FlagRedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FlagWhiteEmoji",
+    "name": "FlagWhiteEmoji",
+    "displayName": "FlagWhiteEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodBirthdayCakeEmoji",
+    "name": "FoodBirthdayCakeEmoji",
+    "displayName": "FoodBirthdayCakeEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodCoffeeEmoji",
+    "name": "FoodCoffeeEmoji",
+    "displayName": "FoodCoffeeEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodDangoEmoji",
+    "name": "FoodDangoEmoji",
+    "displayName": "FoodDangoEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodDonutEmoji",
+    "name": "FoodDonutEmoji",
+    "displayName": "FoodDonutEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodMeatEmoji",
+    "name": "FoodMeatEmoji",
+    "displayName": "FoodMeatEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodOnigiriEmoji",
+    "name": "FoodOnigiriEmoji",
+    "displayName": "FoodOnigiriEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodPeachEmoji",
+    "name": "FoodPeachEmoji",
+    "displayName": "FoodPeachEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodPeeledBananaEmoji",
+    "name": "FoodPeeledBananaEmoji",
+    "displayName": "FoodPeeledBananaEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodPizzaEmoji",
+    "name": "FoodPizzaEmoji",
+    "displayName": "FoodPizzaEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "FoodStrawberryEmoji",
+    "name": "FoodStrawberryEmoji",
+    "displayName": "FoodStrawberryEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "HeartBaseEmoji",
+    "name": "HeartBaseEmoji",
+    "displayName": "HeartBaseEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "HeartBrokenEmoji",
+    "name": "HeartBrokenEmoji",
+    "displayName": "HeartBrokenEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "HeartMendedEmoji",
+    "name": "HeartMendedEmoji",
+    "displayName": "HeartMendedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "HeartShotEmoji",
+    "name": "HeartShotEmoji",
+    "displayName": "HeartShotEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "HeartSparklingEmoji",
+    "name": "HeartSparklingEmoji",
+    "displayName": "HeartSparklingEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkCheckEmoji",
+    "name": "MarkCheckEmoji",
+    "displayName": "MarkCheckEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkCircleEmoji",
+    "name": "MarkCircleEmoji",
+    "displayName": "MarkCircleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkCrossEmoji",
+    "name": "MarkCrossEmoji",
+    "displayName": "MarkCrossEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkExclamationEmoji",
+    "name": "MarkExclamationEmoji",
+    "displayName": "MarkExclamationEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkInterrobangEmoji",
+    "name": "MarkInterrobangEmoji",
+    "displayName": "MarkInterrobangEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "MarkQuestionEmoji",
+    "name": "MarkQuestionEmoji",
+    "displayName": "MarkQuestionEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "NatureAirEmoji",
+    "name": "NatureAirEmoji",
+    "displayName": "NatureAirEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "NatureSakuraBlossomEmoji",
+    "name": "NatureSakuraBlossomEmoji",
+    "displayName": "NatureSakuraBlossomEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "ObjectBananaPeelEmoji",
+    "name": "ObjectBananaPeelEmoji",
+    "displayName": "ObjectBananaPeelEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "ObjectBaseballBatEmoji",
+    "name": "ObjectBaseballBatEmoji",
+    "displayName": "ObjectBaseballBatEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "PawThumbsUpEmoji",
+    "name": "PawThumbsUpEmoji",
+    "displayName": "PawThumbsUpEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "PawWaveEmoji",
+    "name": "PawWaveEmoji",
+    "displayName": "PawWaveEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolHundredPointsEmoji",
+    "name": "SymbolHundredPointsEmoji",
+    "displayName": "SymbolHundredPointsEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolMusicalNotePurpleEmoji",
+    "name": "SymbolMusicalNotePurpleEmoji",
+    "displayName": "SymbolMusicalNotePurpleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolMusicalNoteYellowEmoji",
+    "name": "SymbolMusicalNoteYellowEmoji",
+    "displayName": "SymbolMusicalNoteYellowEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolProhibitedEmoji",
+    "name": "SymbolProhibitedEmoji",
+    "displayName": "SymbolProhibitedEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolSleepEmoji",
+    "name": "SymbolSleepEmoji",
+    "displayName": "SymbolSleepEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolSparkleEmoji",
+    "name": "SymbolSparkleEmoji",
+    "displayName": "SymbolSparkleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolSpeechBubbleEmoji",
+    "name": "SymbolSpeechBubbleEmoji",
+    "displayName": "SymbolSpeechBubbleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  },
+  {
+    "id": "SymbolThoughtBubbleEmoji",
+    "name": "SymbolThoughtBubbleEmoji",
+    "displayName": "SymbolThoughtBubbleEmoji",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0"
+  }
+]

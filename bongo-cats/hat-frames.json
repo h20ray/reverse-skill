@@ -1,0 +1,4466 @@
+{
+  "GreenPartyHat": {
+    "name": "GreenPartyHat",
+    "displayName": "Green Party Hat",
+    "quality": "common",
+    "itemdefid": "109",
+    "frame": [
+      98.0,
+      50.1,
+      68.9,
+      80.9
+    ]
+  },
+  "PurplePartyHat": {
+    "name": "PurplePartyHat",
+    "displayName": "Purple Party Hat",
+    "quality": "common",
+    "itemdefid": "110",
+    "frame": [
+      98.0,
+      50.1,
+      68.9,
+      80.9
+    ]
+  },
+  "BluePartyHat": {
+    "name": "BluePartyHat",
+    "displayName": "Blue Party Hat",
+    "quality": "common",
+    "itemdefid": "111",
+    "frame": [
+      98.1,
+      52.1,
+      68.9,
+      80.9
+    ]
+  },
+  "BongoCatHat": {
+    "name": "BongoCatHat",
+    "displayName": "Bongo Cat Hat",
+    "quality": "epic",
+    "itemdefid": "112",
+    "frame": [
+      41.1,
+      43.0,
+      131.9,
+      79.0
+    ]
+  },
+  "BlueTophat": {
+    "name": "BlueTophat",
+    "displayName": "Blue Tophat",
+    "quality": "common",
+    "itemdefid": "113",
+    "frame": [
+      74.1,
+      48.0,
+      113.9,
+      109.9
+    ]
+  },
+  "RedTophat": {
+    "name": "RedTophat",
+    "displayName": "Red Tophat",
+    "quality": "common",
+    "itemdefid": "114",
+    "frame": [
+      74.1,
+      48.0,
+      113.9,
+      109.9
+    ]
+  },
+  "GoldTophat": {
+    "name": "GoldTophat",
+    "displayName": "Gold Tophat",
+    "quality": "uncommon",
+    "itemdefid": "115",
+    "frame": [
+      74.1,
+      48.0,
+      113.9,
+      109.9
+    ]
+  },
+  "PurpleWizardHat": {
+    "name": "PurpleWizardHat",
+    "displayName": "Purple Wizard Hat",
+    "quality": "uncommon",
+    "itemdefid": "116",
+    "frame": [
+      13.0,
+      24.1,
+      220.9,
+      162.8
+    ]
+  },
+  "BlackWizardHat": {
+    "name": "BlackWizardHat",
+    "displayName": "Black Wizard Hat",
+    "quality": "uncommon",
+    "itemdefid": "117",
+    "frame": [
+      13.0,
+      24.1,
+      220.9,
+      162.8
+    ]
+  },
+  "BlackRibbon": {
+    "name": "BlackRibbon",
+    "displayName": "Black Ribbon",
+    "quality": "common",
+    "itemdefid": "118",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "BlueRibbon": {
+    "name": "BlueRibbon",
+    "displayName": "Blue Ribbon",
+    "quality": "common",
+    "itemdefid": "119",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "GoldRibbon": {
+    "name": "GoldRibbon",
+    "displayName": "Gold Ribbon",
+    "quality": "uncommon",
+    "itemdefid": "120",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "GreenRibbon": {
+    "name": "GreenRibbon",
+    "displayName": "Green Ribbon",
+    "quality": "common",
+    "itemdefid": "121",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "PinkRibbon": {
+    "name": "PinkRibbon",
+    "displayName": "Pink Ribbon",
+    "quality": "common",
+    "itemdefid": "122",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "CoolSunglasses": {
+    "name": "CoolSunglasses",
+    "displayName": "Cool Sunglasses",
+    "quality": "rare",
+    "itemdefid": "123",
+    "frame": [
+      30.1,
+      0.0,
+      132.9,
+      41.9
+    ]
+  },
+  "AngelHalo": {
+    "name": "AngelHalo",
+    "displayName": "Angel Halo",
+    "quality": "rare",
+    "itemdefid": "124",
+    "frame": [
+      24.0,
+      1.1,
+      222.9,
+      179.8
+    ]
+  },
+  "AnimeBoyHair": {
+    "name": "AnimeBoyHair",
+    "displayName": "Anime Boy Hair",
+    "quality": "uncommon",
+    "itemdefid": "125",
+    "frame": [
+      2.0,
+      0.0,
+      247.9,
+      149.9
+    ]
+  },
+  "AnimeGirlHair": {
+    "name": "AnimeGirlHair",
+    "displayName": "Anime Girl Hair",
+    "quality": "uncommon",
+    "itemdefid": "126",
+    "frame": [
+      15.1,
+      9.1,
+      233.8,
+      152.9
+    ]
+  },
+  "ArrowInApple": {
+    "name": "ArrowInApple",
+    "displayName": "Arrow In Apple",
+    "quality": "uncommon",
+    "itemdefid": "127",
+    "frame": [
+      24.1,
+      57.0,
+      153.9,
+      84.9
+    ]
+  },
+  "ArrowOutsideApple": {
+    "name": "ArrowOutsideApple",
+    "displayName": "Arrow Outside Apple",
+    "quality": "rare",
+    "itemdefid": "128",
+    "frame": [
+      6.1,
+      21.1,
+      155.8,
+      119.8
+    ]
+  },
+  "AutumnLeafCrown": {
+    "name": "AutumnLeafCrown",
+    "displayName": "Autumn Leaf Crown",
+    "quality": "uncommon",
+    "itemdefid": "129",
+    "frame": [
+      16.1,
+      10.0,
+      213.8,
+      81.9
+    ]
+  },
+  "Banana": {
+    "name": "Banana",
+    "displayName": "Banana",
+    "quality": "common",
+    "itemdefid": "130",
+    "frame": [
+      78.1,
+      59.1,
+      95.9,
+      74.9
+    ]
+  },
+  "BayLeaves": {
+    "name": "BayLeaves",
+    "displayName": "Bay Leaves",
+    "quality": "epic",
+    "itemdefid": "131",
+    "frame": [
+      28.1,
+      3.1,
+      210.9,
+      116.9
+    ]
+  },
+  "Beer": {
+    "name": "Beer",
+    "displayName": "Beer",
+    "quality": "common",
+    "itemdefid": "132",
+    "frame": [
+      84.0,
+      49.1,
+      112.9,
+      151.9
+    ]
+  },
+  "Beret": {
+    "name": "Beret",
+    "displayName": "Beret",
+    "quality": "common",
+    "itemdefid": "133",
+    "frame": [
+      61.1,
+      33.0,
+      162.9,
+      92.9
+    ]
+  },
+  "BigPumpkinHat": {
+    "name": "BigPumpkinHat",
+    "displayName": "Big Pumpkin Hat",
+    "quality": "legendary",
+    "itemdefid": "134",
+    "frame": [
+      36.1,
+      14.1,
+      206.9,
+      194.9
+    ]
+  },
+  "Birds": {
+    "name": "Birds",
+    "displayName": "Birds",
+    "quality": "legendary",
+    "itemdefid": "135",
+    "frame": [
+      86.0,
+      48.0,
+      96.9,
+      93.9
+    ]
+  },
+  "BlackRubberDuck": {
+    "name": "BlackRubberDuck",
+    "displayName": "Black Rubber Duck",
+    "quality": "uncommon",
+    "itemdefid": "136",
+    "frame": [
+      88.0,
+      56.1,
+      63.9,
+      62.9
+    ]
+  },
+  "BlindMummy": {
+    "name": "BlindMummy",
+    "displayName": "Blind Mummy",
+    "quality": "legendary",
+    "itemdefid": "137",
+    "frame": [
+      30.1,
+      0.0,
+      187.9,
+      94.0
+    ]
+  },
+  "BlueBeretCap": {
+    "name": "BlueBeretCap",
+    "displayName": "Blue Beret Cap",
+    "quality": "common",
+    "itemdefid": "138",
+    "frame": [
+      80.0,
+      2.1,
+      146.9,
+      115.8
+    ]
+  },
+  "BluePainterBeret": {
+    "name": "BluePainterBeret",
+    "displayName": "Blue Painter Beret",
+    "quality": "common",
+    "itemdefid": "139",
+    "frame": [
+      48.0,
+      4.1,
+      184.9,
+      125.8
+    ]
+  },
+  "BongoBunny": {
+    "name": "BongoBunny",
+    "displayName": "Bongo Bunny",
+    "quality": "rare",
+    "itemdefid": "140",
+    "frame": [
+      7.1,
+      0.0,
+      248.9,
+      159.9
+    ]
+  },
+  "BongoCalico": {
+    "name": "BongoCalico",
+    "displayName": "Bongo Calico",
+    "quality": "epic",
+    "itemdefid": "141",
+    "frame": [
+      40.1,
+      0.0,
+      182.8,
+      212.0
+    ]
+  },
+  "BongoCow": {
+    "name": "BongoCow",
+    "displayName": "Bongo Cow",
+    "quality": "epic",
+    "itemdefid": "142",
+    "frame": [
+      38.1,
+      0.0,
+      217.9,
+      101.9
+    ]
+  },
+  "Book": {
+    "name": "Book",
+    "displayName": "Book",
+    "quality": "common",
+    "itemdefid": "143",
+    "frame": [
+      67.1,
+      23.0,
+      153.9,
+      134.9
+    ]
+  },
+  "BrownPilotGoggles": {
+    "name": "BrownPilotGoggles",
+    "displayName": "Brown Pilot Goggles",
+    "quality": "uncommon",
+    "itemdefid": "144",
+    "frame": [
+      36.1,
+      19.1,
+      153.9,
+      73.9
+    ]
+  },
+  "BunnyEars": {
+    "name": "BunnyEars",
+    "displayName": "Bunny Ears",
+    "quality": "uncommon",
+    "itemdefid": "145",
+    "frame": [
+      39.0,
+      2.0,
+      217.0,
+      171.9
+    ]
+  },
+  "Burger": {
+    "name": "Burger",
+    "displayName": "Burger",
+    "quality": "common",
+    "itemdefid": "146",
+    "frame": [
+      64.0,
+      50.1,
+      135.9,
+      106.8
+    ]
+  },
+  "Cake": {
+    "name": "Cake",
+    "displayName": "Cake",
+    "quality": "uncommon",
+    "itemdefid": "147",
+    "frame": [
+      78.0,
+      50.1,
+      110.9,
+      114.8
+    ]
+  },
+  "CalmLeaf": {
+    "name": "CalmLeaf",
+    "displayName": "Calm Leaf",
+    "quality": "common",
+    "itemdefid": "148",
+    "frame": [
+      88.1,
+      37.1,
+      89.8,
+      50.9
+    ]
+  },
+  "ChefHat": {
+    "name": "ChefHat",
+    "displayName": "Chef Hat",
+    "quality": "common",
+    "itemdefid": "149",
+    "frame": [
+      91.0,
+      54.1,
+      115.0,
+      110.9
+    ]
+  },
+  "ChefHatLarge": {
+    "name": "ChefHatLarge",
+    "displayName": "Chef Hat Large",
+    "quality": "rare",
+    "itemdefid": "150",
+    "frame": [
+      67.0,
+      15.0,
+      142.9,
+      198.9
+    ]
+  },
+  "Cherry": {
+    "name": "Cherry",
+    "displayName": "Cherry",
+    "quality": "common",
+    "itemdefid": "151",
+    "frame": [
+      102.1,
+      62.1,
+      73.9,
+      77.9
+    ]
+  },
+  "ClownHair": {
+    "name": "ClownHair",
+    "displayName": "Clown Hair",
+    "quality": "rare",
+    "itemdefid": "152",
+    "frame": [
+      24.1,
+      2.1,
+      222.8,
+      156.8
+    ]
+  },
+  "ConstructionWorker": {
+    "name": "ConstructionWorker",
+    "displayName": "Construction Worker",
+    "quality": "epic",
+    "itemdefid": "153",
+    "frame": [
+      30.1,
+      0.0,
+      166.8,
+      126.9
+    ]
+  },
+  "CowboyHat": {
+    "name": "CowboyHat",
+    "displayName": "Cowboy Hat",
+    "quality": "uncommon",
+    "itemdefid": "154",
+    "frame": [
+      46.1,
+      3.1,
+      189.8,
+      124.8
+    ]
+  },
+  "CowboyHatVariant": {
+    "name": "CowboyHatVariant",
+    "displayName": "Cowboy Hat Variant",
+    "quality": "uncommon",
+    "itemdefid": "155",
+    "frame": [
+      62.0,
+      7.0,
+      174.9,
+      116.9
+    ]
+  },
+  "Crown": {
+    "name": "Crown",
+    "displayName": "Crown",
+    "quality": "rare",
+    "itemdefid": "156",
+    "frame": [
+      87.0,
+      56.0,
+      99.9,
+      132.9
+    ]
+  },
+  "Cup": {
+    "name": "Cup",
+    "displayName": "Cup",
+    "quality": "uncommon",
+    "itemdefid": "157",
+    "frame": [
+      70.0,
+      39.0,
+      115.9,
+      162.9
+    ]
+  },
+  "DevilHorns": {
+    "name": "DevilHorns",
+    "displayName": "Devil Horns",
+    "quality": "common",
+    "itemdefid": "158",
+    "frame": [
+      28.0,
+      4.0,
+      191.9,
+      124.9
+    ]
+  },
+  "FancyFez": {
+    "name": "FancyFez",
+    "displayName": "Fancy Fez",
+    "quality": "common",
+    "itemdefid": "159",
+    "frame": [
+      92.0,
+      57.0,
+      77.9,
+      63.9
+    ]
+  },
+  "Fish": {
+    "name": "Fish",
+    "displayName": "Fish",
+    "quality": "uncommon",
+    "itemdefid": "160",
+    "frame": [
+      66.0,
+      26.1,
+      173.9,
+      103.9
+    ]
+  },
+  "FlowerCostume": {
+    "name": "FlowerCostume",
+    "displayName": "Flower Costume",
+    "quality": "common",
+    "itemdefid": "161",
+    "frame": [
+      0.1,
+      0.0,
+      255.9,
+      166.9
+    ]
+  },
+  "FlowerCrown": {
+    "name": "FlowerCrown",
+    "displayName": "Flower Crown",
+    "quality": "uncommon",
+    "itemdefid": "162",
+    "frame": [
+      46.0,
+      34.0,
+      164.9,
+      78.9
+    ]
+  },
+  "FlowerGlasses": {
+    "name": "FlowerGlasses",
+    "displayName": "Flower Glasses",
+    "quality": "rare",
+    "itemdefid": "163",
+    "frame": [
+      35.1,
+      18.1,
+      178.8,
+      99.9
+    ]
+  },
+  "FlowerVase": {
+    "name": "FlowerVase",
+    "displayName": "Flower Vase",
+    "quality": "common",
+    "itemdefid": "164",
+    "frame": [
+      104.1,
+      63.0,
+      113.9,
+      162.9
+    ]
+  },
+  "Froggy": {
+    "name": "Froggy",
+    "displayName": "Froggy",
+    "quality": "epic",
+    "itemdefid": "165",
+    "frame": [
+      90.1,
+      54.0,
+      86.8,
+      85.9
+    ]
+  },
+  "Goggles": {
+    "name": "Goggles",
+    "displayName": "Goggles",
+    "quality": "uncommon",
+    "itemdefid": "166",
+    "frame": [
+      34.0,
+      17.1,
+      172.9,
+      81.8
+    ]
+  },
+  "GraduationHat": {
+    "name": "GraduationHat",
+    "displayName": "Graduation Hat",
+    "quality": "common",
+    "itemdefid": "167",
+    "frame": [
+      2.1,
+      40.1,
+      234.9,
+      92.8
+    ]
+  },
+  "GrandJesterHat": {
+    "name": "GrandJesterHat",
+    "displayName": "Grand Jester Hat",
+    "quality": "uncommon",
+    "itemdefid": "168",
+    "frame": [
+      26.1,
+      26.0,
+      222.9,
+      109.9
+    ]
+  },
+  "GreaserHair": {
+    "name": "GreaserHair",
+    "displayName": "Greaser Hair",
+    "quality": "uncommon",
+    "itemdefid": "169",
+    "frame": [
+      23.1,
+      54.1,
+      170.8,
+      125.8
+    ]
+  },
+  "GreenGnomeHat": {
+    "name": "GreenGnomeHat",
+    "displayName": "Green Gnome Hat",
+    "quality": "common",
+    "itemdefid": "170",
+    "frame": [
+      90.0,
+      39.1,
+      97.9,
+      116.9
+    ]
+  },
+  "GreenPirateBandana": {
+    "name": "GreenPirateBandana",
+    "displayName": "Green Pirate Bandana",
+    "quality": "rare",
+    "itemdefid": "171",
+    "frame": [
+      46.0,
+      0.0,
+      208.9,
+      85.9
+    ]
+  },
+  "HornedVikingHelmet": {
+    "name": "HornedVikingHelmet",
+    "displayName": "Horned Viking Helmet",
+    "quality": "uncommon",
+    "itemdefid": "172",
+    "frame": [
+      59.0,
+      51.1,
+      183.9,
+      95.9
+    ]
+  },
+  "HugeNeonGreenMohawk": {
+    "name": "HugeNeonGreenMohawk",
+    "displayName": "Huge Neon Green Mohawk",
+    "quality": "common",
+    "itemdefid": "173",
+    "frame": [
+      33.1,
+      0.0,
+      218.8,
+      177.0
+    ]
+  },
+  "JesterHat": {
+    "name": "JesterHat",
+    "displayName": "Jester Hat",
+    "quality": "uncommon",
+    "itemdefid": "174",
+    "frame": [
+      17.1,
+      35.0,
+      238.9,
+      176.0
+    ]
+  },
+  "Leaf": {
+    "name": "Leaf",
+    "displayName": "Leaf",
+    "quality": "common",
+    "itemdefid": "175",
+    "frame": [
+      59.0,
+      35.1,
+      129.9,
+      111.9
+    ]
+  },
+  "LittleDevil": {
+    "name": "LittleDevil",
+    "displayName": "Little Devil",
+    "quality": "rare",
+    "itemdefid": "176",
+    "frame": [
+      53.1,
+      0.0,
+      195.9,
+      83.9
+    ]
+  },
+  "LittlePlant": {
+    "name": "LittlePlant",
+    "displayName": "Little Plant",
+    "quality": "uncommon",
+    "itemdefid": "177",
+    "frame": [
+      62.0,
+      56.0,
+      130.9,
+      87.9
+    ]
+  },
+  "LongBunnyEars": {
+    "name": "LongBunnyEars",
+    "displayName": "Long Bunny Ears",
+    "quality": "common",
+    "itemdefid": "178",
+    "frame": [
+      56.0,
+      56.0,
+      174.9,
+      113.9
+    ]
+  },
+  "LuckyCat": {
+    "name": "LuckyCat",
+    "displayName": "Lucky Cat",
+    "quality": "legendary",
+    "itemdefid": "179",
+    "frame": [
+      31.0,
+      0.0,
+      209.0,
+      233.0
+    ]
+  },
+  "LunaMoth": {
+    "name": "LunaMoth",
+    "displayName": "Luna Moth",
+    "quality": "legendary",
+    "itemdefid": "180",
+    "frame": [
+      12.1,
+      3.1,
+      243.9,
+      202.8
+    ]
+  },
+  "MedusaSnakes": {
+    "name": "MedusaSnakes",
+    "displayName": "Medusa Snakes",
+    "quality": "epic",
+    "itemdefid": "181",
+    "frame": [
+      18.1,
+      3.1,
+      233.9,
+      173.8
+    ]
+  },
+  "MouseWithPen": {
+    "name": "MouseWithPen",
+    "displayName": "Mouse With Pen",
+    "quality": "epic",
+    "itemdefid": "182",
+    "frame": [
+      58.0,
+      24.1,
+      141.9,
+      134.9
+    ]
+  },
+  "MushroomHat": {
+    "name": "MushroomHat",
+    "displayName": "Mushroom Hat",
+    "quality": "rare",
+    "itemdefid": "183",
+    "frame": [
+      9.1,
+      3.0,
+      244.8,
+      170.9
+    ]
+  },
+  "MysticButterfly": {
+    "name": "MysticButterfly",
+    "displayName": "Mystic Butterfly",
+    "quality": "epic",
+    "itemdefid": "184",
+    "frame": [
+      16.0,
+      3.0,
+      239.0,
+      205.9
+    ]
+  },
+  "Noodles": {
+    "name": "Noodles",
+    "displayName": "Noodles",
+    "quality": "uncommon",
+    "itemdefid": "185",
+    "frame": [
+      41.0,
+      20.0,
+      160.9,
+      160.9
+    ]
+  },
+  "OrangeBeretCap": {
+    "name": "OrangeBeretCap",
+    "displayName": "Orange Beret Cap",
+    "quality": "common",
+    "itemdefid": "186",
+    "frame": [
+      80.0,
+      2.1,
+      146.9,
+      115.8
+    ]
+  },
+  "PaperBoat": {
+    "name": "PaperBoat",
+    "displayName": "Paper Boat",
+    "quality": "common",
+    "itemdefid": "187",
+    "frame": [
+      72.1,
+      50.0,
+      124.9,
+      65.9
+    ]
+  },
+  "PickleJar": {
+    "name": "PickleJar",
+    "displayName": "Pickle Jar",
+    "quality": "common",
+    "itemdefid": "188",
+    "frame": [
+      87.1,
+      52.1,
+      99.8,
+      134.8
+    ]
+  },
+  "PiercedTargetApple": {
+    "name": "PiercedTargetApple",
+    "displayName": "Pierced Target Apple",
+    "quality": "uncommon",
+    "itemdefid": "189",
+    "frame": [
+      46.0,
+      59.1,
+      142.9,
+      73.9
+    ]
+  },
+  "Plunger": {
+    "name": "Plunger",
+    "displayName": "Plunger",
+    "quality": "uncommon",
+    "itemdefid": "190",
+    "frame": [
+      107.1,
+      14.1,
+      118.9,
+      225.9
+    ]
+  },
+  "PrincessHat": {
+    "name": "PrincessHat",
+    "displayName": "Princess Hat",
+    "quality": "rare",
+    "itemdefid": "191",
+    "frame": [
+      69.0,
+      44.0,
+      180.9,
+      185.0
+    ]
+  },
+  "PropellerHat": {
+    "name": "PropellerHat",
+    "displayName": "Propeller Hat",
+    "quality": "uncommon",
+    "itemdefid": "192",
+    "frame": [
+      63.0,
+      37.1,
+      117.9,
+      92.9
+    ]
+  },
+  "Pumpkin": {
+    "name": "Pumpkin",
+    "displayName": "Pumpkin",
+    "quality": "uncommon",
+    "itemdefid": "193",
+    "frame": [
+      68.1,
+      46.0,
+      116.8,
+      108.9
+    ]
+  },
+  "PunkHair": {
+    "name": "PunkHair",
+    "displayName": "Punk Hair",
+    "quality": "common",
+    "itemdefid": "194",
+    "frame": [
+      23.0,
+      0.0,
+      230.9,
+      196.9
+    ]
+  },
+  "PyjamaHat": {
+    "name": "PyjamaHat",
+    "displayName": "Pyjama Hat",
+    "quality": "uncommon",
+    "itemdefid": "195",
+    "frame": [
+      85.0,
+      54.0,
+      149.9,
+      117.9
+    ]
+  },
+  "RedGnomeHat": {
+    "name": "RedGnomeHat",
+    "displayName": "Red Gnome Hat",
+    "quality": "common",
+    "itemdefid": "196",
+    "frame": [
+      90.0,
+      39.1,
+      97.9,
+      116.9
+    ]
+  },
+  "RedJesterHat": {
+    "name": "RedJesterHat",
+    "displayName": "Red Jester Hat",
+    "quality": "common",
+    "itemdefid": "197",
+    "frame": [
+      69.1,
+      57.1,
+      124.9,
+      71.8
+    ]
+  },
+  "RedPainterBeret": {
+    "name": "RedPainterBeret",
+    "displayName": "Red Painter Beret",
+    "quality": "common",
+    "itemdefid": "198",
+    "frame": [
+      48.0,
+      4.1,
+      184.9,
+      125.8
+    ]
+  },
+  "RedPirateBandana": {
+    "name": "RedPirateBandana",
+    "displayName": "Red Pirate Bandana",
+    "quality": "rare",
+    "itemdefid": "199",
+    "frame": [
+      46.0,
+      0.0,
+      208.9,
+      85.9
+    ]
+  },
+  "RedYarnBun": {
+    "name": "RedYarnBun",
+    "displayName": "Red Yarn Bun",
+    "quality": "common",
+    "itemdefid": "200",
+    "frame": [
+      33.0,
+      13.0,
+      181.9,
+      125.9
+    ]
+  },
+  "RiceHat": {
+    "name": "RiceHat",
+    "displayName": "Rice Hat",
+    "quality": "uncommon",
+    "itemdefid": "201",
+    "frame": [
+      21.0,
+      8.1,
+      205.9,
+      104.9
+    ]
+  },
+  "RobinHoodHat": {
+    "name": "RobinHoodHat",
+    "displayName": "Robin Hood Hat",
+    "quality": "uncommon",
+    "itemdefid": "202",
+    "frame": [
+      66.1,
+      33.1,
+      181.8,
+      153.8
+    ]
+  },
+  "RubberDuck": {
+    "name": "RubberDuck",
+    "displayName": "Rubber Duck",
+    "quality": "common",
+    "itemdefid": "203",
+    "frame": [
+      88.0,
+      56.1,
+      63.9,
+      62.9
+    ]
+  },
+  "SantaHat": {
+    "name": "SantaHat",
+    "displayName": "Santa Hat",
+    "quality": "common",
+    "itemdefid": "204",
+    "frame": [
+      26.0,
+      4.1,
+      203.9,
+      243.9
+    ]
+  },
+  "SatanicIncarnation": {
+    "name": "SatanicIncarnation",
+    "displayName": "Satanic Incarnation",
+    "quality": "legendary",
+    "itemdefid": "205",
+    "frame": [
+      31.0,
+      0.0,
+      219.9,
+      197.0
+    ]
+  },
+  "SillyPinwheelCap": {
+    "name": "SillyPinwheelCap",
+    "displayName": "Silly Pinwheel Cap",
+    "quality": "uncommon",
+    "itemdefid": "206",
+    "frame": [
+      84.0,
+      53.1,
+      91.9,
+      93.8
+    ]
+  },
+  "SimpleSilverTiara": {
+    "name": "SimpleSilverTiara",
+    "displayName": "Simple Silver Tiara",
+    "quality": "epic",
+    "itemdefid": "207",
+    "frame": [
+      83.0,
+      40.1,
+      110.9,
+      89.8
+    ]
+  },
+  "SmallBirthdayCake": {
+    "name": "SmallBirthdayCake",
+    "displayName": "Small Birthday Cake",
+    "quality": "uncommon",
+    "itemdefid": "208",
+    "frame": [
+      86.0,
+      59.1,
+      84.9,
+      106.9
+    ]
+  },
+  "SmallerCat": {
+    "name": "SmallerCat",
+    "displayName": "Smaller Cat",
+    "quality": "rare",
+    "itemdefid": "209",
+    "frame": [
+      90.0,
+      52.0,
+      84.9,
+      68.9
+    ]
+  },
+  "SpringFlowerCrown": {
+    "name": "SpringFlowerCrown",
+    "displayName": "Spring Flower Crown",
+    "quality": "uncommon",
+    "itemdefid": "210",
+    "frame": [
+      27.1,
+      9.1,
+      196.9,
+      81.9
+    ]
+  },
+  "SquishyRedSquid": {
+    "name": "SquishyRedSquid",
+    "displayName": "Squishy Red Squid",
+    "quality": "rare",
+    "itemdefid": "211",
+    "frame": [
+      45.0,
+      18.1,
+      196.9,
+      134.8
+    ]
+  },
+  "StinkyPoop": {
+    "name": "StinkyPoop",
+    "displayName": "Stinky Poop",
+    "quality": "epic",
+    "itemdefid": "212",
+    "frame": [
+      74.1,
+      48.1,
+      124.9,
+      94.8
+    ]
+  },
+  "StrawberryHat": {
+    "name": "StrawberryHat",
+    "displayName": "Strawberry Hat",
+    "quality": "uncommon",
+    "itemdefid": "213",
+    "frame": [
+      75.1,
+      41.1,
+      103.8,
+      81.9
+    ]
+  },
+  "Strawhat": {
+    "name": "Strawhat",
+    "displayName": "Strawhat",
+    "quality": "common",
+    "itemdefid": "214",
+    "frame": [
+      7.0,
+      4.0,
+      230.9,
+      127.9
+    ]
+  },
+  "TinyCowboyHat": {
+    "name": "TinyCowboyHat",
+    "displayName": "Tiny Cowboy Hat",
+    "quality": "common",
+    "itemdefid": "215",
+    "frame": [
+      93.0,
+      61.1,
+      76.9,
+      46.9
+    ]
+  },
+  "TinyYellowButterfly": {
+    "name": "TinyYellowButterfly",
+    "displayName": "Tiny Yellow Butterfly",
+    "quality": "rare",
+    "itemdefid": "216",
+    "frame": [
+      101.1,
+      67.1,
+      65.9,
+      51.8
+    ]
+  },
+  "ToiletPaper": {
+    "name": "ToiletPaper",
+    "displayName": "Toilet Paper",
+    "quality": "common",
+    "itemdefid": "217",
+    "frame": [
+      85.0,
+      49.1,
+      94.9,
+      117.9
+    ]
+  },
+  "TopHat": {
+    "name": "TopHat",
+    "displayName": "Top Hat",
+    "quality": "common",
+    "itemdefid": "218",
+    "frame": [
+      46.0,
+      24.0,
+      173.9,
+      151.9
+    ]
+  },
+  "TrafficCone": {
+    "name": "TrafficCone",
+    "displayName": "Traffic Cone",
+    "quality": "uncommon",
+    "itemdefid": "219",
+    "frame": [
+      29.0,
+      30.1,
+      184.9,
+      182.8
+    ]
+  },
+  "Unicorn": {
+    "name": "Unicorn",
+    "displayName": "Unicorn",
+    "quality": "epic",
+    "itemdefid": "220",
+    "frame": [
+      32.0,
+      29.1,
+      143.9,
+      182.9
+    ]
+  },
+  "WingedAngelicHalo": {
+    "name": "WingedAngelicHalo",
+    "displayName": "Winged Angelic Halo",
+    "quality": "epic",
+    "itemdefid": "221",
+    "frame": [
+      57.1,
+      30.0,
+      197.9,
+      142.9
+    ]
+  },
+  "WingedUnicorn": {
+    "name": "WingedUnicorn",
+    "displayName": "Winged Unicorn",
+    "quality": "rare",
+    "itemdefid": "222",
+    "frame": [
+      25.0,
+      11.1,
+      223.9,
+      109.9
+    ]
+  },
+  "WinterHat": {
+    "name": "WinterHat",
+    "displayName": "Winter Hat",
+    "quality": "uncommon",
+    "itemdefid": "223",
+    "frame": [
+      26.0,
+      0.0,
+      205.9,
+      186.9
+    ]
+  },
+  "YarnBall": {
+    "name": "YarnBall",
+    "displayName": "Yarn Ball",
+    "quality": "common",
+    "itemdefid": "224",
+    "frame": [
+      74.0,
+      45.1,
+      167.9,
+      124.9
+    ]
+  },
+  "AlienAntenna": {
+    "name": "AlienAntenna",
+    "displayName": "Alien Antenna",
+    "quality": "uncommon",
+    "itemdefid": "240",
+    "frame": [
+      94.1,
+      55.1,
+      71.9,
+      48.9
+    ]
+  },
+  "BambooLeaves": {
+    "name": "BambooLeaves",
+    "displayName": "Bamboo Leaves",
+    "quality": "common",
+    "itemdefid": "241",
+    "frame": [
+      108.1,
+      66.1,
+      57.8,
+      113.8
+    ]
+  },
+  "Bonnet": {
+    "name": "Bonnet",
+    "displayName": "Bonnet",
+    "quality": "common",
+    "itemdefid": "242",
+    "frame": [
+      25.1,
+      0.0,
+      216.8,
+      155.9
+    ]
+  },
+  "BookStack": {
+    "name": "BookStack",
+    "displayName": "Book Stack",
+    "quality": "common",
+    "itemdefid": "243",
+    "frame": [
+      66.1,
+      37.0,
+      138.8,
+      153.9
+    ]
+  },
+  "Candle": {
+    "name": "Candle",
+    "displayName": "Candle",
+    "quality": "common",
+    "itemdefid": "244",
+    "frame": [
+      96.0,
+      28.0,
+      79.9,
+      194.9
+    ]
+  },
+  "CaptainHat": {
+    "name": "CaptainHat",
+    "displayName": "Captain Hat",
+    "quality": "rare",
+    "itemdefid": "245",
+    "frame": [
+      40.1,
+      10.0,
+      177.8,
+      123.9
+    ]
+  },
+  "CatStack": {
+    "name": "CatStack",
+    "displayName": "Cat Stack",
+    "quality": "epic",
+    "itemdefid": "246",
+    "frame": [
+      92.0,
+      49.0,
+      84.9,
+      88.9
+    ]
+  },
+  "ClownHat": {
+    "name": "ClownHat",
+    "displayName": "Clown Hat",
+    "quality": "uncommon",
+    "itemdefid": "247",
+    "frame": [
+      83.0,
+      48.1,
+      92.9,
+      134.8
+    ]
+  },
+  "DragonWings": {
+    "name": "DragonWings",
+    "displayName": "Dragon Wings",
+    "quality": "rare",
+    "itemdefid": "248",
+    "frame": [
+      12.0,
+      20.0,
+      243.9,
+      140.9
+    ]
+  },
+  "FairyFlowerHat": {
+    "name": "FairyFlowerHat",
+    "displayName": "Fairy Flower Hat",
+    "quality": "rare",
+    "itemdefid": "249",
+    "frame": [
+      49.1,
+      18.1,
+      168.9,
+      173.9
+    ]
+  },
+  "Fries": {
+    "name": "Fries",
+    "displayName": "Fries",
+    "quality": "common",
+    "itemdefid": "250",
+    "frame": [
+      84.1,
+      44.0,
+      104.9,
+      132.9
+    ]
+  },
+  "Gat": {
+    "name": "Gat",
+    "displayName": "Gat",
+    "quality": "common",
+    "itemdefid": "251",
+    "frame": [
+      11.0,
+      0.0,
+      237.9,
+      178.9
+    ]
+  },
+  "GreenGoggles": {
+    "name": "GreenGoggles",
+    "displayName": "Green Goggles",
+    "quality": "uncommon",
+    "itemdefid": "252",
+    "frame": [
+      22.1,
+      0.0,
+      155.8,
+      72.9
+    ]
+  },
+  "GummyBear": {
+    "name": "GummyBear",
+    "displayName": "Gummy Bear",
+    "quality": "uncommon",
+    "itemdefid": "253",
+    "frame": [
+      93.1,
+      45.1,
+      82.9,
+      119.9
+    ]
+  },
+  "HeartChocolate": {
+    "name": "HeartChocolate",
+    "displayName": "Heart Chocolate",
+    "quality": "common",
+    "itemdefid": "254",
+    "frame": [
+      79.1,
+      38.0,
+      95.9,
+      71.9
+    ]
+  },
+  "JokersHat": {
+    "name": "JokersHat",
+    "displayName": "Jokers Hat",
+    "quality": "rare",
+    "itemdefid": "255",
+    "frame": [
+      11.0,
+      0.0,
+      242.9,
+      222.9
+    ]
+  },
+  "LampShade": {
+    "name": "LampShade",
+    "displayName": "Lamp Shade",
+    "quality": "uncommon",
+    "itemdefid": "256",
+    "frame": [
+      30.1,
+      0.0,
+      194.9,
+      161.9
+    ]
+  },
+  "Lantern": {
+    "name": "Lantern",
+    "displayName": "Lantern",
+    "quality": "uncommon",
+    "itemdefid": "257",
+    "frame": [
+      10.1,
+      0.0,
+      245.9,
+      228.9
+    ]
+  },
+  "LittleRaincoat": {
+    "name": "LittleRaincoat",
+    "displayName": "Little Raincoat",
+    "quality": "uncommon",
+    "itemdefid": "258",
+    "frame": [
+      31.1,
+      0.0,
+      190.8,
+      108.0
+    ]
+  },
+  "MelonHat": {
+    "name": "MelonHat",
+    "displayName": "Melon Hat",
+    "quality": "common",
+    "itemdefid": "259",
+    "frame": [
+      40.1,
+      27.1,
+      163.9,
+      118.9
+    ]
+  },
+  "MusketeerHat": {
+    "name": "MusketeerHat",
+    "displayName": "Musketeer Hat",
+    "quality": "uncommon",
+    "itemdefid": "260",
+    "frame": [
+      3.1,
+      21.1,
+      245.9,
+      213.9
+    ]
+  },
+  "PaintBrush": {
+    "name": "PaintBrush",
+    "displayName": "Paint Brush",
+    "quality": "uncommon",
+    "itemdefid": "261",
+    "frame": [
+      68.0,
+      42.1,
+      116.9,
+      176.9
+    ]
+  },
+  "Pineapple": {
+    "name": "Pineapple",
+    "displayName": "Pineapple",
+    "quality": "common",
+    "itemdefid": "262",
+    "frame": [
+      88.1,
+      50.1,
+      94.8,
+      196.8
+    ]
+  },
+  "PixelHat": {
+    "name": "PixelHat",
+    "displayName": "Pixel Hat",
+    "quality": "common",
+    "itemdefid": "263",
+    "frame": [
+      92.0,
+      53.1,
+      81.0,
+      82.9
+    ]
+  },
+  "RainbowHair": {
+    "name": "RainbowHair",
+    "displayName": "Rainbow Hair",
+    "quality": "rare",
+    "itemdefid": "264",
+    "frame": [
+      80.1,
+      45.0,
+      120.9,
+      139.9
+    ]
+  },
+  "RedPandaBaby": {
+    "name": "RedPandaBaby",
+    "displayName": "Red Panda Baby",
+    "quality": "epic",
+    "itemdefid": "265",
+    "frame": [
+      91.1,
+      28.1,
+      145.8,
+      105.9
+    ]
+  },
+  "RobotAntenna": {
+    "name": "RobotAntenna",
+    "displayName": "Robot Antenna",
+    "quality": "common",
+    "itemdefid": "266",
+    "frame": [
+      125.0,
+      69.1,
+      51.9,
+      86.9
+    ]
+  },
+  "RubixCube": {
+    "name": "RubixCube",
+    "displayName": "Rubix Cube",
+    "quality": "common",
+    "itemdefid": "267",
+    "frame": [
+      86.1,
+      43.0,
+      98.9,
+      95.9
+    ]
+  },
+  "SailorHat": {
+    "name": "SailorHat",
+    "displayName": "Sailor Hat",
+    "quality": "common",
+    "itemdefid": "268",
+    "frame": [
+      64.1,
+      46.1,
+      140.8,
+      83.8
+    ]
+  },
+  "Skull": {
+    "name": "Skull",
+    "displayName": "Skull",
+    "quality": "uncommon",
+    "itemdefid": "269",
+    "frame": [
+      76.0,
+      46.0,
+      123.9,
+      105.9
+    ]
+  },
+  "Soda": {
+    "name": "Soda",
+    "displayName": "Soda",
+    "quality": "common",
+    "itemdefid": "270",
+    "frame": [
+      89.0,
+      46.0,
+      81.9,
+      151.9
+    ]
+  },
+  "Teapot": {
+    "name": "Teapot",
+    "displayName": "Teapot",
+    "quality": "common",
+    "itemdefid": "271",
+    "frame": [
+      76.0,
+      51.1,
+      112.9,
+      92.8
+    ]
+  },
+  "Windmill": {
+    "name": "Windmill",
+    "displayName": "Windmill",
+    "quality": "common",
+    "itemdefid": "272",
+    "frame": [
+      90.0,
+      67.1,
+      118.9,
+      147.8
+    ]
+  },
+  "WitchesHat": {
+    "name": "WitchesHat",
+    "displayName": "Witches Hat",
+    "quality": "epic",
+    "itemdefid": "273",
+    "frame": [
+      2.1,
+      12.1,
+      251.8,
+      178.9
+    ]
+  },
+  "WizardHat": {
+    "name": "WizardHat",
+    "displayName": "Wizard Hat",
+    "quality": "uncommon",
+    "itemdefid": "274",
+    "frame": [
+      78.1,
+      45.1,
+      105.8,
+      170.8
+    ]
+  },
+  "GreenAppleWorm": {
+    "name": "GreenAppleWorm",
+    "displayName": "Green Apple Worm",
+    "quality": "rare",
+    "itemdefid": "275",
+    "frame": [
+      52.0,
+      59.1,
+      139.0,
+      90.9
+    ]
+  },
+  "BedazzledTurban": {
+    "name": "BedazzledTurban",
+    "displayName": "Bedazzled Turban",
+    "quality": "rare",
+    "itemdefid": "276",
+    "frame": [
+      30.0,
+      9.1,
+      184.9,
+      200.8
+    ]
+  },
+  "BlackSwordSamuraiHelmet": {
+    "name": "BlackSwordSamuraiHelmet",
+    "displayName": "Black Sword Samurai Helmet",
+    "quality": "legendary",
+    "itemdefid": "278",
+    "frame": [
+      18.0,
+      0.0,
+      238.0,
+      215.0
+    ]
+  },
+  "BongoSoulLeaving": {
+    "name": "BongoSoulLeaving",
+    "displayName": "Bongo Soul Leaving",
+    "quality": "uncommon",
+    "itemdefid": "279",
+    "frame": [
+      75.1,
+      89.0,
+      82.9,
+      145.9
+    ]
+  },
+  "HappyFlowers": {
+    "name": "HappyFlowers",
+    "displayName": "Happy Flowers",
+    "quality": "common",
+    "itemdefid": "280",
+    "frame": [
+      29.1,
+      9.0,
+      210.9,
+      204.9
+    ]
+  },
+  "HyperPartyHat": {
+    "name": "HyperPartyHat",
+    "displayName": "Hyper Party Hat",
+    "quality": "common",
+    "itemdefid": "281",
+    "frame": [
+      97.0,
+      54.1,
+      91.9,
+      132.8
+    ]
+  },
+  "LaurelWrath": {
+    "name": "LaurelWrath",
+    "displayName": "Laurel Wrath",
+    "quality": "epic",
+    "itemdefid": "282",
+    "frame": [
+      28.1,
+      15.1,
+      189.9,
+      69.9
+    ]
+  },
+  "MadAnger": {
+    "name": "MadAnger",
+    "displayName": "Mad Anger",
+    "quality": "common",
+    "itemdefid": "283",
+    "frame": [
+      133.0,
+      52.0,
+      68.9,
+      68.9
+    ]
+  },
+  "MightyGoldenCrown": {
+    "name": "MightyGoldenCrown",
+    "displayName": "Mighty Golden Crown",
+    "quality": "epic",
+    "itemdefid": "284",
+    "frame": [
+      68.0,
+      56.1,
+      147.9,
+      105.8
+    ]
+  },
+  "Nyaa": {
+    "name": "Nyaa",
+    "displayName": "Nyaa",
+    "quality": "common",
+    "itemdefid": "285",
+    "frame": [
+      17.1,
+      73.0,
+      238.9,
+      117.9
+    ]
+  },
+  "Orange": {
+    "name": "Orange",
+    "displayName": "Orange",
+    "quality": "common",
+    "itemdefid": "286",
+    "frame": [
+      89.1,
+      56.1,
+      108.9,
+      78.8
+    ]
+  },
+  "Peach": {
+    "name": "Peach",
+    "displayName": "Peach",
+    "quality": "legendary",
+    "itemdefid": "287",
+    "frame": [
+      67.0,
+      46.1,
+      94.9,
+      72.9
+    ]
+  },
+  "RedWarSamuraiHelmet": {
+    "name": "RedWarSamuraiHelmet",
+    "displayName": "Red War Samurai Helmet",
+    "quality": "legendary",
+    "itemdefid": "289",
+    "frame": [
+      21.1,
+      0.0,
+      234.9,
+      256.0
+    ]
+  },
+  "SilentPawNinja": {
+    "name": "SilentPawNinja",
+    "displayName": "Silent Paw Ninja",
+    "quality": "rare",
+    "itemdefid": "290",
+    "frame": [
+      44.0,
+      15.1,
+      202.9,
+      106.8
+    ]
+  },
+  "SnugPurpleWizardHat": {
+    "name": "SnugPurpleWizardHat",
+    "displayName": "Snug Purple Wizard Hat",
+    "quality": "common",
+    "itemdefid": "292",
+    "frame": [
+      14.1,
+      21.0,
+      237.9,
+      153.9
+    ]
+  },
+  "SpookySurprise": {
+    "name": "SpookySurprise",
+    "displayName": "Spooky Surprise",
+    "quality": "rare",
+    "itemdefid": "293",
+    "frame": [
+      35.1,
+      0.0,
+      207.8,
+      244.9
+    ]
+  },
+  "TyroleanHat": {
+    "name": "TyroleanHat",
+    "displayName": "Tyrolean Hat",
+    "quality": "rare",
+    "itemdefid": "294",
+    "frame": [
+      74.1,
+      51.1,
+      137.8,
+      107.9
+    ]
+  },
+  "UtterConfusion": {
+    "name": "UtterConfusion",
+    "displayName": "Utter Confusion",
+    "quality": "uncommon",
+    "itemdefid": "295",
+    "frame": [
+      39.0,
+      94.1,
+      187.9,
+      98.8
+    ]
+  },
+  "WakuWaku": {
+    "name": "WakuWaku",
+    "displayName": "Waku Waku",
+    "quality": "common",
+    "itemdefid": "296",
+    "frame": [
+      4.1,
+      58.1,
+      247.8,
+      159.9
+    ]
+  },
+  "WhiteHornedSamuraiHelmet": {
+    "name": "WhiteHornedSamuraiHelmet",
+    "displayName": "White Horned Samurai Helmet",
+    "quality": "legendary",
+    "itemdefid": "297",
+    "frame": [
+      21.0,
+      0.0,
+      234.9,
+      211.9
+    ]
+  },
+  "YoungStagAntlers": {
+    "name": "YoungStagAntlers",
+    "displayName": "Young Stag Antlers",
+    "quality": "common",
+    "itemdefid": "298",
+    "frame": [
+      0.0,
+      41.0,
+      229.0,
+      129.9
+    ]
+  },
+  "GamerCap": {
+    "name": "GamerCap",
+    "displayName": "Gamer Cap",
+    "quality": "legendary",
+    "itemdefid": "299",
+    "frame": [
+      31.0,
+      8.1,
+      181.9,
+      109.8
+    ]
+  },
+  "CatuccinoCup": {
+    "name": "CatuccinoCup",
+    "displayName": "Catuccino Cup",
+    "quality": "legendary",
+    "itemdefid": "300",
+    "frame": [
+      65.1,
+      49.1,
+      114.9,
+      188.9
+    ]
+  },
+  "FishBaitStick": {
+    "name": "FishBaitStick",
+    "displayName": "Fish Bait Stick",
+    "quality": "legendary",
+    "itemdefid": "301",
+    "frame": [
+      0.0,
+      57.1,
+      177.0,
+      193.9
+    ]
+  },
+  "YellowRibbon": {
+    "name": "YellowRibbon",
+    "displayName": "Yellow Ribbon",
+    "quality": "common",
+    "itemdefid": "303",
+    "frame": [
+      30.0,
+      30.0,
+      77.9,
+      64.9
+    ]
+  },
+  "CuckooClock": {
+    "name": "CuckooClock",
+    "displayName": "Cuckoo Clock",
+    "quality": "legendary",
+    "itemdefid": "312",
+    "frame": [
+      16.1,
+      44.0,
+      174.9,
+      161.9
+    ]
+  },
+  "Disguise": {
+    "name": "Disguise",
+    "displayName": "Disguise",
+    "quality": "epic",
+    "itemdefid": "313",
+    "frame": [
+      28.1,
+      0.0,
+      191.8,
+      92.9
+    ]
+  },
+  "Donut": {
+    "name": "Donut",
+    "displayName": "Donut",
+    "quality": "common",
+    "itemdefid": "314",
+    "frame": [
+      77.1,
+      44.1,
+      97.8,
+      67.8
+    ]
+  },
+  "Eggshell": {
+    "name": "Eggshell",
+    "displayName": "Eggshell",
+    "quality": "rare",
+    "itemdefid": "315",
+    "frame": [
+      37.0,
+      3.1,
+      181.9,
+      143.8
+    ]
+  },
+  "Krapfen": {
+    "name": "Krapfen",
+    "displayName": "Krapfen",
+    "quality": "uncommon",
+    "itemdefid": "316",
+    "frame": [
+      70.1,
+      50.1,
+      119.8,
+      85.8
+    ]
+  },
+  "Streamers": {
+    "name": "Streamers",
+    "displayName": "Streamers",
+    "quality": "common",
+    "itemdefid": "317",
+    "frame": [
+      25.0,
+      1.0,
+      213.9,
+      126.9
+    ]
+  },
+  "TicTacToe": {
+    "name": "TicTacToe",
+    "displayName": "Tic Tac Toe",
+    "quality": "rare",
+    "itemdefid": "318",
+    "frame": [
+      63.1,
+      20.1,
+      76.8,
+      50.8
+    ]
+  },
+  "Trumpet": {
+    "name": "Trumpet",
+    "displayName": "Trumpet",
+    "quality": "legendary",
+    "itemdefid": "319",
+    "frame": [
+      26.0,
+      45.1,
+      204.9,
+      208.9
+    ]
+  },
+  "Valve": {
+    "name": "Valve",
+    "displayName": "Valve",
+    "quality": "uncommon",
+    "itemdefid": "320",
+    "frame": [
+      95.0,
+      48.0,
+      81.9,
+      77.9
+    ]
+  },
+  "ArmedBomb": {
+    "name": "ArmedBomb",
+    "displayName": "Armed Bomb",
+    "quality": "common",
+    "itemdefid": "324",
+    "frame": [
+      87.1,
+      53.1,
+      108.9,
+      129.8
+    ]
+  },
+  "DuckWhoopeeCushion": {
+    "name": "DuckWhoopeeCushion",
+    "displayName": "Duck Whoopee Cushion",
+    "quality": "rare",
+    "itemdefid": "325",
+    "frame": [
+      51.0,
+      45.1,
+      185.9,
+      100.9
+    ]
+  },
+  "FallingBowlingBall": {
+    "name": "FallingBowlingBall",
+    "displayName": "Falling Bowling Ball",
+    "quality": "epic",
+    "itemdefid": "326",
+    "frame": [
+      62.1,
+      41.1,
+      104.8,
+      201.9
+    ]
+  },
+  "GrouchoGlasses": {
+    "name": "GrouchoGlasses",
+    "displayName": "Groucho Glasses",
+    "quality": "uncommon",
+    "itemdefid": "327",
+    "frame": [
+      44.1,
+      0.0,
+      110.9,
+      62.9
+    ]
+  },
+  "HugeShit": {
+    "name": "HugeShit",
+    "displayName": "Huge Shit",
+    "quality": "uncommon",
+    "itemdefid": "328",
+    "frame": [
+      20.0,
+      21.1,
+      211.9,
+      193.9
+    ]
+  },
+  "MouseBurrow": {
+    "name": "MouseBurrow",
+    "displayName": "Mouse Burrow",
+    "quality": "legendary",
+    "itemdefid": "329",
+    "frame": [
+      69.0,
+      39.1,
+      83.9,
+      50.8
+    ]
+  },
+  "SillyPostIt": {
+    "name": "SillyPostIt",
+    "displayName": "Silly Post It",
+    "quality": "legendary",
+    "itemdefid": "330",
+    "frame": [
+      51.0,
+      17.0,
+      104.9,
+      55.9
+    ]
+  },
+  "TinFoilHat": {
+    "name": "TinFoilHat",
+    "displayName": "Tin Foil Hat",
+    "quality": "common",
+    "itemdefid": "331",
+    "frame": [
+      32.0,
+      11.0,
+      180.9,
+      136.9
+    ]
+  },
+  "Follower": {
+    "name": "Follower",
+    "displayName": "Follower",
+    "quality": "legendary",
+    "itemdefid": "335",
+    "frame": [
+      81.1,
+      41.0,
+      114.8,
+      98.9
+    ]
+  },
+  "Headphones": {
+    "name": "Headphones",
+    "displayName": "Headphones",
+    "quality": "legendary",
+    "itemdefid": "336",
+    "frame": [
+      0.0,
+      0.0,
+      233.9,
+      105.9
+    ]
+  },
+  "GiftOfTheHunt": {
+    "name": "GiftOfTheHunt",
+    "displayName": "Gift Of The Hunt",
+    "quality": "legendary",
+    "itemdefid": "338",
+    "frame": [
+      59.0,
+      27.0,
+      155.9,
+      112.9
+    ]
+  },
+  "AlmostFullBattery": {
+    "name": "AlmostFullBattery",
+    "displayName": "Almost Full Battery",
+    "quality": "common",
+    "itemdefid": "339",
+    "frame": [
+      61.1,
+      110.1,
+      130.9,
+      68.9
+    ]
+  },
+  "AlmostFullHealth": {
+    "name": "AlmostFullHealth",
+    "displayName": "Almost Full Health",
+    "quality": "common",
+    "itemdefid": "340",
+    "frame": [
+      33.1,
+      106.0,
+      174.9,
+      27.9
+    ]
+  },
+  "AmericanCheese": {
+    "name": "AmericanCheese",
+    "displayName": "American Cheese",
+    "quality": "rare",
+    "itemdefid": "341",
+    "frame": [
+      35.0,
+      0.0,
+      174.9,
+      94.9
+    ]
+  },
+  "AviatorHat": {
+    "name": "AviatorHat",
+    "displayName": "Aviator Hat",
+    "quality": "epic",
+    "itemdefid": "342",
+    "frame": [
+      31.0,
+      0.0,
+      192.9,
+      127.0
+    ]
+  },
+  "BathBubbleDuck": {
+    "name": "BathBubbleDuck",
+    "displayName": "Bath Bubble Duck",
+    "quality": "epic",
+    "itemdefid": "343",
+    "frame": [
+      31.1,
+      10.1,
+      190.8,
+      147.9
+    ]
+  },
+  "BirdPoop": {
+    "name": "BirdPoop",
+    "displayName": "Bird Poop",
+    "quality": "epic",
+    "itemdefid": "344",
+    "frame": [
+      54.1,
+      118.1,
+      107.8,
+      109.9
+    ]
+  },
+  "BlueCrown": {
+    "name": "BlueCrown",
+    "displayName": "Blue Crown",
+    "quality": "epic",
+    "itemdefid": "345",
+    "frame": [
+      84.1,
+      51.0,
+      110.8,
+      113.9
+    ]
+  },
+  "BountyHunterBandana": {
+    "name": "BountyHunterBandana",
+    "displayName": "Bounty Hunter Bandana",
+    "quality": "uncommon",
+    "itemdefid": "346",
+    "frame": [
+      33.0,
+      0.0,
+      207.9,
+      82.9
+    ]
+  },
+  "Bump": {
+    "name": "Bump",
+    "displayName": "Bump",
+    "quality": "rare",
+    "itemdefid": "347",
+    "frame": [
+      76.1,
+      47.1,
+      65.9,
+      55.8
+    ]
+  },
+  "ChargingBattery": {
+    "name": "ChargingBattery",
+    "displayName": "Charging Battery",
+    "quality": "common",
+    "itemdefid": "348",
+    "frame": [
+      61.1,
+      110.1,
+      130.9,
+      68.9
+    ]
+  },
+  "CherryBlossom": {
+    "name": "CherryBlossom",
+    "displayName": "Cherry Blossom",
+    "quality": "uncommon",
+    "itemdefid": "349",
+    "frame": [
+      110.1,
+      29.0,
+      68.9,
+      63.9
+    ]
+  },
+  "FewHearts": {
+    "name": "FewHearts",
+    "displayName": "Few Hearts",
+    "quality": "common",
+    "itemdefid": "350",
+    "frame": [
+      47.1,
+      106.1,
+      161.8,
+      32.9
+    ]
+  },
+  "FullyChargedBattery": {
+    "name": "FullyChargedBattery",
+    "displayName": "Fully Charged Battery",
+    "quality": "common",
+    "itemdefid": "351",
+    "frame": [
+      61.1,
+      110.1,
+      130.9,
+      68.9
+    ]
+  },
+  "GrowingWhiteMushrooms": {
+    "name": "GrowingWhiteMushrooms",
+    "displayName": "Growing White Mushrooms",
+    "quality": "epic",
+    "itemdefid": "352",
+    "frame": [
+      16.1,
+      0.1,
+      228.9,
+      134.9
+    ]
+  },
+  "LittleFrog": {
+    "name": "LittleFrog",
+    "displayName": "Little Frog",
+    "quality": "rare",
+    "itemdefid": "353",
+    "frame": [
+      78.1,
+      53.0,
+      75.9,
+      59.9
+    ]
+  },
+  "LotusLeafUmbrella": {
+    "name": "LotusLeafUmbrella",
+    "displayName": "Lotus Leaf Umbrella",
+    "quality": "rare",
+    "itemdefid": "354",
+    "frame": [
+      23.0,
+      53.1,
+      223.9,
+      178.9
+    ]
+  },
+  "LoveVibes": {
+    "name": "LoveVibes",
+    "displayName": "Love Vibes",
+    "quality": "uncommon",
+    "itemdefid": "355",
+    "frame": [
+      3.1,
+      10.1,
+      252.9,
+      172.8
+    ]
+  },
+  "LowBattery": {
+    "name": "LowBattery",
+    "displayName": "Low Battery",
+    "quality": "common",
+    "itemdefid": "356",
+    "frame": [
+      61.1,
+      110.1,
+      130.9,
+      68.9
+    ]
+  },
+  "LowHealth": {
+    "name": "LowHealth",
+    "displayName": "Low Health",
+    "quality": "common",
+    "itemdefid": "357",
+    "frame": [
+      33.1,
+      106.0,
+      174.9,
+      27.9
+    ]
+  },
+  "ManyHearts": {
+    "name": "ManyHearts",
+    "displayName": "Many Hearts",
+    "quality": "common",
+    "itemdefid": "358",
+    "frame": [
+      47.1,
+      106.1,
+      161.8,
+      32.9
+    ]
+  },
+  "MediumHealth": {
+    "name": "MediumHealth",
+    "displayName": "Medium Health",
+    "quality": "common",
+    "itemdefid": "359",
+    "frame": [
+      33.1,
+      106.0,
+      174.9,
+      27.9
+    ]
+  },
+  "MonsterBoneGreatsword": {
+    "name": "MonsterBoneGreatsword",
+    "displayName": "Monster Bone Greatsword",
+    "quality": "legendary",
+    "itemdefid": "360",
+    "frame": [
+      23.0,
+      34.1,
+      225.9,
+      221.9
+    ]
+  },
+  "MonsterBoneSpear": {
+    "name": "MonsterBoneSpear",
+    "displayName": "Monster Bone Spear",
+    "quality": "legendary",
+    "itemdefid": "361",
+    "frame": [
+      93.1,
+      64.0,
+      135.8,
+      167.9
+    ]
+  },
+  "MousePowerUp": {
+    "name": "MousePowerUp",
+    "displayName": "Mouse Power Up",
+    "quality": "epic",
+    "itemdefid": "362",
+    "frame": [
+      92.1,
+      62.1,
+      86.8,
+      97.8
+    ]
+  },
+  "OnsenTowel": {
+    "name": "OnsenTowel",
+    "displayName": "Onsen Towel",
+    "quality": "rare",
+    "itemdefid": "363",
+    "frame": [
+      6.1,
+      42.0,
+      165.9,
+      80.9
+    ]
+  },
+  "PaperBag": {
+    "name": "PaperBag",
+    "displayName": "Paper Bag",
+    "quality": "legendary",
+    "itemdefid": "364",
+    "frame": [
+      17.0,
+      0.0,
+      214.9,
+      158.9
+    ]
+  },
+  "PawUshanka": {
+    "name": "PawUshanka",
+    "displayName": "Paw Ushanka",
+    "quality": "epic",
+    "itemdefid": "365",
+    "frame": [
+      0.0,
+      2.1,
+      256.0,
+      131.8
+    ]
+  },
+  "PoisonCloud": {
+    "name": "PoisonCloud",
+    "displayName": "Poison Cloud",
+    "quality": "rare",
+    "itemdefid": "366",
+    "frame": [
+      45.1,
+      78.0,
+      157.8,
+      145.9
+    ]
+  },
+  "PurpleRopeObi": {
+    "name": "PurpleRopeObi",
+    "displayName": "Purple Rope Obi",
+    "quality": "rare",
+    "itemdefid": "367",
+    "frame": [
+      16.1,
+      0.0,
+      239.9,
+      189.9
+    ]
+  },
+  "RainbowClouds": {
+    "name": "RainbowClouds",
+    "displayName": "Rainbow Clouds",
+    "quality": "uncommon",
+    "itemdefid": "368",
+    "frame": [
+      13.1,
+      20.0,
+      236.8,
+      130.9
+    ]
+  },
+  "RedAwardRibbon": {
+    "name": "RedAwardRibbon",
+    "displayName": "Red Award Ribbon",
+    "quality": "uncommon",
+    "itemdefid": "369",
+    "frame": [
+      102.0,
+      15.1,
+      80.9,
+      73.9
+    ]
+  },
+  "RedFlatCavalierHat": {
+    "name": "RedFlatCavalierHat",
+    "displayName": "Red Flat Cavalier Hat",
+    "quality": "rare",
+    "itemdefid": "370",
+    "frame": [
+      1.1,
+      11.1,
+      254.9,
+      190.8
+    ]
+  },
+  "RoastChickenHat": {
+    "name": "RoastChickenHat",
+    "displayName": "Roast Chicken Hat",
+    "quality": "uncommon",
+    "itemdefid": "371",
+    "frame": [
+      50.1,
+      30.1,
+      173.9,
+      192.9
+    ]
+  },
+  "SmokingBrain": {
+    "name": "SmokingBrain",
+    "displayName": "Smoking Brain",
+    "quality": "epic",
+    "itemdefid": "372",
+    "frame": [
+      23.0,
+      23.0,
+      183.9,
+      199.9
+    ]
+  },
+  "SplashingShark": {
+    "name": "SplashingShark",
+    "displayName": "Splashing Shark",
+    "quality": "epic",
+    "itemdefid": "373",
+    "frame": [
+      8.1,
+      0.0,
+      226.9,
+      152.0
+    ]
+  },
+  "Sunflower": {
+    "name": "Sunflower",
+    "displayName": "Sunflower",
+    "quality": "rare",
+    "itemdefid": "374",
+    "frame": [
+      100.1,
+      18.1,
+      97.9,
+      87.9
+    ]
+  },
+  "TripleHat": {
+    "name": "TripleHat",
+    "displayName": "Triple Hat",
+    "quality": "rare",
+    "itemdefid": "375",
+    "frame": [
+      9.1,
+      16.1,
+      246.8,
+      237.8
+    ]
+  },
+  "Ushanka": {
+    "name": "Ushanka",
+    "displayName": "Ushanka",
+    "quality": "rare",
+    "itemdefid": "376",
+    "frame": [
+      12.0,
+      8.0,
+      244.0,
+      124.9
+    ]
+  },
+  "YellowCyberGlasses": {
+    "name": "YellowCyberGlasses",
+    "displayName": "Yellow Cyber Glasses",
+    "quality": "epic",
+    "itemdefid": "377",
+    "frame": [
+      29.0,
+      0.0,
+      180.0,
+      63.9
+    ]
+  },
+  "ZeroHearts": {
+    "name": "ZeroHearts",
+    "displayName": "Zero Hearts",
+    "quality": "common",
+    "itemdefid": "378",
+    "frame": [
+      47.1,
+      106.1,
+      161.8,
+      32.9
+    ]
+  },
+  "InkJarRiceHat": {
+    "name": "InkJarRiceHat",
+    "displayName": "Ink Jar Rice Hat",
+    "quality": "legendary",
+    "itemdefid": "419",
+    "frame": [
+      21.1,
+      0.0,
+      208.9,
+      170.0
+    ]
+  },
+  "Beachball": {
+    "name": "Beachball",
+    "displayName": "Beachball",
+    "quality": "uncommon",
+    "itemdefid": "431",
+    "frame": [
+      68.1,
+      42.1,
+      120.8,
+      120.8
+    ]
+  },
+  "CoconutDrink": {
+    "name": "CoconutDrink",
+    "displayName": "Coconut Drink",
+    "quality": "uncommon",
+    "itemdefid": "432",
+    "frame": [
+      72.0,
+      49.1,
+      82.9,
+      78.9
+    ]
+  },
+  "DroppedIceCream": {
+    "name": "DroppedIceCream",
+    "displayName": "Dropped Ice Cream",
+    "quality": "rare",
+    "itemdefid": "433",
+    "frame": [
+      67.0,
+      42.0,
+      108.9,
+      143.9
+    ]
+  },
+  "FlipFlop": {
+    "name": "FlipFlop",
+    "displayName": "Flip Flop",
+    "quality": "common",
+    "itemdefid": "434",
+    "frame": [
+      70.1,
+      28.1,
+      100.9,
+      61.9
+    ]
+  },
+  "Lei": {
+    "name": "Lei",
+    "displayName": "Lei",
+    "quality": "epic",
+    "itemdefid": "435",
+    "frame": [
+      14.1,
+      22.0,
+      215.9,
+      92.9
+    ]
+  },
+  "Lemonade": {
+    "name": "Lemonade",
+    "displayName": "Lemonade",
+    "quality": "common",
+    "itemdefid": "436",
+    "frame": [
+      73.1,
+      53.1,
+      80.9,
+      94.9
+    ]
+  },
+  "Lobster": {
+    "name": "Lobster",
+    "displayName": "Lobster",
+    "quality": "rare",
+    "itemdefid": "437",
+    "frame": [
+      39.0,
+      7.1,
+      186.9,
+      135.8
+    ]
+  },
+  "Sandcastle": {
+    "name": "Sandcastle",
+    "displayName": "Sandcastle",
+    "quality": "legendary",
+    "itemdefid": "438",
+    "frame": [
+      56.1,
+      23.1,
+      119.9,
+      161.9
+    ]
+  },
+  "Snorkel": {
+    "name": "Snorkel",
+    "displayName": "Snorkel",
+    "quality": "legendary",
+    "itemdefid": "439",
+    "frame": [
+      33.1,
+      0.0,
+      124.8,
+      166.9
+    ]
+  },
+  "Starfish": {
+    "name": "Starfish",
+    "displayName": "Starfish",
+    "quality": "epic",
+    "itemdefid": "440",
+    "frame": [
+      54.0,
+      24.0,
+      90.9,
+      77.9
+    ]
+  },
+  "MrNuts": {
+    "name": "MrNuts",
+    "displayName": "Mr Nuts",
+    "quality": "legendary",
+    "itemdefid": "442",
+    "frame": [
+      95.0,
+      58.1,
+      120.9,
+      146.8
+    ]
+  },
+  "StrawberryLeaves": {
+    "name": "StrawberryLeaves",
+    "displayName": "Strawberry Leaves",
+    "quality": "legendary",
+    "itemdefid": "445",
+    "frame": [
+      35.1,
+      9.1,
+      192.8,
+      124.9
+    ]
+  },
+  "WatermelonHelmet": {
+    "name": "WatermelonHelmet",
+    "displayName": "Watermelon Helmet",
+    "quality": "legendary",
+    "itemdefid": "447",
+    "frame": [
+      33.0,
+      11.0,
+      188.9,
+      110.9
+    ]
+  },
+  "PineappleLeaves": {
+    "name": "PineappleLeaves",
+    "displayName": "Pineapple Leaves",
+    "quality": "legendary",
+    "itemdefid": "449",
+    "frame": [
+      66.0,
+      54.1,
+      133.9,
+      138.9
+    ]
+  },
+  "GodlyThunderclouds": {
+    "name": "GodlyThunderclouds",
+    "displayName": "Godly Thunderclouds",
+    "quality": "legendary",
+    "itemdefid": "453",
+    "frame": [
+      0.0,
+      0.0,
+      256.0,
+      256.0
+    ]
+  },
+  "GodlyTidewaves": {
+    "name": "GodlyTidewaves",
+    "displayName": "Godly Tidewaves",
+    "quality": "legendary",
+    "itemdefid": "454",
+    "frame": [
+      0.0,
+      0.0,
+      256.0,
+      228.0
+    ]
+  },
+  "GodlyUnderflames": {
+    "name": "GodlyUnderflames",
+    "displayName": "Godly Underflames",
+    "quality": "legendary",
+    "itemdefid": "455",
+    "frame": [
+      6.1,
+      0.0,
+      249.9,
+      245.0
+    ]
+  },
+  "CodePoliceHat": {
+    "name": "CodePoliceHat",
+    "displayName": "Code Police Hat",
+    "quality": "legendary",
+    "itemdefid": "561",
+    "frame": [
+      56.1,
+      33.1,
+      139.9,
+      96.8
+    ]
+  },
+  "Acorn": {
+    "name": "Acorn",
+    "displayName": "Acorn",
+    "quality": "common",
+    "itemdefid": "572",
+    "frame": [
+      92.0,
+      52.1,
+      53.9,
+      53.9
+    ]
+  },
+  "AcornCap": {
+    "name": "AcornCap",
+    "displayName": "Acorn Cap",
+    "quality": "epic",
+    "itemdefid": "573",
+    "frame": [
+      40.1,
+      15.1,
+      176.8,
+      133.9
+    ]
+  },
+  "AutumnFaun": {
+    "name": "AutumnFaun",
+    "displayName": "Autumn Faun",
+    "quality": "legendary",
+    "itemdefid": "574",
+    "frame": [
+      12.1,
+      5.1,
+      237.9,
+      140.8
+    ]
+  },
+  "AutumnLeaf": {
+    "name": "AutumnLeaf",
+    "displayName": "Autumn Leaf",
+    "quality": "uncommon",
+    "itemdefid": "575",
+    "frame": [
+      70.0,
+      32.1,
+      81.9,
+      72.9
+    ]
+  },
+  "BucketOfApples": {
+    "name": "BucketOfApples",
+    "displayName": "Bucket Of Apples",
+    "quality": "uncommon",
+    "itemdefid": "576",
+    "frame": [
+      77.1,
+      48.1,
+      100.9,
+      111.8
+    ]
+  },
+  "HarvestingStrawHat": {
+    "name": "HarvestingStrawHat",
+    "displayName": "Harvesting Straw Hat",
+    "quality": "rare",
+    "itemdefid": "577",
+    "frame": [
+      0.0,
+      0.1,
+      256.0,
+      113.9
+    ]
+  },
+  "KnittedAutumnHat": {
+    "name": "KnittedAutumnHat",
+    "displayName": "Knitted Autumn Hat",
+    "quality": "epic",
+    "itemdefid": "578",
+    "frame": [
+      28.0,
+      0.0,
+      195.9,
+      131.9
+    ]
+  },
+  "PumkinSpiceLatte": {
+    "name": "PumkinSpiceLatte",
+    "displayName": "Pumkin Spice Latte",
+    "quality": "rare",
+    "itemdefid": "579",
+    "frame": [
+      75.1,
+      48.1,
+      93.9,
+      107.8
+    ]
+  },
+  "PumpkinPie": {
+    "name": "PumpkinPie",
+    "displayName": "Pumpkin Pie",
+    "quality": "rare",
+    "itemdefid": "580",
+    "frame": [
+      71.0,
+      42.1,
+      104.9,
+      72.8
+    ]
+  },
+  "RainHat": {
+    "name": "RainHat",
+    "displayName": "Rain Hat",
+    "quality": "common",
+    "itemdefid": "581",
+    "frame": [
+      25.0,
+      0.0,
+      226.9,
+      100.9
+    ]
+  },
+  "AutumnDragonflyWings": {
+    "name": "AutumnDragonflyWings",
+    "displayName": "Autumn Dragonfly Wings",
+    "quality": "legendary",
+    "itemdefid": "582",
+    "frame": [
+      77.1,
+      0.0,
+      178.9,
+      215.0
+    ]
+  },
+  "CarrionCrowWings": {
+    "name": "CarrionCrowWings",
+    "displayName": "Carrion Crow Wings",
+    "quality": "legendary",
+    "itemdefid": "583",
+    "frame": [
+      45.1,
+      11.1,
+      210.9,
+      189.9
+    ]
+  },
+  "MonarchButterflyWings": {
+    "name": "MonarchButterflyWings",
+    "displayName": "Monarch Butterfly Wings",
+    "quality": "legendary",
+    "itemdefid": "584",
+    "frame": [
+      65.0,
+      0.0,
+      191.0,
+      196.0
+    ]
+  },
+  "BareBrain": {
+    "name": "BareBrain",
+    "displayName": "Bare Brain",
+    "quality": "legendary",
+    "itemdefid": "588",
+    "frame": [
+      47.0,
+      33.1,
+      90.9,
+      38.8
+    ]
+  },
+  "ElectricScrews": {
+    "name": "ElectricScrews",
+    "displayName": "Electric Screws",
+    "quality": "legendary",
+    "itemdefid": "592",
+    "frame": [
+      0.0,
+      1.1,
+      256.0,
+      111.8
+    ]
+  },
+  "PetBat": {
+    "name": "PetBat",
+    "displayName": "Pet Bat",
+    "quality": "legendary",
+    "itemdefid": "593",
+    "frame": [
+      78.1,
+      37.1,
+      83.8,
+      82.8
+    ]
+  },
+  "SpookySkeleton": {
+    "name": "SpookySkeleton",
+    "displayName": "Spooky Skeleton",
+    "quality": "legendary",
+    "itemdefid": "594",
+    "frame": [
+      0.0,
+      0.0,
+      256.0,
+      256.0
+    ]
+  },
+  "SportyRainbowGlasses": {
+    "name": "SportyRainbowGlasses",
+    "displayName": "Sporty Rainbow Glasses",
+    "quality": "legendary",
+    "itemdefid": "595",
+    "frame": [
+      34.0,
+      0.0,
+      132.9,
+      40.9
+    ]
+  },
+  "TheBerlinApartmentBirdie": {
+    "name": "TheBerlinApartmentBirdie",
+    "displayName": "The Berlin Apartment Birdie",
+    "quality": "legendary",
+    "itemdefid": "602",
+    "frame": [
+      62.1,
+      42.0,
+      117.8,
+      202.9
+    ]
+  },
+  "ConstanceHair": {
+    "name": "ConstanceHair",
+    "displayName": "Constance Hair",
+    "quality": "legendary",
+    "itemdefid": "605",
+    "frame": [
+      34.0,
+      0.0,
+      222.0,
+      128.9
+    ]
+  },
+  "BrownFleeceEarmuffs": {
+    "name": "BrownFleeceEarmuffs",
+    "displayName": "Brown Fleece Earmuffs",
+    "quality": "common",
+    "itemdefid": "720",
+    "frame": [
+      20.0,
+      0.0,
+      213.9,
+      105.9
+    ]
+  },
+  "CuteSnowBunny": {
+    "name": "CuteSnowBunny",
+    "displayName": "Cute Snow Bunny",
+    "quality": "uncommon",
+    "itemdefid": "721",
+    "frame": [
+      83.1,
+      56.0,
+      78.9,
+      115.9
+    ]
+  },
+  "EarfitPompomHat": {
+    "name": "EarfitPompomHat",
+    "displayName": "Earfit Pompom Hat",
+    "quality": "uncommon",
+    "itemdefid": "722",
+    "frame": [
+      31.0,
+      1.0,
+      188.9,
+      179.9
+    ]
+  },
+  "FrostyHorns": {
+    "name": "FrostyHorns",
+    "displayName": "Frosty Horns",
+    "quality": "common",
+    "itemdefid": "723",
+    "frame": [
+      34.0,
+      28.0,
+      151.9,
+      65.9
+    ]
+  },
+  "MessengerSnowOwl": {
+    "name": "MessengerSnowOwl",
+    "displayName": "Messenger Snow Owl",
+    "quality": "epic",
+    "itemdefid": "724",
+    "frame": [
+      75.0,
+      50.1,
+      101.9,
+      108.9
+    ]
+  },
+  "MooseAntlers": {
+    "name": "MooseAntlers",
+    "displayName": "Moose Antlers",
+    "quality": "uncommon",
+    "itemdefid": "725",
+    "frame": [
+      0.0,
+      43.0,
+      256.0,
+      101.9
+    ]
+  },
+  "OrangeSnowboard": {
+    "name": "OrangeSnowboard",
+    "displayName": "Orange Snowboard",
+    "quality": "rare",
+    "itemdefid": "726",
+    "frame": [
+      101.1,
+      62.0,
+      125.8,
+      141.9
+    ]
+  },
+  "PeppermintTeaBag": {
+    "name": "PeppermintTeaBag",
+    "displayName": "Peppermint Tea Bag",
+    "quality": "common",
+    "itemdefid": "727",
+    "frame": [
+      60.0,
+      42.0,
+      92.9,
+      76.0
+    ]
+  },
+  "SnowballHit": {
+    "name": "SnowballHit",
+    "displayName": "Snowball Hit",
+    "quality": "uncommon",
+    "itemdefid": "728",
+    "frame": [
+      50.0,
+      18.0,
+      101.9,
+      79.9
+    ]
+  },
+  "SnowflakePin": {
+    "name": "SnowflakePin",
+    "displayName": "Snowflake Pin",
+    "quality": "common",
+    "itemdefid": "729",
+    "frame": [
+      124.0,
+      5.1,
+      62.9,
+      84.9
+    ]
+  },
+  "CandyCane": {
+    "name": "CandyCane",
+    "displayName": "Candy Cane",
+    "quality": "legendary",
+    "itemdefid": "730",
+    "frame": [
+      60.0,
+      35.0,
+      90.0,
+      59.9
+    ]
+  },
+  "ChristmasTreePartyHeadband": {
+    "name": "ChristmasTreePartyHeadband",
+    "displayName": "Christmas Tree Party Headband",
+    "quality": "legendary",
+    "itemdefid": "731",
+    "frame": [
+      28.1,
+      20.0,
+      169.8,
+      125.9
+    ]
+  },
+  "ChristmasTreeStar": {
+    "name": "ChristmasTreeStar",
+    "displayName": "Christmas Tree Star",
+    "quality": "legendary",
+    "itemdefid": "732",
+    "frame": [
+      73.0,
+      60.1,
+      95.9,
+      118.9
+    ]
+  },
+  "CookiePlate": {
+    "name": "CookiePlate",
+    "displayName": "Cookie Plate",
+    "quality": "legendary",
+    "itemdefid": "733",
+    "frame": [
+      57.0,
+      42.1,
+      114.9,
+      58.9
+    ]
+  },
+  "FirstAdventCandle": {
+    "name": "FirstAdventCandle",
+    "displayName": "First Advent Candle",
+    "quality": "legendary",
+    "itemdefid": "734",
+    "frame": [
+      33.0,
+      49.0,
+      164.0,
+      168.9
+    ]
+  },
+  "GingerbreadMan": {
+    "name": "GingerbreadMan",
+    "displayName": "Gingerbread Man",
+    "quality": "legendary",
+    "itemdefid": "735",
+    "frame": [
+      77.1,
+      54.1,
+      76.9,
+      91.8
+    ]
+  },
+  "Holly": {
+    "name": "Holly",
+    "displayName": "Holly",
+    "quality": "legendary",
+    "itemdefid": "736",
+    "frame": [
+      126.0,
+      36.0,
+      81.9,
+      61.9
+    ]
+  },
+  "JingleBells": {
+    "name": "JingleBells",
+    "displayName": "Jingle Bells",
+    "quality": "legendary",
+    "itemdefid": "737",
+    "frame": [
+      71.0,
+      84.1,
+      106.9,
+      107.8
+    ]
+  },
+  "NicolasMitre": {
+    "name": "NicolasMitre",
+    "displayName": "Nicolas Mitre",
+    "quality": "legendary",
+    "itemdefid": "738",
+    "frame": [
+      69.1,
+      50.1,
+      114.8,
+      126.9
+    ]
+  },
+  "RedChristmasTreeOrnament": {
+    "name": "RedChristmasTreeOrnament",
+    "displayName": "Red Christmas Tree Ornament",
+    "quality": "legendary",
+    "itemdefid": "739",
+    "frame": [
+      55.0,
+      29.0,
+      128.9,
+      85.9
+    ]
+  },
+  "RedGiftRibbon": {
+    "name": "RedGiftRibbon",
+    "displayName": "Red Gift Ribbon",
+    "quality": "legendary",
+    "itemdefid": "740",
+    "frame": [
+      35.1,
+      7.1,
+      161.9,
+      114.9
+    ]
+  },
+  "ReindeerPartyHeadband": {
+    "name": "ReindeerPartyHeadband",
+    "displayName": "Reindeer Party Headband",
+    "quality": "legendary",
+    "itemdefid": "741",
+    "frame": [
+      18.1,
+      20.0,
+      191.8,
+      128.9
+    ]
+  },
+  "StuckElfPartyHeadband": {
+    "name": "StuckElfPartyHeadband",
+    "displayName": "Stuck Elf Party Headband",
+    "quality": "legendary",
+    "itemdefid": "742",
+    "frame": [
+      35.1,
+      20.0,
+      162.9,
+      125.9
+    ]
+  },
+  "WarmSantaHat": {
+    "name": "WarmSantaHat",
+    "displayName": "Warm Santa Hat",
+    "quality": "legendary",
+    "itemdefid": "743",
+    "frame": [
+      26.1,
+      0.0,
+      229.9,
+      132.9
+    ]
+  },
+  "WiggleSantaPartyHeadband": {
+    "name": "WiggleSantaPartyHeadband",
+    "displayName": "Wiggle Santa Party Headband",
+    "quality": "legendary",
+    "itemdefid": "744",
+    "frame": [
+      12.1,
+      20.0,
+      198.8,
+      147.9
+    ]
+  },
+  "ChristmasTree": {
+    "name": "ChristmasTree",
+    "displayName": "Christmas Tree",
+    "quality": "legendary",
+    "itemdefid": "755",
+    "frame": [
+      29.1,
+      0.0,
+      222.8,
+      256.0
+    ]
+  },
+  "FestiveReindeerAntlers": {
+    "name": "FestiveReindeerAntlers",
+    "displayName": "Festive Reindeer Antlers",
+    "quality": "legendary",
+    "itemdefid": "756",
+    "frame": [
+      0.0,
+      29.1,
+      246.9,
+      148.9
+    ]
+  },
+  "GiftPile": {
+    "name": "GiftPile",
+    "displayName": "Gift Pile",
+    "quality": "legendary",
+    "itemdefid": "757",
+    "frame": [
+      42.1,
+      25.1,
+      148.9,
+      151.9
+    ]
+  },
+  "GingerbreadHouse": {
+    "name": "GingerbreadHouse",
+    "displayName": "Gingerbread House",
+    "quality": "legendary",
+    "itemdefid": "758",
+    "frame": [
+      70.0,
+      41.1,
+      103.9,
+      92.9
+    ]
+  },
+  "HoHoHo": {
+    "name": "HoHoHo",
+    "displayName": "Ho Ho Ho",
+    "quality": "legendary",
+    "itemdefid": "759",
+    "frame": [
+      0.0,
+      73.1,
+      245.9,
+      182.9
+    ]
+  },
+  "KrampusHorns": {
+    "name": "KrampusHorns",
+    "displayName": "Krampus Horns",
+    "quality": "legendary",
+    "itemdefid": "760",
+    "frame": [
+      38.0,
+      33.1,
+      174.9,
+      122.9
+    ]
+  },
+  "LuciaCrown": {
+    "name": "LuciaCrown",
+    "displayName": "Lucia Crown",
+    "quality": "legendary",
+    "itemdefid": "761",
+    "frame": [
+      0.0,
+      1.1,
+      256.0,
+      201.9
+    ]
+  },
+  "Mistletoe": {
+    "name": "Mistletoe",
+    "displayName": "Mistletoe",
+    "quality": "legendary",
+    "itemdefid": "762",
+    "frame": [
+      43.1,
+      96.0,
+      144.8,
+      160.0
+    ]
+  },
+  "NutcrackerFigure": {
+    "name": "NutcrackerFigure",
+    "displayName": "Nutcracker Figure",
+    "quality": "legendary",
+    "itemdefid": "763",
+    "frame": [
+      66.0,
+      42.1,
+      81.9,
+      165.9
+    ]
+  },
+  "SantasHelperElfHat": {
+    "name": "SantasHelperElfHat",
+    "displayName": "Santas Helper Elf Hat",
+    "quality": "legendary",
+    "itemdefid": "764",
+    "frame": [
+      61.0,
+      51.1,
+      195.0,
+      106.8
+    ]
+  },
+  "SantasOverflowingSack": {
+    "name": "SantasOverflowingSack",
+    "displayName": "Santas Overflowing Sack",
+    "quality": "legendary",
+    "itemdefid": "765",
+    "frame": [
+      38.1,
+      0.1,
+      217.9,
+      241.9
+    ]
+  },
+  "ShootingStar": {
+    "name": "ShootingStar",
+    "displayName": "Shooting Star",
+    "quality": "legendary",
+    "itemdefid": "766",
+    "frame": [
+      0.0,
+      83.0,
+      256.0,
+      173.0
+    ]
+  },
+  "StockingSock": {
+    "name": "StockingSock",
+    "displayName": "Stocking Sock",
+    "quality": "legendary",
+    "itemdefid": "767",
+    "frame": [
+      46.0,
+      21.1,
+      150.9,
+      119.8
+    ]
+  },
+  "WarmMulledWine": {
+    "name": "WarmMulledWine",
+    "displayName": "Warm Mulled Wine",
+    "quality": "legendary",
+    "itemdefid": "768",
+    "frame": [
+      64.1,
+      25.0,
+      102.9,
+      110.9
+    ]
+  },
+  "WoodenRockingHorse": {
+    "name": "WoodenRockingHorse",
+    "displayName": "Wooden Rocking Horse",
+    "quality": "legendary",
+    "itemdefid": "769",
+    "frame": [
+      41.0,
+      48.1,
+      167.9,
+      149.8
+    ]
+  },
+  "TapTapHelmet": {
+    "name": "TapTapHelmet",
+    "displayName": "Tap Tap Helmet",
+    "quality": "legendary",
+    "itemdefid": "780",
+    "frame": [
+      19.0,
+      1.1,
+      205.9,
+      89.8
+    ]
+  },
+  "BongoBeatsGoldCrown": {
+    "name": "BongoBeatsGoldCrown",
+    "displayName": "Bongo Beats Gold Crown",
+    "quality": "legendary",
+    "itemdefid": "785",
+    "frame": [
+      95.1,
+      82.0,
+      78.8,
+      60.9
+    ]
+  },
+  "RedValentine\u2018sGlasses": {
+    "name": "RedValentine\u2018sGlasses",
+    "displayName": "Red Valentine\u2018s Glasses",
+    "quality": "legendary",
+    "itemdefid": "793",
+    "frame": [
+      48.0,
+      33.0,
+      114.9,
+      54.9
+    ]
+  },
+  "BlondeMane": {
+    "name": "BlondeMane",
+    "displayName": "Blonde Mane",
+    "quality": "uncommon",
+    "itemdefid": "797",
+    "frame": [
+      45.1,
+      0.0,
+      130.8,
+      96.0
+    ]
+  },
+  "CuteBrownHorseMane": {
+    "name": "CuteBrownHorseMane",
+    "displayName": "Cute Brown Horse Mane",
+    "quality": "common",
+    "itemdefid": "798",
+    "frame": [
+      69.0,
+      43.1,
+      96.9,
+      65.9
+    ]
+  },
+  "FireFoal": {
+    "name": "FireFoal",
+    "displayName": "Fire Foal",
+    "quality": "rare",
+    "itemdefid": "799",
+    "frame": [
+      88.1,
+      65.0,
+      104.9,
+      108.9
+    ]
+  },
+  "FireHorse": {
+    "name": "FireHorse",
+    "displayName": "Fire Horse",
+    "quality": "epic",
+    "itemdefid": "800",
+    "frame": [
+      68.1,
+      67.1,
+      179.9,
+      187.9
+    ]
+  },
+  "FireMane": {
+    "name": "FireMane",
+    "displayName": "Fire Mane",
+    "quality": "rare",
+    "itemdefid": "801",
+    "frame": [
+      68.1,
+      39.0,
+      121.9,
+      93.9
+    ]
+  },
+  "GreyHorseManeBuns": {
+    "name": "GreyHorseManeBuns",
+    "displayName": "Grey Horse Mane Buns",
+    "quality": "common",
+    "itemdefid": "802",
+    "frame": [
+      91.1,
+      56.1,
+      79.9,
+      39.9
+    ]
+  },
+  "OnFire": {
+    "name": "OnFire",
+    "displayName": "On Fire",
+    "quality": "epic",
+    "itemdefid": "803",
+    "frame": [
+      25.1,
+      0.0,
+      226.9,
+      193.9
+    ]
+  },
+  "RedFireHorseEnvelope": {
+    "name": "RedFireHorseEnvelope",
+    "displayName": "Red Fire Horse Envelope",
+    "quality": "uncommon",
+    "itemdefid": "804",
+    "frame": [
+      65.1,
+      30.1,
+      98.9,
+      66.9
+    ]
+  },
+  "RedFoalMane": {
+    "name": "RedFoalMane",
+    "displayName": "Red Foal Mane",
+    "quality": "common",
+    "itemdefid": "805",
+    "frame": [
+      80.1,
+      53.1,
+      100.9,
+      49.8
+    ]
+  },
+  "RedOrigamiHorse": {
+    "name": "RedOrigamiHorse",
+    "displayName": "Red Origami Horse",
+    "quality": "uncommon",
+    "itemdefid": "806",
+    "frame": [
+      84.1,
+      54.1,
+      64.9,
+      68.9
+    ]
+  },
+  "ChainFirecrackers": {
+    "name": "ChainFirecrackers",
+    "displayName": "Chain Firecrackers",
+    "quality": "legendary",
+    "itemdefid": "817",
+    "frame": [
+      40.1,
+      22.0,
+      128.9,
+      71.9
+    ]
+  },
+  "ChinesePagoda": {
+    "name": "ChinesePagoda",
+    "displayName": "Chinese Pagoda",
+    "quality": "legendary",
+    "itemdefid": "818",
+    "frame": [
+      74.0,
+      61.1,
+      89.9,
+      102.9
+    ]
+  },
+  "CuteBlackBuns": {
+    "name": "CuteBlackBuns",
+    "displayName": "Cute Black Buns",
+    "quality": "legendary",
+    "itemdefid": "819",
+    "frame": [
+      14.0,
+      0.0,
+      241.9,
+      113.0
+    ]
+  },
+  "FierceBlackBun": {
+    "name": "FierceBlackBun",
+    "displayName": "Fierce Black Bun",
+    "quality": "legendary",
+    "itemdefid": "820",
+    "frame": [
+      31.0,
+      0.0,
+      184.9,
+      117.9
+    ]
+  },
+  "LionDanceHat": {
+    "name": "LionDanceHat",
+    "displayName": "Lion Dance Hat",
+    "quality": "legendary",
+    "itemdefid": "821",
+    "frame": [
+      24.0,
+      3.1,
+      212.9,
+      151.9
+    ]
+  },
+  "LuckyCoin": {
+    "name": "LuckyCoin",
+    "displayName": "Lucky Coin",
+    "quality": "legendary",
+    "itemdefid": "822",
+    "frame": [
+      81.0,
+      31.0,
+      44.9,
+      39.9
+    ]
+  },
+  "NewYearsFireWork": {
+    "name": "NewYearsFireWork",
+    "displayName": "New Years Fire Work",
+    "quality": "legendary",
+    "itemdefid": "823",
+    "frame": [
+      1.0,
+      0.0,
+      255.0,
+      255.9
+    ]
+  },
+  "RedChineseKnot": {
+    "name": "RedChineseKnot",
+    "displayName": "Red Chinese Knot",
+    "quality": "legendary",
+    "itemdefid": "824",
+    "frame": [
+      118.1,
+      0.1,
+      113.9,
+      83.9
+    ]
+  },
+  "RedMandarinHat": {
+    "name": "RedMandarinHat",
+    "displayName": "Red Mandarin Hat",
+    "quality": "legendary",
+    "itemdefid": "825",
+    "frame": [
+      77.0,
+      56.1,
+      108.9,
+      55.9
+    ]
+  },
+  "RiceCakeStack": {
+    "name": "RiceCakeStack",
+    "displayName": "Rice Cake Stack",
+    "quality": "legendary",
+    "itemdefid": "826",
+    "frame": [
+      83.0,
+      49.1,
+      62.9,
+      63.8
+    ]
+  },
+  "WealthBag": {
+    "name": "WealthBag",
+    "displayName": "Wealth Bag",
+    "quality": "legendary",
+    "itemdefid": "827",
+    "frame": [
+      71.1,
+      48.1,
+      95.9,
+      98.9
+    ]
+  },
+  "WealthIngot": {
+    "name": "WealthIngot",
+    "displayName": "Wealth Ingot",
+    "quality": "legendary",
+    "itemdefid": "828",
+    "frame": [
+      79.1,
+      53.1,
+      78.9,
+      51.8
+    ]
+  },
+  "TapTapGlasses": {
+    "name": "TapTapGlasses",
+    "displayName": "Tap Tap Glasses",
+    "quality": "legendary",
+    "itemdefid": "905",
+    "frame": [
+      34.1,
+      0.0,
+      119.9,
+      51.9
+    ]
+  },
+  "BongoBeatsAmethystGem": {
+    "name": "BongoBeatsAmethystGem",
+    "displayName": "Bongo Beats Amethyst Gem",
+    "quality": "legendary",
+    "itemdefid": "920",
+    "frame": [
+      99.1,
+      84.1,
+      67.8,
+      46.8
+    ]
+  },
+  "BongoBeatsDiamondGem": {
+    "name": "BongoBeatsDiamondGem",
+    "displayName": "Bongo Beats Diamond Gem",
+    "quality": "legendary",
+    "itemdefid": "921",
+    "frame": [
+      86.0,
+      78.0,
+      99.9,
+      75.9
+    ]
+  },
+  "BongoBeatsEmeraldGem": {
+    "name": "BongoBeatsEmeraldGem",
+    "displayName": "Bongo Beats Emerald Gem",
+    "quality": "legendary",
+    "itemdefid": "922",
+    "frame": [
+      101.1,
+      85.1,
+      64.8,
+      46.9
+    ]
+  },
+  "BongoBeatsPlatinumCrown": {
+    "name": "BongoBeatsPlatinumCrown",
+    "displayName": "Bongo Beats Platinum Crown",
+    "quality": "legendary",
+    "itemdefid": "923",
+    "frame": [
+      94.1,
+      82.1,
+      83.8,
+      65.8
+    ]
+  },
+  "BongoBeatsRubyGem": {
+    "name": "BongoBeatsRubyGem",
+    "displayName": "Bongo Beats Ruby Gem",
+    "quality": "legendary",
+    "itemdefid": "924",
+    "frame": [
+      98.1,
+      85.0,
+      76.8,
+      59.0
+    ]
+  },
+  "BongoBeatsSapphireGem": {
+    "name": "BongoBeatsSapphireGem",
+    "displayName": "Bongo Beats Sapphire Gem",
+    "quality": "legendary",
+    "itemdefid": "925",
+    "frame": [
+      95.1,
+      84.1,
+      78.8,
+      47.9
+    ]
+  },
+  "BongoBeatsSilverCrown": {
+    "name": "BongoBeatsSilverCrown",
+    "displayName": "Bongo Beats Silver Crown",
+    "quality": "legendary",
+    "itemdefid": "926",
+    "frame": [
+      95.1,
+      81.1,
+      67.8,
+      39.8
+    ]
+  },
+  "CutiePunchChant": {
+    "name": "CutiePunchChant",
+    "displayName": "Cutie Punch Chant",
+    "quality": "legendary",
+    "itemdefid": "933",
+    "frame": [
+      6.0,
+      0.0,
+      250.0,
+      179.9
+    ]
+  },
+  "RibbitRampageChant": {
+    "name": "RibbitRampageChant",
+    "displayName": "Ribbit Rampage Chant",
+    "quality": "legendary",
+    "itemdefid": "934",
+    "frame": [
+      5.1,
+      9.0,
+      249.8,
+      178.0
+    ]
+  },
+  "SixSevenLivesChant": {
+    "name": "SixSevenLivesChant",
+    "displayName": "Six Seven Lives Chant",
+    "quality": "legendary",
+    "itemdefid": "935",
+    "frame": [
+      6.0,
+      28.0,
+      245.9,
+      162.9
+    ]
+  },
+  "TypingFarmerChick": {
+    "name": "TypingFarmerChick",
+    "displayName": "Typing Farmer Chick",
+    "quality": "legendary",
+    "itemdefid": "938",
+    "frame": [
+      94.0,
+      68.1,
+      64.9,
+      70.9
+    ]
+  },
+  "TapTapBunnyEars": {
+    "name": "TapTapBunnyEars",
+    "displayName": "Tap Tap Bunny Ears",
+    "quality": "legendary",
+    "itemdefid": "943",
+    "frame": [
+      0.0,
+      23.0,
+      207.9,
+      162.9
+    ]
+  },
+  "TapTapJesterHat": {
+    "name": "TapTapJesterHat",
+    "displayName": "Tap Tap Jester Hat",
+    "quality": "legendary",
+    "itemdefid": "944",
+    "frame": [
+      0.0,
+      44.1,
+      223.0,
+      137.9
+    ]
+  },
+  "TypingFarmerStrawhat": {
+    "name": "TypingFarmerStrawhat",
+    "displayName": "Typing Farmer Strawhat",
+    "quality": "legendary",
+    "itemdefid": "954",
+    "frame": [
+      0.0,
+      0.0,
+      246.0,
+      140.0
+    ]
+  },
+  "MoldriseFungi": {
+    "name": "MoldriseFungi",
+    "displayName": "Moldrise Fungi",
+    "quality": "legendary",
+    "itemdefid": "958",
+    "frame": [
+      42.1,
+      55.1,
+      123.8,
+      72.9
+    ]
+  },
+  "MothkeepGlasses": {
+    "name": "MothkeepGlasses",
+    "displayName": "Mothkeep Glasses",
+    "quality": "legendary",
+    "itemdefid": "959",
+    "frame": [
+      36.0,
+      0.0,
+      135.9,
+      125.0
+    ]
+  },
+  "StuntboostCap": {
+    "name": "StuntboostCap",
+    "displayName": "Stuntboost Cap",
+    "quality": "legendary",
+    "itemdefid": "960",
+    "frame": [
+      34.0,
+      0.0,
+      214.9,
+      98.9
+    ]
+  },
+  "BabyPondTurtle": {
+    "name": "BabyPondTurtle",
+    "displayName": "Baby Pond Turtle",
+    "quality": "uncommon",
+    "itemdefid": "961",
+    "frame": [
+      77.0,
+      31.0,
+      72.9,
+      64.9
+    ]
+  },
+  "BabySeaTurtle": {
+    "name": "BabySeaTurtle",
+    "displayName": "Baby Sea Turtle",
+    "quality": "rare",
+    "itemdefid": "962",
+    "frame": [
+      75.0,
+      31.0,
+      76.9,
+      57.9
+    ]
+  },
+  "BabyTurtle": {
+    "name": "BabyTurtle",
+    "displayName": "Baby Turtle",
+    "quality": "common",
+    "itemdefid": "963",
+    "frame": [
+      87.0,
+      39.0,
+      61.9,
+      58.9
+    ]
+  },
+  "Coral": {
+    "name": "Coral",
+    "displayName": "Coral",
+    "quality": "common",
+    "itemdefid": "964",
+    "frame": [
+      82.0,
+      68.0,
+      95.9,
+      89.9
+    ]
+  },
+  "GardenEels": {
+    "name": "GardenEels",
+    "displayName": "Garden Eels",
+    "quality": "epic",
+    "itemdefid": "965",
+    "frame": [
+      53.1,
+      27.0,
+      112.9,
+      107.9
+    ]
+  },
+  "HermitCrabShell": {
+    "name": "HermitCrabShell",
+    "displayName": "Hermit Crab Shell",
+    "quality": "epic",
+    "itemdefid": "966",
+    "frame": [
+      44.1,
+      0.0,
+      189.9,
+      161.9
+    ]
+  },
+  "HibiscusFlower": {
+    "name": "HibiscusFlower",
+    "displayName": "Hibiscus Flower",
+    "quality": "uncommon",
+    "itemdefid": "967",
+    "frame": [
+      90.1,
+      17.1,
+      95.9,
+      74.9
+    ]
+  },
+  "Kelp": {
+    "name": "Kelp",
+    "displayName": "Kelp",
+    "quality": "common",
+    "itemdefid": "968",
+    "frame": [
+      89.0,
+      69.0,
+      81.0,
+      81.9
+    ]
+  },
+  "PalmTree": {
+    "name": "PalmTree",
+    "displayName": "Palm Tree",
+    "quality": "common",
+    "itemdefid": "969",
+    "frame": [
+      71.1,
+      70.1,
+      116.9,
+      121.8
+    ]
+  },
+  "PalmTreeLeaves": {
+    "name": "PalmTreeLeaves",
+    "displayName": "Palm Tree Leaves",
+    "quality": "rare",
+    "itemdefid": "970",
+    "frame": [
+      2.0,
+      0.0,
+      254.0,
+      199.9
+    ]
+  },
+  "MigratingCurrents": {
+    "name": "MigratingCurrents",
+    "displayName": "Migrating Currents",
+    "quality": "legendary",
+    "itemdefid": "984",
+    "frame": [
+      0.0,
+      5.0,
+      256.0,
+      226.0
+    ]
+  },
+  "PollinatingBreeze": {
+    "name": "PollinatingBreeze",
+    "displayName": "Pollinating Breeze",
+    "quality": "legendary",
+    "itemdefid": "985",
+    "frame": [
+      0.0,
+      3.1,
+      256.0,
+      210.8
+    ]
+  },
+  "RegeneratingBloom": {
+    "name": "RegeneratingBloom",
+    "displayName": "Regenerating Bloom",
+    "quality": "legendary",
+    "itemdefid": "986",
+    "frame": [
+      0.0,
+      37.0,
+      256.0,
+      197.9
+    ]
+  },
+  "NightwaterBackpack": {
+    "name": "NightwaterBackpack",
+    "displayName": "Nightwater Backpack",
+    "quality": "legendary",
+    "itemdefid": "989",
+    "frame": [
+      68.0,
+      0.0,
+      170.9,
+      141.9
+    ]
+  }
+}

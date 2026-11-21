@@ -1,0 +1,7031 @@
+[
+  {
+    "id": "AcornStick",
+    "name": "AcornStick",
+    "displayName": "AcornStick",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        13.08,
+        57.08,
+        236.9,
+        191.9
+      ],
+      "left_punch": [
+        7.08,
+        0.0,
+        242.9,
+        167.92
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableBobby",
+    "name": "AdoptableBobby",
+    "displayName": "AdoptableBobby",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        126.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        166.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableJerry",
+    "name": "AdoptableJerry",
+    "displayName": "AdoptableJerry",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableLuna",
+    "name": "AdoptableLuna",
+    "displayName": "AdoptableLuna",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        126.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        166.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableTeddy",
+    "name": "AdoptableTeddy",
+    "displayName": "AdoptableTeddy",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        17.03,
+        57.08,
+        232.94,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        158.0,
+        57.04,
+        62.92,
+        74.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableTommy",
+    "name": "AdoptableTommy",
+    "displayName": "AdoptableTommy",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AdoptableVinci",
+    "name": "AdoptableVinci",
+    "displayName": "AdoptableVinci",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Alien",
+    "name": "Alien",
+    "displayName": "Alien",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        8.08,
+        55.08,
+        242.85,
+        114.85
+      ],
+      "left_punch": [
+        6.08,
+        3.08,
+        244.85,
+        165.9
+      ],
+      "right": [
+        161.04,
+        56.08,
+        60.88,
+        72.85
+      ],
+      "right_punch": [
+        146.08,
+        15.08,
+        101.85,
+        77.87
+      ]
+    }
+  },
+  {
+    "id": "AngelicKitten",
+    "name": "AngelicKitten",
+    "displayName": "AngelicKitten",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Angry",
+    "name": "Angry",
+    "displayName": "Angry",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Anime",
+    "name": "Anime",
+    "displayName": "Anime",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        7.04,
+        16.08,
+        243.93,
+        151.9
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.9,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.87
+      ]
+    }
+  },
+  {
+    "id": "Appreciation",
+    "name": "Appreciation",
+    "displayName": "Appreciation",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        61.87,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "AttackMechaS.L.A.S.H.",
+    "name": "AttackMechaS.L.A.S.H.",
+    "displayName": "AttackMechaS.L.A.S.H.",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        106.85
+      ]
+    }
+  },
+  {
+    "id": "BeckoningLuckyCat",
+    "name": "BeckoningLuckyCat",
+    "displayName": "BeckoningLuckyCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        12.01,
+        39.08,
+        237.96,
+        128.85
+      ],
+      "left_punch": [
+        12.01,
+        36.08,
+        237.96,
+        131.85
+      ],
+      "right": [
+        160.03,
+        57.04,
+        60.9,
+        68.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Bingus",
+    "name": "Bingus",
+    "displayName": "Bingus",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        15.04,
+        57.08,
+        234.93,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        157.03,
+        57.04,
+        61.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "Black",
+    "name": "Black",
+    "displayName": "Black",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "BlackHorse",
+    "name": "BlackHorse",
+    "displayName": "BlackHorse",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "BlackSpotted",
+    "name": "BlackSpotted",
+    "displayName": "BlackSpotted",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "BloodSplatterCat",
+    "name": "BloodSplatterCat",
+    "displayName": "BloodSplatterCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        11.03,
+        19.08,
+        238.95,
+        148.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        8.08,
+        97.88,
+        83.86
+      ]
+    }
+  },
+  {
+    "id": "BonfireCat",
+    "name": "BonfireCat",
+    "displayName": "BonfireCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        198.92
+      ],
+      "left_punch": [
+        6.03,
+        13.08,
+        243.95,
+        242.92
+      ],
+      "right": [
+        150.03,
+        57.04,
+        70.9,
+        146.91
+      ],
+      "right_punch": [
+        73.08,
+        0.0,
+        171.88,
+        91.94
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsAmethyst",
+    "name": "BongoBeatsAmethyst",
+    "displayName": "BongoBeatsAmethyst",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        74.08,
+        57.04,
+        163.85,
+        82.88
+      ],
+      "right_punch": [
+        28.08,
+        19.08,
+        216.88,
+        125.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsDiamond",
+    "name": "BongoBeatsDiamond",
+    "displayName": "BongoBeatsDiamond",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        74.08,
+        57.04,
+        161.85,
+        82.88
+      ],
+      "right_punch": [
+        33.08,
+        19.08,
+        211.88,
+        125.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsEmerald",
+    "name": "BongoBeatsEmerald",
+    "displayName": "BongoBeatsEmerald",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        72.08,
+        57.04,
+        169.85,
+        91.88
+      ],
+      "right_punch": [
+        33.08,
+        19.08,
+        211.88,
+        133.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsGold",
+    "name": "BongoBeatsGold",
+    "displayName": "BongoBeatsGold",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        75.08,
+        57.04,
+        158.85,
+        89.88
+      ],
+      "right_punch": [
+        33.08,
+        19.08,
+        211.88,
+        132.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsPlatinum",
+    "name": "BongoBeatsPlatinum",
+    "displayName": "BongoBeatsPlatinum",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        79.08,
+        57.04,
+        153.85,
+        85.88
+      ],
+      "right_punch": [
+        47.08,
+        19.08,
+        197.88,
+        127.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsRuby",
+    "name": "BongoBeatsRuby",
+    "displayName": "BongoBeatsRuby",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        71.08,
+        57.04,
+        159.82,
+        86.88
+      ],
+      "right_punch": [
+        49.08,
+        19.08,
+        195.88,
+        124.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsSapphire",
+    "name": "BongoBeatsSapphire",
+    "displayName": "BongoBeatsSapphire",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        81.08,
+        57.04,
+        146.85,
+        90.88
+      ],
+      "right_punch": [
+        47.08,
+        19.08,
+        197.88,
+        132.85
+      ]
+    }
+  },
+  {
+    "id": "BongoBeatsSilver",
+    "name": "BongoBeatsSilver",
+    "displayName": "BongoBeatsSilver",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        14.08,
+        25.08,
+        235.9,
+        142.85
+      ],
+      "right": [
+        74.08,
+        57.04,
+        148.85,
+        87.88
+      ],
+      "right_punch": [
+        47.08,
+        19.08,
+        197.88,
+        126.85
+      ]
+    }
+  },
+  {
+    "id": "BongoDog",
+    "name": "BongoDog",
+    "displayName": "BongoDog",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        162.03,
+        57.08,
+        70.92,
+        70.85
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        98.85,
+        76.91
+      ]
+    }
+  },
+  {
+    "id": "BongoMouse",
+    "name": "BongoMouse",
+    "displayName": "BongoMouse",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        24.05,
+        57.08,
+        231.95,
+        163.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        203.85
+      ],
+      "right": [
+        163.03,
+        57.04,
+        56.9,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.9
+      ]
+    }
+  },
+  {
+    "id": "BrownHorse",
+    "name": "BrownHorse",
+    "displayName": "BrownHorse",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "BrownLanternCarrier",
+    "name": "BrownLanternCarrier",
+    "displayName": "BrownLanternCarrier",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        75.03,
+        57.04,
+        145.9,
+        152.93
+      ],
+      "right_punch": [
+        50.03,
+        0.0,
+        194.93,
+        95.96
+      ]
+    }
+  },
+  {
+    "id": "Bubble",
+    "name": "Bubble",
+    "displayName": "Bubble",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        61.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "Bubblegum",
+    "name": "Bubblegum",
+    "displayName": "Bubblegum",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "BugCatcher",
+    "name": "BugCatcher",
+    "displayName": "BugCatcher",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        154.05,
+        48.03,
+        101.95,
+        197.9
+      ],
+      "right_punch": [
+        29.08,
+        7.01,
+        214.85,
+        116.87
+      ]
+    }
+  },
+  {
+    "id": "BumbleKitten",
+    "name": "BumbleKitten",
+    "displayName": "BumbleKitten",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.03,
+        57.08,
+        235.97,
+        163.9
+      ],
+      "left_punch": [
+        6.05,
+        9.05,
+        249.95,
+        211.93
+      ],
+      "right": [
+        161.05,
+        57.04,
+        58.89,
+        71.91
+      ],
+      "right_punch": [
+        144.06,
+        6.04,
+        99.86,
+        86.91
+      ]
+    }
+  },
+  {
+    "id": "BurningHorse",
+    "name": "BurningHorse",
+    "displayName": "BurningHorse",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.03,
+        52.03,
+        230.93,
+        115.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        49.05,
+        58.85,
+        79.92
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Butler",
+    "name": "Butler",
+    "displayName": "Butler",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        64.9,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "CalabrianBlackSquirrel",
+    "name": "CalabrianBlackSquirrel",
+    "displayName": "CalabrianBlackSquirrel",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        18.08,
+        57.08,
+        237.92,
+        198.92
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        238.92
+      ],
+      "right": [
+        158.01,
+        55.03,
+        62.91,
+        77.9
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.85
+      ]
+    }
+  },
+  {
+    "id": "Calico",
+    "name": "Calico",
+    "displayName": "Calico",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        62.88,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "Cat",
+    "name": "Cat",
+    "displayName": "Cat",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.03,
+        56.03,
+        229.95,
+        111.95
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.9
+      ],
+      "right": [
+        162.03,
+        57.08,
+        60.9,
+        70.85
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        98.85,
+        76.91
+      ]
+    }
+  },
+  {
+    "id": "Catcus",
+    "name": "Catcus",
+    "displayName": "Catcus",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Catuccino",
+    "name": "Catuccino",
+    "displayName": "Catuccino",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.86
+      ]
+    }
+  },
+  {
+    "id": "ChineseSunset",
+    "name": "ChineseSunset",
+    "displayName": "ChineseSunset",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Chipmunk",
+    "name": "Chipmunk",
+    "displayName": "Chipmunk",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        18.08,
+        57.05,
+        237.92,
+        170.87
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        210.85
+      ],
+      "right": [
+        158.01,
+        57.04,
+        62.91,
+        75.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.85
+      ]
+    }
+  },
+  {
+    "id": "ChocolateFerret",
+    "name": "ChocolateFerret",
+    "displayName": "ChocolateFerret",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "ChocolateSiamese",
+    "name": "ChocolateSiamese",
+    "displayName": "ChocolateSiamese",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "ChocolateSprinkleCookieCat",
+    "name": "ChocolateSprinkleCookieCat",
+    "displayName": "ChocolateSprinkleCookieCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        44.03,
+        229.9,
+        123.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "ChristmasLightsEntangler",
+    "name": "ChristmasLightsEntangler",
+    "displayName": "ChristmasLightsEntangler",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        11.04,
+        52.03,
+        238.93,
+        115.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        55.08,
+        62.9,
+        73.9
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.87
+      ]
+    }
+  },
+  {
+    "id": "ChristmasSaboteur",
+    "name": "ChristmasSaboteur",
+    "displayName": "ChristmasSaboteur",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        0.0,
+        30.08,
+        249.97,
+        137.85
+      ],
+      "left_punch": [
+        0.0,
+        19.08,
+        249.97,
+        148.85
+      ],
+      "right": [
+        114.04,
+        28.03,
+        106.88,
+        100.95
+      ],
+      "right_punch": [
+        114.04,
+        16.05,
+        130.91,
+        75.89
+      ]
+    }
+  },
+  {
+    "id": "CinnamonSiamese",
+    "name": "CinnamonSiamese",
+    "displayName": "CinnamonSiamese",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "CloudscrapersPinwheel",
+    "name": "CloudscrapersPinwheel",
+    "displayName": "CloudscrapersPinwheel",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        150.04,
+        57.04,
+        71.93,
+        145.91
+      ],
+      "right_punch": [
+        99.04,
+        0.0,
+        145.91,
+        91.94
+      ]
+    }
+  },
+  {
+    "id": "Clown",
+    "name": "Clown",
+    "displayName": "Clown",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "Confused",
+    "name": "Confused",
+    "displayName": "Confused",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        61.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        78.92
+      ]
+    }
+  },
+  {
+    "id": "CuteYeti",
+    "name": "CuteYeti",
+    "displayName": "CuteYeti",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        56.03,
+        229.9,
+        111.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        57.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.9
+      ]
+    }
+  },
+  {
+    "id": "DarkBrownHorse",
+    "name": "DarkBrownHorse",
+    "displayName": "DarkBrownHorse",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "DarkRedTangSuit",
+    "name": "DarkRedTangSuit",
+    "displayName": "DarkRedTangSuit",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        54.08,
+        229.9,
+        113.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        59.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.9
+      ]
+    }
+  },
+  {
+    "id": "Dolphin",
+    "name": "Dolphin",
+    "displayName": "Dolphin",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        22.08,
+        57.08,
+        227.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        165.05,
+        57.04,
+        54.87,
+        70.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        79.85
+      ]
+    }
+  },
+  {
+    "id": "Dragon",
+    "name": "Dragon",
+    "displayName": "Dragon",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.04,
+        56.08,
+        231.94,
+        112.91
+      ],
+      "left_punch": [
+        7.04,
+        17.04,
+        243.93,
+        151.94
+      ],
+      "right": [
+        162.04,
+        57.05,
+        69.88,
+        72.91
+      ],
+      "right_punch": [
+        147.08,
+        15.08,
+        98.88,
+        75.9
+      ]
+    }
+  },
+  {
+    "id": "DumboOctopus",
+    "name": "DumboOctopus",
+    "displayName": "DumboOctopus",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        30.06,
+        56.05,
+        225.94,
+        111.88
+      ],
+      "left_punch": [
+        12.08,
+        23.08,
+        243.92,
+        144.85
+      ],
+      "right": [
+        172.04,
+        57.08,
+        44.94,
+        41.89
+      ],
+      "right_punch": [
+        163.08,
+        9.08,
+        77.85,
+        72.85
+      ]
+    }
+  },
+  {
+    "id": "EasternGreySquirrel",
+    "name": "EasternGreySquirrel",
+    "displayName": "EasternGreySquirrel",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        18.08,
+        57.08,
+        237.92,
+        198.92
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        238.92
+      ],
+      "right": [
+        158.01,
+        57.05,
+        73.97,
+        75.87
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.85
+      ]
+    }
+  },
+  {
+    "id": "EurasianRedSquirrel",
+    "name": "EurasianRedSquirrel",
+    "displayName": "EurasianRedSquirrel",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        18.08,
+        57.08,
+        237.92,
+        198.92
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        238.92
+      ],
+      "right": [
+        158.01,
+        57.04,
+        62.91,
+        75.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.85
+      ]
+    }
+  },
+  {
+    "id": "Excited",
+    "name": "Excited",
+    "displayName": "Excited",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Fawn",
+    "name": "Fawn",
+    "displayName": "Fawn",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        15.08,
+        57.08,
+        234.9,
+        110.85
+      ],
+      "left_punch": [
+        2.08,
+        13.08,
+        247.9,
+        154.85
+      ],
+      "right": [
+        157.08,
+        57.03,
+        63.9,
+        85.95
+      ],
+      "right_punch": [
+        144.08,
+        14.08,
+        100.88,
+        78.86
+      ]
+    }
+  },
+  {
+    "id": "FelineValentine",
+    "name": "FelineValentine",
+    "displayName": "FelineValentine",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        45.03,
+        229.9,
+        122.9
+      ],
+      "left_punch": [
+        12.01,
+        22.04,
+        237.97,
+        145.88
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        154.08,
+        14.05,
+        90.88,
+        77.89
+      ]
+    }
+  },
+  {
+    "id": "FestiveSmoocher",
+    "name": "FestiveSmoocher",
+    "displayName": "FestiveSmoocher",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        36.03,
+        229.9,
+        131.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.83
+      ]
+    }
+  },
+  {
+    "id": "FinePatternedChristmasSweater",
+    "name": "FinePatternedChristmasSweater",
+    "displayName": "FinePatternedChristmasSweater",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.01,
+        56.03,
+        229.96,
+        111.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        65.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.85
+      ]
+    }
+  },
+  {
+    "id": "FireCat",
+    "name": "FireCat",
+    "displayName": "FireCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        4.03,
+        23.08,
+        245.95,
+        144.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        151.02,
+        17.08,
+        93.94,
+        74.86
+      ]
+    }
+  },
+  {
+    "id": "FirePaw",
+    "name": "FirePaw",
+    "displayName": "FirePaw",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        10.03,
+        57.08,
+        239.95,
+        110.85
+      ],
+      "left_punch": [
+        11.02,
+        14.04,
+        238.95,
+        153.88
+      ],
+      "right": [
+        154.06,
+        57.04,
+        66.89,
+        107.9
+      ],
+      "right_punch": [
+        146.02,
+        12.08,
+        98.94,
+        102.85
+      ]
+    }
+  },
+  {
+    "id": "FishSnackingCat",
+    "name": "FishSnackingCat",
+    "displayName": "FishSnackingCat",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        50.03,
+        229.9,
+        117.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Floaties",
+    "name": "Floaties",
+    "displayName": "Floaties",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.05,
+        54.03,
+        229.92,
+        113.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        48.03,
+        89.85,
+        80.95
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.89,
+        85.85
+      ]
+    }
+  },
+  {
+    "id": "Fox",
+    "name": "Fox",
+    "displayName": "Fox",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        188.9
+      ],
+      "left_punch": [
+        7.08,
+        9.03,
+        248.92,
+        236.95
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Frankittystein",
+    "name": "Frankittystein",
+    "displayName": "Frankittystein",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.85
+      ]
+    }
+  },
+  {
+    "id": "FreezingCold",
+    "name": "FreezingCold",
+    "displayName": "FreezingCold",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        47.04,
+        229.88,
+        120.88
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.88,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullBlue",
+    "name": "FullBlue",
+    "displayName": "FullBlue",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullGreen",
+    "name": "FullGreen",
+    "displayName": "FullGreen",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullGrey",
+    "name": "FullGrey",
+    "displayName": "FullGrey",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullOrange",
+    "name": "FullOrange",
+    "displayName": "FullOrange",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullPink",
+    "name": "FullPink",
+    "displayName": "FullPink",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullPurple",
+    "name": "FullPurple",
+    "displayName": "FullPurple",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullRed",
+    "name": "FullRed",
+    "displayName": "FullRed",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "FullYellow",
+    "name": "FullYellow",
+    "displayName": "FullYellow",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Ghost",
+    "name": "Ghost",
+    "displayName": "Ghost",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.03,
+        43.08,
+        231.9,
+        125.9
+      ],
+      "left_punch": [
+        6.08,
+        17.08,
+        245.85,
+        151.9
+      ],
+      "right": [
+        161.08,
+        45.08,
+        69.85,
+        84.85
+      ],
+      "right_punch": [
+        146.08,
+        15.08,
+        83.85,
+        74.88
+      ]
+    }
+  },
+  {
+    "id": "GiftShredder",
+    "name": "GiftShredder",
+    "displayName": "GiftShredder",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        3.06,
+        30.08,
+        250.92,
+        137.85
+      ],
+      "left_punch": [
+        3.06,
+        17.08,
+        250.92,
+        150.85
+      ],
+      "right": [
+        116.08,
+        29.03,
+        139.92,
+        99.95
+      ],
+      "right_punch": [
+        116.08,
+        16.08,
+        139.92,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Giftee",
+    "name": "Giftee",
+    "displayName": "Giftee",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        135.03,
+        57.04,
+        86.95,
+        115.88
+      ],
+      "right_punch": [
+        119.08,
+        16.08,
+        125.88,
+        105.87
+      ]
+    }
+  },
+  {
+    "id": "GingerbreadCat",
+    "name": "GingerbreadCat",
+    "displayName": "GingerbreadCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        46.05,
+        229.9,
+        121.87
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "GreenWrappedGift",
+    "name": "GreenWrappedGift",
+    "displayName": "GreenWrappedGift",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.08,
+        57.08,
+        230.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        161.08,
+        57.04,
+        60.85,
+        72.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        93.85,
+        80.88
+      ]
+    }
+  },
+  {
+    "id": "GreyHorse",
+    "name": "GreyHorse",
+    "displayName": "GreyHorse",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "GreyPatterned",
+    "name": "GreyPatterned",
+    "displayName": "GreyPatterned",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        55.08,
+        229.9,
+        112.88
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        243.9,
+        151.91
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.87,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "Gummy",
+    "name": "Gummy",
+    "displayName": "Gummy",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        243.9,
+        150.9
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "Hades",
+    "name": "Hades",
+    "displayName": "Hades",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        37.03,
+        229.9,
+        130.9
+      ],
+      "left_punch": [
+        3.04,
+        14.08,
+        246.94,
+        153.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        144.01,
+        12.03,
+        100.94,
+        79.91
+      ]
+    }
+  },
+  {
+    "id": "HaikuPoet",
+    "name": "HaikuPoet",
+    "displayName": "HaikuPoet",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        11.04,
+        50.05,
+        238.91,
+        123.87
+      ],
+      "left_punch": [
+        7.08,
+        8.08,
+        242.88,
+        159.85
+      ],
+      "right": [
+        162.08,
+        49.08,
+        58.9,
+        82.9
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.9,
+        78.9
+      ]
+    }
+  },
+  {
+    "id": "Halloween",
+    "name": "Halloween",
+    "displayName": "Halloween",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.9,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "Happy",
+    "name": "Happy",
+    "displayName": "Happy",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "HawaiianShirt",
+    "name": "HawaiianShirt",
+    "displayName": "HawaiianShirt",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        60.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        77.85
+      ]
+    }
+  },
+  {
+    "id": "HealMechaP.U.R.R.",
+    "name": "HealMechaP.U.R.R.",
+    "displayName": "HealMechaP.U.R.R.",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        0.0,
+        10.03,
+        249.97,
+        157.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        139.03,
+        2.03,
+        105.93,
+        89.91
+      ]
+    }
+  },
+  {
+    "id": "Hearts",
+    "name": "Hearts",
+    "displayName": "Hearts",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        61.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.87
+      ]
+    }
+  },
+  {
+    "id": "HorseLanternCarrier",
+    "name": "HorseLanternCarrier",
+    "displayName": "HorseLanternCarrier",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        70.04,
+        57.04,
+        150.89,
+        152.93
+      ],
+      "right_punch": [
+        46.04,
+        3.08,
+        198.92,
+        92.88
+      ]
+    }
+  },
+  {
+    "id": "Hungry",
+    "name": "Hungry",
+    "displayName": "Hungry",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "IceCarvedCat",
+    "name": "IceCarvedCat",
+    "displayName": "IceCarvedCat",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        5.03,
+        14.07,
+        244.95,
+        153.86
+      ],
+      "right": [
+        162.08,
+        57.04,
+        59.91,
+        71.93
+      ],
+      "right_punch": [
+        146.03,
+        12.08,
+        98.93,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "InLove",
+    "name": "InLove",
+    "displayName": "InLove",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Infatuated",
+    "name": "Infatuated",
+    "displayName": "Infatuated",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "JadeCat",
+    "name": "JadeCat",
+    "displayName": "JadeCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "King",
+    "name": "King",
+    "displayName": "King",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        18.03,
+        48.08,
+        231.95,
+        119.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        99.9,
+        87.85
+      ]
+    }
+  },
+  {
+    "id": "KnockedOut",
+    "name": "KnockedOut",
+    "displayName": "KnockedOut",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Krampus",
+    "name": "Krampus",
+    "displayName": "Krampus",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.03,
+        50.04,
+        230.93,
+        117.89
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.88,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        93.92,
+        171.91
+      ],
+      "right_punch": [
+        56.04,
+        14.03,
+        188.91,
+        77.91
+      ]
+    }
+  },
+  {
+    "id": "LaserEyed",
+    "name": "LaserEyed",
+    "displayName": "LaserEyed",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        54.08,
+        229.9,
+        113.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "LeafPile",
+    "name": "LeafPile",
+    "displayName": "LeafPile",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        9.04,
+        40.08,
+        240.93,
+        127.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        42.03,
+        88.85,
+        86.95
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        101.9,
+        96.87
+      ]
+    }
+  },
+  {
+    "id": "MadTattooCat",
+    "name": "MadTattooCat",
+    "displayName": "MadTattooCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "MajesticMercat",
+    "name": "MajesticMercat",
+    "displayName": "MajesticMercat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        54.06,
+        235.92,
+        201.94
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        238.92
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "MeltingHot",
+    "name": "MeltingHot",
+    "displayName": "MeltingHot",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Meowxolotl",
+    "name": "Meowxolotl",
+    "displayName": "Meowxolotl",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        17.03,
+        47.03,
+        238.97,
+        178.95
+      ],
+      "left_punch": [
+        16.04,
+        36.03,
+        239.96,
+        189.95
+      ],
+      "right": [
+        158.04,
+        57.04,
+        62.91,
+        73.92
+      ],
+      "right_punch": [
+        153.08,
+        20.08,
+        91.88,
+        65.9
+      ]
+    }
+  },
+  {
+    "id": "Midnight",
+    "name": "Midnight",
+    "displayName": "Midnight",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        78.85
+      ]
+    }
+  },
+  {
+    "id": "MidnightDemon",
+    "name": "MidnightDemon",
+    "displayName": "MidnightDemon",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "MoldriseCat",
+    "name": "MoldriseCat",
+    "displayName": "MoldriseCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "MothkeepMallow",
+    "name": "MothkeepMallow",
+    "displayName": "MothkeepMallow",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        32.08,
+        234.85,
+        139.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        247.85,
+        154.9
+      ],
+      "right": [
+        162.08,
+        56.08,
+        58.85,
+        72.9
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Muscle",
+    "name": "Muscle",
+    "displayName": "Muscle",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        16.08,
+        57.08,
+        233.9,
+        130.85
+      ],
+      "left_punch": [
+        0.0,
+        0.0,
+        249.97,
+        167.92
+      ],
+      "right": [
+        155.08,
+        57.08,
+        65.85,
+        130.9
+      ],
+      "right_punch": [
+        45.08,
+        0.0,
+        195.85,
+        107.92
+      ]
+    }
+  },
+  {
+    "id": "NightwaterCat",
+    "name": "NightwaterCat",
+    "displayName": "NightwaterCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        0.0,
+        9.08,
+        249.97,
+        158.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        143.08,
+        7.08,
+        101.88,
+        84.86
+      ]
+    }
+  },
+  {
+    "id": "Nosfergato",
+    "name": "Nosfergato",
+    "displayName": "Nosfergato",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        17.03,
+        31.08,
+        238.97,
+        136.85
+      ],
+      "left_punch": [
+        8.08,
+        16.08,
+        247.92,
+        151.85
+      ],
+      "right": [
+        159.08,
+        57.08,
+        66.88,
+        75.87
+      ],
+      "right_punch": [
+        147.08,
+        14.08,
+        97.88,
+        77.85
+      ]
+    }
+  },
+  {
+    "id": "Nutcracker",
+    "name": "Nutcracker",
+    "displayName": "Nutcracker",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.08,
+        42.03,
+        230.9,
+        125.9
+      ],
+      "left_punch": [
+        10.08,
+        16.08,
+        239.9,
+        151.85
+      ],
+      "right": [
+        160.08,
+        59.08,
+        77.9,
+        70.85
+      ],
+      "right_punch": [
+        148.08,
+        15.08,
+        89.85,
+        90.85
+      ]
+    }
+  },
+  {
+    "id": "OrangeCat",
+    "name": "OrangeCat",
+    "displayName": "OrangeCat",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.88
+      ]
+    }
+  },
+  {
+    "id": "OrangePatterned",
+    "name": "OrangePatterned",
+    "displayName": "OrangePatterned",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "OrangeTangSuit",
+    "name": "OrangeTangSuit",
+    "displayName": "OrangeTangSuit",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        54.08,
+        229.9,
+        113.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        59.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.9
+      ]
+    }
+  },
+  {
+    "id": "OrangeWhite",
+    "name": "OrangeWhite",
+    "displayName": "OrangeWhite",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.9,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.85
+      ]
+    }
+  },
+  {
+    "id": "Outlaw",
+    "name": "Outlaw",
+    "displayName": "Outlaw",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        46.04,
+        229.9,
+        121.88
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Paddle",
+    "name": "Paddle",
+    "displayName": "Paddle",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        0.0,
+        49.03,
+        249.96,
+        118.9
+      ],
+      "left_punch": [
+        0.0,
+        22.03,
+        249.97,
+        145.9
+      ],
+      "right": [
+        149.03,
+        26.08,
+        106.97,
+        113.9
+      ],
+      "right_punch": [
+        148.08,
+        21.03,
+        107.92,
+        89.9
+      ]
+    }
+  },
+  {
+    "id": "Paint",
+    "name": "Paint",
+    "displayName": "Paint",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.9,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        81.86
+      ]
+    }
+  },
+  {
+    "id": "PalmTreeTrunkCat",
+    "name": "PalmTreeTrunkCat",
+    "displayName": "PalmTreeTrunkCat",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.03,
+        57.08,
+        229.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.87,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.88
+      ]
+    }
+  },
+  {
+    "id": "Panda",
+    "name": "Panda",
+    "displayName": "Panda",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        230.85,
+        113.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.85,
+        150.9
+      ],
+      "right": [
+        161.08,
+        57.08,
+        67.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.87
+      ]
+    }
+  },
+  {
+    "id": "PatternedCalico",
+    "name": "PatternedCalico",
+    "displayName": "PatternedCalico",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "PatternedChristmasScarf",
+    "name": "PatternedChristmasScarf",
+    "displayName": "PatternedChristmasScarf",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        33.03,
+        229.9,
+        134.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        69.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        70.9
+      ]
+    }
+  },
+  {
+    "id": "PawPatternedChristmasSweater",
+    "name": "PawPatternedChristmasSweater",
+    "displayName": "PawPatternedChristmasSweater",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.01,
+        56.03,
+        229.96,
+        111.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        65.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.85
+      ]
+    }
+  },
+  {
+    "id": "Penguin",
+    "name": "Penguin",
+    "displayName": "Penguin",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.12,
+        57.08,
+        229.85,
+        110.85
+      ],
+      "left_punch": [
+        9.08,
+        17.08,
+        240.9,
+        150.85
+      ],
+      "right": [
+        164.03,
+        57.04,
+        56.95,
+        71.93
+      ],
+      "right_punch": [
+        149.08,
+        16.08,
+        96.9,
+        76.83
+      ]
+    }
+  },
+  {
+    "id": "PeppermintSweetTooth",
+    "name": "PeppermintSweetTooth",
+    "displayName": "PeppermintSweetTooth",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        13.07,
+        46.03,
+        236.89,
+        121.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.88,
+        150.85
+      ],
+      "right": [
+        152.05,
+        57.04,
+        78.87,
+        117.88
+      ],
+      "right_punch": [
+        121.08,
+        28.05,
+        123.88,
+        78.88
+      ]
+    }
+  },
+  {
+    "id": "PineappleFusion",
+    "name": "PineappleFusion",
+    "displayName": "PineappleFusion",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        60.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Pinhata",
+    "name": "Pinhata",
+    "displayName": "Pinhata",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.87
+      ]
+    }
+  },
+  {
+    "id": "Pixel",
+    "name": "Pixel",
+    "displayName": "Pixel",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.03,
+        56.03,
+        231.9,
+        112.93
+      ],
+      "left_punch": [
+        6.08,
+        16.08,
+        244.85,
+        152.88
+      ],
+      "right": [
+        155.03,
+        56.06,
+        65.9,
+        76.87
+      ],
+      "right_punch": [
+        146.08,
+        15.03,
+        98.9,
+        73.9
+      ]
+    }
+  },
+  {
+    "id": "PleasedPanda",
+    "name": "PleasedPanda",
+    "displayName": "PleasedPanda",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        160.05,
+        57.04,
+        91.87,
+        125.88
+      ],
+      "right_punch": [
+        114.08,
+        16.08,
+        130.88,
+        107.85
+      ]
+    }
+  },
+  {
+    "id": "Poisoned",
+    "name": "Poisoned",
+    "displayName": "Poisoned",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "PolarBear",
+    "name": "PolarBear",
+    "displayName": "PolarBear",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Porcelain",
+    "name": "Porcelain",
+    "displayName": "Porcelain",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "Poseidon",
+    "name": "Poseidon",
+    "displayName": "Poseidon",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        0.0,
+        33.04,
+        249.97,
+        222.96
+      ],
+      "left_punch": [
+        0.0,
+        19.03,
+        249.97,
+        236.97
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        72.91
+      ],
+      "right_punch": [
+        151.08,
+        16.03,
+        93.88,
+        75.91
+      ]
+    }
+  },
+  {
+    "id": "PufferFish",
+    "name": "PufferFish",
+    "displayName": "PufferFish",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        18.03,
+        57.08,
+        237.97,
+        110.85
+      ],
+      "left_punch": [
+        23.06,
+        46.08,
+        232.94,
+        121.85
+      ],
+      "right": [
+        159.08,
+        69.08,
+        55.85,
+        57.85
+      ],
+      "right_punch": [
+        181.08,
+        32.08,
+        47.9,
+        60.88
+      ]
+    }
+  },
+  {
+    "id": "RainBoots",
+    "name": "RainBoots",
+    "displayName": "RainBoots",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        8.08,
+        52.05,
+        241.9,
+        115.87
+      ],
+      "left_punch": [
+        0.0,
+        10.04,
+        249.97,
+        157.89
+      ],
+      "right": [
+        154.08,
+        50.08,
+        67.9,
+        102.87
+      ],
+      "right_punch": [
+        134.03,
+        9.03,
+        110.93,
+        86.95
+      ]
+    }
+  },
+  {
+    "id": "Rainbow",
+    "name": "Rainbow",
+    "displayName": "Rainbow",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        231.9,
+        113.9
+      ],
+      "left_punch": [
+        6.08,
+        16.05,
+        244.9,
+        151.92
+      ],
+      "right": [
+        161.08,
+        57.08,
+        76.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        87.85
+      ]
+    }
+  },
+  {
+    "id": "RangedMechaL.A.S.E.R.",
+    "name": "RangedMechaL.A.S.E.R.",
+    "displayName": "RangedMechaL.A.S.E.R.",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "RedFanLady",
+    "name": "RedFanLady",
+    "displayName": "RedFanLady",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.03,
+        57.04,
+        86.9,
+        113.93
+      ],
+      "right_punch": [
+        103.03,
+        0.0,
+        141.93,
+        128.97
+      ]
+    }
+  },
+  {
+    "id": "RedHanfu",
+    "name": "RedHanfu",
+    "displayName": "RedHanfu",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        39.03,
+        229.9,
+        128.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        37.04,
+        59.85,
+        91.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "RedNosedReindeer",
+    "name": "RedNosedReindeer",
+    "displayName": "RedNosedReindeer",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        16.08,
+        42.05,
+        233.9,
+        125.87
+      ],
+      "left_punch": [
+        2.08,
+        13.08,
+        247.9,
+        154.85
+      ],
+      "right": [
+        158.08,
+        57.03,
+        61.85,
+        83.95
+      ],
+      "right_punch": [
+        144.08,
+        12.08,
+        98.85,
+        80.82
+      ]
+    }
+  },
+  {
+    "id": "RedPanda",
+    "name": "RedPanda",
+    "displayName": "RedPanda",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.08,
+        54.08,
+        236.85,
+        142.9
+      ],
+      "left_punch": [
+        6.03,
+        16.08,
+        249.9,
+        180.9
+      ],
+      "right": [
+        161.08,
+        57.08,
+        60.85,
+        71.85
+      ],
+      "right_punch": [
+        146.08,
+        14.08,
+        100.85,
+        82.85
+      ]
+    }
+  },
+  {
+    "id": "RedPlaidFlannel",
+    "name": "RedPlaidFlannel",
+    "displayName": "RedPlaidFlannel",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        56.01,
+        229.9,
+        111.91
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        61.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "RedScarf",
+    "name": "RedScarf",
+    "displayName": "RedScarf",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        48.08,
+        235.92,
+        130.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        161.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        69.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        70.9
+      ]
+    }
+  },
+  {
+    "id": "RedTangSuit",
+    "name": "RedTangSuit",
+    "displayName": "RedTangSuit",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        54.08,
+        229.9,
+        113.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        59.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.9
+      ]
+    }
+  },
+  {
+    "id": "RibbonDancer",
+    "name": "RibbonDancer",
+    "displayName": "RibbonDancer",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        0.0,
+        30.01,
+        256.0,
+        172.91
+      ],
+      "left_punch": [
+        0.0,
+        17.08,
+        256.0,
+        185.85
+      ],
+      "right": [
+        162.08,
+        26.08,
+        93.92,
+        102.85
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        108.92,
+        106.88
+      ]
+    }
+  },
+  {
+    "id": "Robot",
+    "name": "Robot",
+    "displayName": "Robot",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        19.08,
+        56.08,
+        231.85,
+        112.85
+      ],
+      "left_punch": [
+        6.08,
+        16.08,
+        244.85,
+        152.85
+      ],
+      "right": [
+        161.05,
+        57.08,
+        60.92,
+        71.88
+      ],
+      "right_punch": [
+        146.04,
+        15.08,
+        101.88,
+        76.85
+      ]
+    }
+  },
+  {
+    "id": "SakuraLuckyCat",
+    "name": "SakuraLuckyCat",
+    "displayName": "SakuraLuckyCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        41.08,
+        229.9,
+        126.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Sand",
+    "name": "Sand",
+    "displayName": "Sand",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Santa",
+    "name": "Santa",
+    "displayName": "Santa",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        37.08,
+        229.9,
+        130.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        62.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        78.87
+      ]
+    }
+  },
+  {
+    "id": "SantasHelperBingle",
+    "name": "SantasHelperBingle",
+    "displayName": "SantasHelperBingle",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        17.08,
+        35.03,
+        232.9,
+        132.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        160.08,
+        57.04,
+        63.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.83
+      ]
+    }
+  },
+  {
+    "id": "SantasHelperBongle",
+    "name": "SantasHelperBongle",
+    "displayName": "SantasHelperBongle",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        17.08,
+        43.01,
+        232.9,
+        124.92
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        160.08,
+        57.04,
+        63.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.83
+      ]
+    }
+  },
+  {
+    "id": "SchemingLuckyCat",
+    "name": "SchemingLuckyCat",
+    "displayName": "SchemingLuckyCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        41.08,
+        229.9,
+        126.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "SeaPurrtle",
+    "name": "SeaPurrtle",
+    "displayName": "SeaPurrtle",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        4.04,
+        50.03,
+        251.96,
+        117.9
+      ],
+      "left_punch": [
+        0.0,
+        29.08,
+        256.0,
+        138.85
+      ],
+      "right": [
+        171.08,
+        37.05,
+        47.85,
+        83.92
+      ],
+      "right_punch": [
+        174.05,
+        15.03,
+        81.95,
+        76.82
+      ]
+    }
+  },
+  {
+    "id": "Shark",
+    "name": "Shark",
+    "displayName": "Shark",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        22.08,
+        57.08,
+        227.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        165.05,
+        57.04,
+        54.87,
+        70.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        79.85
+      ]
+    }
+  },
+  {
+    "id": "ShibaInu",
+    "name": "ShibaInu",
+    "displayName": "ShibaInu",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        79.9
+      ]
+    }
+  },
+  {
+    "id": "Skeleton",
+    "name": "Skeleton",
+    "displayName": "Skeleton",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        21.03,
+        54.08,
+        231.9,
+        113.85
+      ],
+      "left_punch": [
+        25.08,
+        30.04,
+        227.85,
+        137.88
+      ],
+      "right": [
+        163.03,
+        56.08,
+        66.95,
+        70.9
+      ],
+      "right_punch": [
+        161.08,
+        28.04,
+        71.85,
+        53.91
+      ]
+    }
+  },
+  {
+    "id": "Sketch",
+    "name": "Sketch",
+    "displayName": "Sketch",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "SnowFox",
+    "name": "SnowFox",
+    "displayName": "SnowFox",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        192.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        232.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "SnowMittens",
+    "name": "SnowMittens",
+    "displayName": "SnowMittens",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        15.08,
+        33.03,
+        240.92,
+        134.9
+      ],
+      "left_punch": [
+        7.08,
+        15.08,
+        248.92,
+        152.85
+      ],
+      "right": [
+        152.08,
+        43.03,
+        68.85,
+        88.96
+      ],
+      "right_punch": [
+        0.0,
+        0.0,
+        244.96,
+        107.92
+      ]
+    }
+  },
+  {
+    "id": "Snowman",
+    "name": "Snowman",
+    "displayName": "Snowman",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        0.0,
+        57.08,
+        249.97,
+        110.85
+      ],
+      "left_punch": [
+        0.0,
+        19.08,
+        249.96,
+        148.85
+      ],
+      "right": [
+        153.08,
+        58.08,
+        70.9,
+        75.85
+      ],
+      "right_punch": [
+        153.08,
+        14.08,
+        70.9,
+        65.85
+      ]
+    }
+  },
+  {
+    "id": "Soul",
+    "name": "Soul",
+    "displayName": "Soul",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        60.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        77.9
+      ]
+    }
+  },
+  {
+    "id": "SpecialRedHorse",
+    "name": "SpecialRedHorse",
+    "displayName": "SpecialRedHorse",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Sphynx",
+    "name": "Sphynx",
+    "displayName": "Sphynx",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        16.03,
+        57.08,
+        233.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        159.05,
+        57.04,
+        60.87,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        76.87
+      ]
+    }
+  },
+  {
+    "id": "SternRacoon",
+    "name": "SternRacoon",
+    "displayName": "SternRacoon",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        56.08,
+        235.92,
+        184.85
+      ],
+      "left_punch": [
+        7.08,
+        16.08,
+        248.92,
+        224.85
+      ],
+      "right": [
+        161.08,
+        57.04,
+        59.85,
+        73.88
+      ],
+      "right_punch": [
+        147.08,
+        14.08,
+        92.9,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "StrawberryFusion",
+    "name": "StrawberryFusion",
+    "displayName": "StrawberryFusion",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "StripedDawn",
+    "name": "StripedDawn",
+    "displayName": "StripedDawn",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "StripedDusk",
+    "name": "StripedDusk",
+    "displayName": "StripedDusk",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "StuntboostCat",
+    "name": "StuntboostCat",
+    "displayName": "StuntboostCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        6.03,
+        57.08,
+        243.95,
+        110.85
+      ],
+      "left_punch": [
+        1.03,
+        9.03,
+        248.95,
+        158.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Stunted",
+    "name": "Stunted",
+    "displayName": "Stunted",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "SunGlow",
+    "name": "SunGlow",
+    "displayName": "SunGlow",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        0.08,
+        13.08,
+        255.92,
+        190.85
+      ],
+      "left_punch": [
+        0.08,
+        4.08,
+        255.92,
+        199.85
+      ],
+      "right": [
+        142.08,
+        32.03,
+        84.89,
+        120.9
+      ],
+      "right_punch": [
+        139.01,
+        0.0,
+        110.96,
+        103.95
+      ]
+    }
+  },
+  {
+    "id": "Sunburned",
+    "name": "Sunburned",
+    "displayName": "Sunburned",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Sweaty",
+    "name": "Sweaty",
+    "displayName": "Sweaty",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "TahitianHipHei",
+    "name": "TahitianHipHei",
+    "displayName": "TahitianHipHei",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        31.08,
+        235.92,
+        136.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.94
+      ],
+      "right_punch": [
+        170.03,
+        35.08,
+        63.85,
+        57.9
+      ]
+    }
+  },
+  {
+    "id": "TankMechaB.O.N.K.",
+    "name": "TankMechaB.O.N.K.",
+    "displayName": "TankMechaB.O.N.K.",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        2.03,
+        13.03,
+        247.95,
+        154.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        141.08,
+        7.08,
+        103.88,
+        84.86
+      ]
+    }
+  },
+  {
+    "id": "TapTapBunny",
+    "name": "TapTapBunny",
+    "displayName": "TapTapBunny",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        93.92,
+        190.95
+      ],
+      "right_punch": [
+        15.08,
+        10.05,
+        229.88,
+        208.87
+      ]
+    }
+  },
+  {
+    "id": "TapTapGooCat",
+    "name": "TapTapGooCat",
+    "displayName": "TapTapGooCat",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        151.9
+      ],
+      "left_punch": [
+        6.08,
+        27.08,
+        249.92,
+        181.9
+      ],
+      "right": [
+        162.08,
+        55.03,
+        58.85,
+        73.95
+      ],
+      "right_punch": [
+        151.03,
+        13.04,
+        93.93,
+        78.9
+      ]
+    }
+  },
+  {
+    "id": "TapTapGreyCalico",
+    "name": "TapTapGreyCalico",
+    "displayName": "TapTapGreyCalico",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        151.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        191.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.87
+      ]
+    }
+  },
+  {
+    "id": "TapTapOrangeCalico",
+    "name": "TapTapOrangeCalico",
+    "displayName": "TapTapOrangeCalico",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        151.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        191.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "TapTapTabby",
+    "name": "TapTapTabby",
+    "displayName": "TapTapTabby",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        235.92,
+        151.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        248.92,
+        191.9
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.87
+      ]
+    }
+  },
+  {
+    "id": "TorchBearer",
+    "name": "TorchBearer",
+    "displayName": "TorchBearer",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        70.88,
+        147.94
+      ],
+      "right_punch": [
+        126.08,
+        31.03,
+        118.88,
+        111.9
+      ]
+    }
+  },
+  {
+    "id": "ToyLocomotive",
+    "name": "ToyLocomotive",
+    "displayName": "ToyLocomotive",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        33.08,
+        229.9,
+        134.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        120.08,
+        46.08,
+        135.92,
+        121.9
+      ],
+      "right_punch": [
+        105.05,
+        4.04,
+        150.95,
+        102.93
+      ]
+    }
+  },
+  {
+    "id": "Turnbound",
+    "name": "Turnbound",
+    "displayName": "Turnbound",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        50.08,
+        229.9,
+        117.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Tuxedo",
+    "name": "Tuxedo",
+    "displayName": "Tuxedo",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Twisted",
+    "name": "Twisted",
+    "displayName": "Twisted",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "TypingFarmerCow",
+    "name": "TypingFarmerCow",
+    "displayName": "TypingFarmerCow",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "TypingFarmerPig",
+    "name": "TypingFarmerPig",
+    "displayName": "TypingFarmerPig",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        25.03,
+        57.08,
+        224.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.05,
+        57.04,
+        53.88,
+        67.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "Void",
+    "name": "Void",
+    "displayName": "Void",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "WaterBender",
+    "name": "WaterBender",
+    "displayName": "WaterBender",
+    "rarity": "rare",
+    "qualityColor": "#258ED4",
+    "frames": {
+      "left": [
+        0.0,
+        57.08,
+        249.97,
+        137.88
+      ],
+      "left_punch": [
+        0.0,
+        13.05,
+        249.97,
+        154.87
+      ],
+      "right": [
+        135.08,
+        57.04,
+        85.85,
+        132.93
+      ],
+      "right_punch": [
+        126.08,
+        10.08,
+        118.88,
+        136.85
+      ]
+    }
+  },
+  {
+    "id": "WaterCat",
+    "name": "WaterCat",
+    "displayName": "WaterCat",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "WatermelonFusion",
+    "name": "WatermelonFusion",
+    "displayName": "WatermelonFusion",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "WetSuit",
+    "name": "WetSuit",
+    "displayName": "WetSuit",
+    "rarity": "uncommon",
+    "qualityColor": "#5ACC3D",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.85
+      ]
+    }
+  },
+  {
+    "id": "WhaleShark",
+    "name": "WhaleShark",
+    "displayName": "WhaleShark",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        16.05,
+        57.08,
+        233.92,
+        151.9
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        191.9
+      ],
+      "right": [
+        165.05,
+        57.04,
+        54.87,
+        70.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        79.85
+      ]
+    }
+  },
+  {
+    "id": "WhiteHorse",
+    "name": "WhiteHorse",
+    "displayName": "WhiteHorse",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        19.03,
+        57.08,
+        230.95,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "WisdomDrummer",
+    "name": "WisdomDrummer",
+    "displayName": "WisdomDrummer",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        150.05,
+        57.04,
+        104.92,
+        128.88
+      ],
+      "right_punch": [
+        112.08,
+        16.08,
+        132.88,
+        105.9
+      ]
+    }
+  },
+  {
+    "id": "WrestlerCutiePunch",
+    "name": "WrestlerCutiePunch",
+    "displayName": "WrestlerCutiePunch",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.05,
+        75.87,
+        71.87
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "WrestlerRibbitRampage",
+    "name": "WrestlerRibbitRampage",
+    "displayName": "WrestlerRibbitRampage",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.03,
+        61.85,
+        71.9
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "WrestlerSixSevenLives",
+    "name": "WrestlerSixSevenLives",
+    "displayName": "WrestlerSixSevenLives",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        61.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "Yang",
+    "name": "Yang",
+    "displayName": "Yang",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        0.08,
+        21.08,
+        249.9,
+        146.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        146.08,
+        16.08,
+        98.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "YellowHawaiianShirt",
+    "name": "YellowHawaiianShirt",
+    "displayName": "YellowHawaiianShirt",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        60.85,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        77.85
+      ]
+    }
+  },
+  {
+    "id": "YellowStripedScarf",
+    "name": "YellowStripedScarf",
+    "displayName": "YellowStripedScarf",
+    "rarity": "common",
+    "qualityColor": "#B0B0B0",
+    "frames": {
+      "left": [
+        20.08,
+        35.08,
+        229.9,
+        132.85
+      ],
+      "left_punch": [
+        7.08,
+        17.08,
+        242.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        69.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        97.88,
+        70.9
+      ]
+    }
+  },
+  {
+    "id": "Yin",
+    "name": "Yin",
+    "displayName": "Yin",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        57.08,
+        229.9,
+        110.85
+      ],
+      "left_punch": [
+        5.05,
+        19.08,
+        244.92,
+        148.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        152.08,
+        16.08,
+        92.88,
+        75.86
+      ]
+    }
+  },
+  {
+    "id": "YukiOnna",
+    "name": "YukiOnna",
+    "displayName": "YukiOnna",
+    "rarity": "epic",
+    "qualityColor": "#B939DB",
+    "frames": {
+      "left": [
+        20.08,
+        35.04,
+        229.88,
+        132.89
+      ],
+      "left_punch": [
+        8.08,
+        17.08,
+        241.9,
+        150.85
+      ],
+      "right": [
+        162.08,
+        34.04,
+        70.85,
+        94.89
+      ],
+      "right_punch": [
+        149.08,
+        11.08,
+        95.88,
+        81.9
+      ]
+    }
+  },
+  {
+    "id": "Zeus",
+    "name": "Zeus",
+    "displayName": "Zeus",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        20.08,
+        32.03,
+        229.9,
+        135.9
+      ],
+      "left_punch": [
+        1.08,
+        7.08,
+        248.9,
+        160.85
+      ],
+      "right": [
+        162.08,
+        57.04,
+        58.85,
+        71.93
+      ],
+      "right_punch": [
+        141.08,
+        4.08,
+        103.88,
+        87.86
+      ]
+    }
+  },
+  {
+    "id": "Zombie",
+    "name": "Zombie",
+    "displayName": "Zombie",
+    "rarity": "legendary",
+    "qualityColor": "#FFB000",
+    "frames": {
+      "left": [
+        5.08,
+        42.04,
+        250.92,
+        125.88
+      ],
+      "left_punch": [
+        5.08,
+        17.08,
+        250.92,
+        150.85
+      ],
+      "right": [
+        166.03,
+        57.04,
+        54.9,
+        71.88
+      ],
+      "right_punch": [
+        147.08,
+        16.08,
+        92.88,
+        78.88
+      ]
+    }
+  }
+]

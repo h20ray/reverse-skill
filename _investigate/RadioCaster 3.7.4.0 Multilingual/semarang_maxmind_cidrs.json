@@ -1,0 +1,2263 @@
+[
+  {
+    "network": "36.72.240.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.73.128.0/19",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.73.176.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.80.112.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.80.116.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.80.120.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.80.240.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.114/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.116/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.118/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.122/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.130/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.140/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.142/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.144/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.146/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.154/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.156/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.174/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.178/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.204/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.206/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.212/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.234/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.65.236/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.85.6/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.85.24/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.85.142/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.85.148/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.89.85.194/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.39.30/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.39.172/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.39.208/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.39.226/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.77.34/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.133.244/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.165.34/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.165.134/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.194.48/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.91.194.74/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.92.106.126/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.92.156.206/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.92.156.208/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.92.156.252/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "36.92.197.108/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "49.156.22.136/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9856",
+    "longitude": "110.4023"
+  },
+  {
+    "network": "103.70.122.120/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2242",
+    "longitude": "110.3056"
+  },
+  {
+    "network": "103.78.74.178/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.97.224.92/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.0/25",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.128/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.192/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.197/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.198/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.200/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.208/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.136.224/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.0/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.8/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.13/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.14/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.17/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.18/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.20/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.25/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.26/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.28/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.32/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.35/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.36/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.44/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.47/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.48/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.56/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.64/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.67/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.68/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.72/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.80/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.82/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.84/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.88/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.96/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.100/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.102/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.104/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.112/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.128/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.131/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.132/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.136/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.144/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.160/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.168/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.170/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.172/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.176/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.192/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.224/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.240/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.248/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.251/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.137.252/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.0/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.16/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.24/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.27/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.28/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.32/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.48/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.56/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.60/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.62/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.64/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.68/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.70/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.72/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.80/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.96/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.120/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.128/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.168/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.176/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.192/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.208/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.216/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.218/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.220/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.222/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.224/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.232/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.238/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.138.240/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.0/25",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.128/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.192/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.208/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.216/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.220/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.124.139.224/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.131.18.105/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.135.0.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.141.245.59/32",
+    "geoname_id": "6260118",
+    "city": "Semarang (Yogyakarta)",
+    "latitude": "-7.7405",
+    "longitude": "110.2427"
+  },
+  {
+    "network": "103.153.149.0/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.1220",
+    "longitude": "110.4587"
+  },
+  {
+    "network": "103.153.149.96/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.1220",
+    "longitude": "110.4587"
+  },
+  {
+    "network": "103.155.190.77/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2769",
+    "longitude": "110.5044"
+  },
+  {
+    "network": "103.155.191.77/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.166.33.2/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.170.24.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.173.139.0/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.64/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.80/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.88/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.91/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.92/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.96/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.173.139.128/25",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.199.117.64/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9824",
+    "longitude": "110.2136"
+  },
+  {
+    "network": "103.199.117.128/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9824",
+    "longitude": "110.2136"
+  },
+  {
+    "network": "103.199.117.160/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "103.199.117.176/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9824",
+    "longitude": "110.2136"
+  },
+  {
+    "network": "103.199.117.224/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9824",
+    "longitude": "110.2136"
+  },
+  {
+    "network": "103.226.48.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.0/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.64/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.96/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.100/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.101/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.102/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.104/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.112/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "103.252.188.128/25",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.28.62/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.43.191/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.43.192/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.67.67/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.67.68/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.70.67/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.70.68/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.118.61/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.118.62/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.121.61/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.121.62/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.187.186/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.187.188/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.187.192/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.219.241/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.219.242/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.219.244/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.251.241/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.251.242/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "104.28.251.244/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "110.138.144.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.78.32.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.122.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.128.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.132.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.133.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.134.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.140.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.145.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.160.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.165.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.167.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.168.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "112.215.223.48/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "113.11.183.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.0.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.4.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.5.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.6.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.7.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.8.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.9.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.10.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.11.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.13.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.15.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "114.10.17.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.19.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.21.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.23.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.39.88/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.44.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.122.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.124.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.10.126.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "114.79.47.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "116.254.112.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.0203",
+    "longitude": "110.3729"
+  },
+  {
+    "network": "118.98.104.234/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "119.82.240.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.161.36.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.161.40.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.163.220.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.166.130.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.166.132.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.166.136.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "125.166.148.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "139.0.96.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "139.0.112.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "139.0.144.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.139.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.141.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.161.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.163.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.165.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.167.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.169.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.173.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "140.213.175.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "144.79.228.0/25",
+    "geoname_id": "6410701",
+    "city": "Semarang Regency (Central Java)",
+    "latitude": "-7.4186",
+    "longitude": "110.5289"
+  },
+  {
+    "network": "144.79.228.128/26",
+    "geoname_id": "6410701",
+    "city": "Semarang Regency (Central Java)",
+    "latitude": "-7.4186",
+    "longitude": "110.5289"
+  },
+  {
+    "network": "144.79.228.208/28",
+    "geoname_id": "6410701",
+    "city": "Semarang Regency (Central Java)",
+    "latitude": "-7.4186",
+    "longitude": "110.5289"
+  },
+  {
+    "network": "144.79.228.224/27",
+    "geoname_id": "6410701",
+    "city": "Semarang Regency (Central Java)",
+    "latitude": "-7.4186",
+    "longitude": "110.5289"
+  },
+  {
+    "network": "147.139.174.219/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "149.113.96.0/19",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "157.10.8.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9971",
+    "longitude": "110.4207"
+  },
+  {
+    "network": "157.20.233.154/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "157.20.253.16/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "158.140.166.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "158.140.170.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9971",
+    "longitude": "110.4207"
+  },
+  {
+    "network": "158.140.186.76/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "160.19.18.0/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "160.19.88.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "162.4.218.9/32",
+    "geoname_id": "6410701",
+    "city": "Semarang Regency (Central Java)",
+    "latitude": "-7.3426",
+    "longitude": "110.5660"
+  },
+  {
+    "network": "175.103.60.32/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.64.0/21",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.72.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.76.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.0623",
+    "longitude": "110.4058"
+  },
+  {
+    "network": "180.246.78.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.80.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.84.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.88.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.246.92.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.247.224.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.250.13.42/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.3036",
+    "longitude": "110.5428"
+  },
+  {
+    "network": "180.254.0.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.254.18.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.254.20.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.254.24.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.254.26.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "180.254.28.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.2.16.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.2.32.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.2.48.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.8.192.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.8.208.0/20",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.96.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.0/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.3/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.4/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.8/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.16/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.48/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.64/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.100.96/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.107.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.109.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.253.139.176/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.253.139.192/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.253.140.0/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.253.140.80/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.253.141.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.253.142.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-6.9932",
+    "longitude": "110.4215"
+  },
+  {
+    "network": "182.255.0.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.0/26",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.64/27",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.96/30",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.100/31",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.102/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.103/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.104/29",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.112/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.1.128/25",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.2.0/23",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "182.255.4.0/22",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "201.3.124.3/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "201.3.231.6/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "201.3.236.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "202.65.123.160/28",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "202.145.14.0/24",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "210.87.74.36/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  },
+  {
+    "network": "210.87.74.37/32",
+    "geoname_id": "1627896",
+    "city": "Semarang (Central Java)",
+    "latitude": "-7.2722",
+    "longitude": "110.4753"
+  }
+]
